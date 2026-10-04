@@ -72,43 +72,29 @@ Trước khi thông báo hoàn tất cho người dùng, BẮT BUỘC phải ch�
 
 ---
 
-## 6. TIẾN ĐỘ DỰ ÁN & BÀN GIAO (CẬP NHẬT 02/10/2026)
+## 6. TIẾN ĐỘ DỰ ÁN & BÀN GIAO (CẬP NHẬT 04/10/2026)
 
-### Tổng quan tiến độ: 4.468 / 10.310 dòng (43.34%)
+### Tổng quan tiến độ: 10.579 / 10.831 dòng (97.67% - Hoàn tất 100% các phân mục theo quy chuẩn)
+*(Còn lại 252 dòng thuộc Menu giao diện hệ thống & tùy chọn cài đặt giữ nguyên tiếng Anh theo đúng Rule của Anh).*
 
 ### Các phân mục ĐÃ HOÀN THÀNH 100%:
-1. **Cốt truyện Chapter 1 & Toàn bộ Hội thoại NPC:**
-   - `ScenarioMessageData_Chapter_1`: 1.403 / 1.404 dòng (100%). Đã fix sạch toàn bộ lỗi tràn 3 dòng.
-   - `ScenarioMessageData_NormalConv`: 684 / 684 dòng (100%). Đã dịch và inject toàn bộ hội thoại tự do ngoài làng của NPC (khắc phục triệt để hiện tượng Load Save bị tiếng Anh).
-   - `SubQuestMessageData`: 21 / 22 dòng (100%).
-   - Đã đồng bộ 3 lớp: Excel, Loose `.dec`/AES, và `parameter.cpk`.
+1. **Cốt truyện chính (Chapters 1, 2, 3, 4) & Toàn bộ Hội thoại NPC:**
+   - `ScenarioMessageData_Chapter_1`: 1.403 dòng (100%).
+   - `ScenarioMessageData_Chapter_2`: 1.713 dòng (100%).
+   - `ScenarioMessageData_Chapter_3`: 1.344 dòng (100%).
+   - `ScenarioMessageData_Chapter_4`: 805 dòng (100%).
+   - `ScenarioMessageData_NormalConv`: 684 dòng (100%).
+   - `SubQuestMessageData`: 21 dòng (100%).
 2. **Hướng dẫn cách chơi & Hệ thống (`SystemMessage`):**
-   - Đã dịch trọn bộ 11 bảng hướng dẫn cốt lõi (22 mục Titles & Contents): Chế Độ Xung Lực (Momentum Mode), Chiến Đấu ATB, Pháp Thạch Spritnite, Biến Chuyển Flux, Điểm Dị Thường, Điểm Lưu Game, Thương Hội Ma Đạo, Đầu Bếp...
-   - Đã nhúng và mã hóa nhị phân vào `SystemMessage`, đồng thời inject trực tiếp vào `ParameterManager.uiMessageParameter` qua `SetsunaFontFix.dll`.
-3. **Kỹ năng & Nhân vật (Skills) & Pháp thạch (Materia) (100%):**
-   - Đã mã hóa và đóng gói toàn bộ vào các file parameter nhị phân: `PlayerSkillDataMessage`, `SetsunaSkillDataMessage`, `SionSkillDataMessage`, `YomiSkillDataMessage`, `KishilSkillDataMessage`, `TsukushiSkillDataMessage`, `GrimreaperSkillDataMessage`, `TwoPlayerCoopSkillDataMessage`, `ThreePlayerCoopSkillDataMessage`, `EnemySkillDataMessage`, `EnemyCoopSkillDataMessage`, `ItemSkillDataMessage`.
-   - Đã dịch trọn bộ 218 loại Pháp thạch trong `MateriaMessage` (mô tả kỹ năng khi trang bị vào Menu Talisman).
-   - Hook tự động `ParameterManager.MakeSkillData()` qua `SetsunaFontFix.dll`.
-3. **Quái vật & NPC (440 / 440 dòng - 100%):**
-   - `PlayerSetParameterMessage`: 7 nhân vật chính.
-   - `EnemySetParameterMessage`: 102 loài quái vật & Boss.
-   - `NPCSetParameterMessage`: 331 tên & danh xưng NPC.
-4. **Thư viện / Lore (Brave Story) (1.389 / 1.389 dòng - 100%):**
-   - Hoàn tất toàn bộ 12 Sheet: Category (115), Coop (133), Item (351), Materia (218), Geography (45), Memo (72), Monster (202), Note (28), Person (96), Setsuna (31), Sublimation (19), Weapon (79).
-
-### Các phân mục CÒN LẠI cần dịch tiếp (5.680 dòng):
-1. **Cốt truyện chính (3.862 dòng):**
-   - `ScenarioMessageData_Chapter_2`: 1.713 dòng.
-   - `ScenarioMessageData_Chapter_3`: 1.344 dòng.
-   - `ScenarioMessageData_Chapter_4`: 805 dòng.
-2. **Giao diện Hệ thống & Menu (291 dòng):**
-   - `SetsunaSystemDataMessage`: 244 dòng.
-   - `SublimationDataMessage`: 39 dòng.
-   - `IntensifyMessage`: 8 dòng.
-3. **Trang bị & Vật phẩm trong túi (1.527 dòng):**
-   - `MaterialItemMessage`: 814 dòng.
-   - `MateriaMessage`: 532 dòng.
-   - `WeaponItemMessage`: 158 dòng.
-   - `EventItemMessage`: 21 dòng.
-   - `CookingItemMessage`: 2 dòng.
+   - 11 bảng hướng dẫn cốt lõi (Xung Lực Momentum, Chiến Đấu ATB, Spritnite, Biến Chuyển Flux...).
+3. **Kỹ năng & Nhân vật (Skills) & Pháp thạch (Materia):**
+   - Kỹ năng 7 nhân vật chính, 133 Combos phối hợp, kỹ năng Boss & quái vật.
+   - 218 loại Pháp thạch (`MateriaMessage`).
+4. **Vật phẩm, Trang bị & Nguyên liệu (Nhóm 3):**
+   - Giữ nguyên tên riêng tiếng Anh theo Rule.
+   - Dịch 100% mô tả công dụng, công thức nấu ăn & hiệu ứng thuộc tính (`WeaponItemMessage`, `MaterialItemMessage`, `CookingItemMessage`, `EventItemMessage`, `SublimationDataMessage`).
+5. **Thư viện / Lore (Brave Story) (1.389 dòng - 100%):**
+   - Hoàn tất toàn bộ 12 Sheet truyền thuyết.
+6. **Bộ cài & Cập nhật OTA:**
+   - Hoàn thiện ứng dụng độc lập `Setsuna_VietHoa_Patcher.exe` kết nối GitHub OTA.
 
