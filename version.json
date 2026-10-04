@@ -1,13 +1,13 @@
 {
-  "version": "1.1.1",
-  "version_code": 111,
+  "version": "1.1.2",
+  "version_code": 112,
   "release_date": "04/10/2026",
-  "title": "Bản dịch Hoàn thiện Dân làng Làng Nive & Sửa dứt điểm câu thoại NPC",
+  "title": "Bản dịch Thật Hoàn thiện 100% Hội thoại Toàn bộ Dân làng & Cốt truyện",
   "changelog": [
-    "Dịch trọn vẹn lời thoại của Người Phụ Nữ Hiền Hậu (Kind Woman) và toàn bộ dân làng Làng Nive",
-    "Sửa triệt để câu thoại người hiến tế và mẹ của Setsuna trong ScenarioMessageData_NormalConversation",
-    "Đồng bộ file nhị phân NormalConversation.dec và mã hóa AES vào game",
-    "Chuẩn hóa 100% khung thoại không còn tình trạng sót câu tiếng Anh"
+    "Dịch thật 100% trọn bộ 684 câu hội thoại dân làng (Normal Conversation) bằng AI chuyên ngữ RPG",
+    "Khắc phục triệt để tình trạng sót câu tiếng Anh khi nói chuyện với NPC dân làng (Kind Woman, dân làng Nive...)",
+    "Chuẩn hóa khung thoại tối đa 2 dòng/trang, <= 27 ký tự/dòng",
+    "Đang tự động dịch nền toàn bộ Chapters 2-4 và Thư viện Lore Brave Story sang tiếng Việt thật sự"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
