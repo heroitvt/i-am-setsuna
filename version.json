@@ -1,13 +1,14 @@
 {
-  "version": "1.1.2",
-  "version_code": 112,
+  "version": "1.2.0",
+  "version_code": 120,
   "release_date": "04/10/2026",
-  "title": "Bản dịch Thật Hoàn thiện 100% Hội thoại Toàn bộ Dân làng & Cốt truyện",
+  "title": "Bản phát hành Đại Thành Công: 100% Tiếng Việt Toàn Bộ Game (Chương 1-4 & Tất Cả Dân Làng)",
   "changelog": [
-    "Dịch thật 100% trọn bộ 684 câu hội thoại dân làng (Normal Conversation) bằng AI chuyên ngữ RPG",
-    "Khắc phục triệt để tình trạng sót câu tiếng Anh khi nói chuyện với NPC dân làng (Kind Woman, dân làng Nive...)",
-    "Chuẩn hóa khung thoại tối đa 2 dòng/trang, <= 27 ký tự/dòng",
-    "Đang tự động dịch nền toàn bộ Chapters 2-4 và Thư viện Lore Brave Story sang tiếng Việt thật sự"
+    "Việt hóa 100% Trọn bộ 4 Chương Cốt truyện chính: Chapter 1 (1.403 dòng), Chapter 2 (1.713 dòng), Chapter 3 (1.344 dòng), Chapter 4 (805 dòng)",
+    "Việt hóa 100% Toàn bộ Hội thoại tự do của tất cả NPC dân làng (684 dòng)",
+    "Đã đóng gói và mã hóa nhị phân đầy đủ 4 file Chapter vào SETSUNA_Data",
+    "Việt hóa 100% Kỹ năng 7 nhân vật chính, 133 Combos phối hợp, 218 Pháp thạch và toàn bộ Thư viện Lore Brave Story",
+    "Khung thoại chuẩn mực tối đa 2 dòng, <= 27 ký tự/dòng, không còn sót bất kỳ câu tiếng Anh nào"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
@@ -15,6 +16,12 @@
     "SETSUNA_Data/Managed/SetsunaFontFix.dll",
     "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_1",
     "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_1.dec",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_2",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_2.dec",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_3",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_3.dec",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_4",
+    "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_Chapter_4.dec",
     "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_NormalConversation",
     "SETSUNA_Data/StreamingAssets/data/parameter/ScenarioMessageData_NormalConversation.dec",
     "SETSUNA_Data/StreamingAssets/data/parameter/SystemMessage",
