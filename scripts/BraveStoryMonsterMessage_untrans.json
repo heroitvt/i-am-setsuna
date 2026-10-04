@@ -1,0 +1,658 @@
+[
+  {
+    "row": 44,
+    "en": "Aurorean Tiger"
+  },
+  {
+    "row": 45,
+    "en": "A brutal beast that inhabits the depths of the Fridging Caves. Its phenomenal magical energy was the cause of the spatial distortions seen across the land. These distortions were in fact not only spatial, and time itself was also distorted in the area surrounding the monster. This is why it was able to cast elemental magic in such a short time, and unleash multiple attacks in the space of a mere instant."
+  },
+  {
+    "row": 46,
+    "en": "Stout Sheep"
+  },
+  {
+    "row": 47,
+    "en": "The huge beast that attacked the village of Royburg. It is among the largest of all monsters. (N.B.: The attack on Royburg had no real purpose, and was due to the creature waking up in a \"bad mood.\") As can be seen from its \"Angry Stamp\" and \"Ferocious Charge,\" its huge frame means it can cause significant damage simply by rampaging wildly. It also possesses extraordinary stamina, and recovers swiftly from injuries. For a monster it is bizarrely fashion-conscious, as seen by the chain wrapped around its left arm."
+  },
+  {
+    "row": 48,
+    "en": "Waloompa"
+  },
+  {
+    "row": 49,
+    "en": "A rotund beast that has built up its blubber reserves to the point of obesity. It moves incredibly slowly, but is also incredibly powerful! One example of this power can be seen in its \"Super Slap.\" Although in principle no different from the attacks used by Pengies and the like, the creature's strength, combined with its immense weight, creates a knockout blow. Similarly, it can use a simple jump to generate a \"Tremor\" that causes damage to all foes. Will drop \"Iron Snowsand\" if defeated with Exact Kill."
+  },
+  {
+    "row": 50,
+    "en": "Baloompa"
+  },
+  {
+    "row": 51,
+    "en": "An adult Waloompa. Its magnificent horn signifies its dominance over the herd, and when broken, it is time for a new leader to assert its dominance. During combat, the creature will occasionally let out a spontaneous \"Roar,\" which can prove somewhat troublesome. Although it in fact does this in order to fire itself up, the sheer loudness of its cry can inflict Stun on humans who are present. Will drop a \"Broken Pocketwatch\" if defeated with a light-elemental attack."
+  },
+  {
+    "row": 52,
+    "en": "Galoompa"
+  },
+  {
+    "row": 53,
+    "en": "An elderly Waloompa. Feeling its own strength waning, it has handed over leadership of the herd to a younger Baloompa. It is still a fearsome beast, however, and makes up what it lacks in sheer power with combat prowess forged through years of experience. The creature knows how to use its own body to best effect, and when necessary will use \"Counterslap,\" a fiercer version of \"Super Slap,\" and \"Earthquake,\" a more powerful \"Tremor.\" Will sometimes drop \"Tough Outer Skin.\""
+  },
+  {
+    "row": 54,
+    "en": "Skullian"
+  },
+  {
+    "row": 55,
+    "en": "A monster with outstanding defense ability, thanks to the spiral shell, formed from its hardened body fluids, that it carries on its back. Its name comes from this shell's pattern, which resembles a human skull. It is advisable to swiftly defeat the creature before it can use \"Shell Shield\" to retreat into its shell and further strengthen its defenses. Caution must also be paid to its \"Shell Boomerang\" attack, in which it uses its hardened shell as a throwing weapon. Will drop an \"Unknown Bone\" if defeated with Exact Kill."
+  },
+  {
+    "row": 56,
+    "en": "Spikoon"
+  },
+  {
+    "row": 57,
+    "en": "A subspecies of the Skullian. While the shell of the Skullian is mainly composed of calcium, the main component in the shell of the Spikoon is metal, and it thus provides an even more outstandingly secure defense against attackers. The creature is also extremely aggressive, and once it uses \"Accumulate Power\" to hide in its shell and meditate, increasing its own attack power, may become unmanageable. It is wise to defeat it before it has a chance to do so. Will drop \"Iron Ore\" if defeated with Over Kill."
+  },
+  {
+    "row": 58,
+    "en": "Armonite"
+  },
+  {
+    "row": 59,
+    "en": "A form of mutated Skullian. In contrast to the upward spiral of the Skullian's shell, the Armonite carries a coiled shell that hangs behind it. It excels at both attack and defense, and can use both \"Accumulate Power\" to increase its attack, and \"Shell Shield\" to increase its defense. It can also use \"Tackle\" to charge towards foes using its coiled shell like a wheel. This attack is extremely powerful, and is to be avoided at all costs! Will drop an \"Old Crested Shield\" if defeated while afflicted with a status ailment."
+  },
+  {
+    "row": 60,
+    "en": "Poison Puff-Puff"
+  },
+  {
+    "row": 61,
+    "en": "A bloated monster that generates and stores poisonous gases inside its body. Take care when approaching the creature, as it may use \"Poisonous Breath\" to release Sap-inflicting toxic gases. However, it is its \"Self-Destruct\" attack that requires the most caution. The creature will ignite the gases inside its body, thus triggering a huge explosion. This is to be avoided at all costs! Will drop \"Punctured Sheet Metal\" if defeated with Exact Kill."
+  },
+  {
+    "row": 62,
+    "en": "Prickly Puff-Puff"
+  },
+  {
+    "row": 63,
+    "en": "A subspecies of the Poison Puff-Puff. The creature is covered in a hard skin from which sharp spikes protrude, and at a glance might not appear to carry toxic gases like its cousin. However, this is not the case, and it does indeed store these same deadly gases inside its body. It is also fully able to use \"Self-Destruct\" to ignite these gases and trigger a huge explosion. This attack is to be avoided at all costs! Will drop a \"Dodgeflower\" if defeated with Over Kill."
+  },
+  {
+    "row": 64,
+    "en": "Fiery Puff-Puff"
+  },
+  {
+    "row": 65,
+    "en": "A localized subspecies of the Poison Puff-Puff that is found mainly in mountainous areas. In place of toxic gases, its body stores flammable ones. These are easily ignited, turning the nearby area into a raging inferno. It constantly craves companionship, and will use \"Roll Over\" to huddle together with its fellow creatures. If it then uses \"Self-Destruct,\" this will trigger \"Chain Reaction\" in the others. If due caution is not exercised, this can easily lead to death! Will sometimes drop a \"Detonation Bag.\""
+  },
+  {
+    "row": 66,
+    "en": "Schwarzstrom"
+  },
+  {
+    "row": 67,
+    "en": "The monster that attacked the Nive-Floneia ferry. It is a huge beast with an elongated neck, covered in jet-black scales, and the length of its body eclipses that of a ferry ship. Its mere movement creates huge waves, and it has sunk many a ship. It seems fully aware of its power, and its attacks appear almost mocking. These include \"Bodyslam,\" directed at the ship, and \"Big Bite,\" directed at its passengers. All attacks had little effect on the creature, and in the end the ferry was sunk by its \"Tidal Wave\" attack."
+  },
+  {
+    "row": 68,
+    "en": "Schwarzstrom (2)"
+  },
+  {
+    "row": 69,
+    "en": "When an investigatory ship was constructed with the aim of suppressing rampaging sea monsters, it was attacked countless times by the very same beast that sunk the Nive-Floneia ferry: the Schwarzstrom. The creature has since grown far more vicious, and defeating it is a truly arduous task. It can use \"Dive\" to submerge itself underwater and completely avoid all attacks. After doing this, it is guaranteed to follow up with its devastating \"Tidal Wave\" attack, so the utmost caution is advised."
+  },
+  {
+    "row": 70,
+    "en": "Primeval Tortoise"
+  },
+  {
+    "row": 71,
+    "en": "An ancient monster that has lain sleeping in the innermost depths of the Frost Caves for hundreds of years. When the sacrifice's guard entered the caves, it was awakened from its long slumber, and attacked them. As a result of its extremely lengthy life span, it has mastered the use of both fire and water magic, two opposing elements, which would usually be impossible. It also possesses a special defensive ability: by using \"Hide in Shell,\" it can virtually nullify all physical damage."
+  },
+  {
+    "row": 72,
+    "en": "White Flapper"
+  },
+  {
+    "row": 73,
+    "en": "A flying creature that beats its huge wings to stay airborne, supporting its fellow monsters from above. Its wing tips extend into skeletal structures akin to those of human fingers, which it uses to make gestures akin to ones used by sorcerers, thus increasing the potency of its magic. If a fellow monster's HP grows low, a White Flapper will use \"Cure\" to heal it. It is thus advisable to dispose of the creature before turning one's attention to other monsters. Will drop a \"Hexagonal Pendant\" if defeated with Exact Kill."
+  },
+  {
+    "row": 74,
+    "en": "Black Flapper"
+  },
+  {
+    "row": 75,
+    "en": "A more powerful relative of the White Flapper. Like its cousin, it uses \"Cure\" to recover the HP of its fellow monsters, and \"Whirlwind\" to attack from a distance. It can also use \"Glide Attack,\" a swooping aerial attack. Its large crest allows it to read air currents, and it uses this ability in order to travel downwind when using \"Glide Attack,\" thus increasing the attack's force significantly. Will drop a \"Crimson Gem\" if defeated with a Momentum mode attack."
+  },
+  {
+    "row": 76,
+    "en": "Rainbow Flapper"
+  },
+  {
+    "row": 77,
+    "en": "The most powerful member of the Flapper species. Rather than flying with the direction of the wind, this mighty creature uses its magical energy to create its own air currents. Its attacks are similarly formidable: \"Healing Feather\" restores the HP of all its fellow monsters, while \"Hurricane\" inflicts a large amount of damage to all its foes. When one encounters a Rainbow Flapper, it is imperative to dispose of it immediately! Will sometimes drop a \"Sparkling Scrap.\""
+  },
+  {
+    "row": 78,
+    "en": "Heroniel"
+  },
+  {
+    "row": 79,
+    "en": "A flying monster that heals and supports its fellow monsters from above, fluttering its huge, pure-white wings to stay aloft. Some theories suggest that it may be a Stone Flapper whose abundant magical energy triggered a transformation, but this is uncertain. The Heroniel uses three types of magic to assist its allies: \"Regen,\" \"Reflect,\" and \"Haste.\" It also participates in combat by shooting its beautiful white feathers at foes in a \"Feather Attack.\" Will drop a \"Shining Seed\" if defeated with a time-elemental attack."
+  },
+  {
+    "row": 80,
+    "en": "Peacockiel"
+  },
+  {
+    "row": 81,
+    "en": "A more powerful relative of the Heroniel. Its rainbow-colored wings have led some to suggest that it is in fact a transformed Rainbow Flapper. While its appearance may suggest divinity, it is most certainly a monster through and through. As well as \"Regen,\" \"Reflect,\" and \"Haste,\" it can use \"Regen II,\" \"Reflect II,\" and \"Haste II\" to grant the same benefits to all of its fellow monsters at once. A meddlesome beast, and one that should be disposed of swiftly! Will drop a \"Silver Chalice\" if defeated while afflicted with a status ailment."
+  },
+  {
+    "row": 82,
+    "en": "Condoriel"
+  },
+  {
+    "row": 83,
+    "en": "The most powerful member of the Heroniel species. It flies using sinister, jet-black wings, leading some to theorize that it is a transformed Black Flapper. It assists its fellow monsters by casting \"Regen II,\" \"Reflect II,\" and \"Haste II\" on all of them in quick succession. The presence of just one Condoriel among a group of monsters can easily double the threat they pose, so be prepared for an arduous battle when encountering one. Will sometimes drop an\n\"Angel's Armor Plate.\""
+  },
+  {
+    "row": 84,
+    "en": "Hoot-Hoot"
+  },
+  {
+    "row": 85,
+    "en": "The Hoot-Hoot is in fact found all across the land, but is seldom spotted because it loathes the eyes of humans. When a human meets its eye, it will use \"Blinding Gaze\" to inflict Stun, then seize its chance to fly swiftly out of view. Will drop a \"Beadbeech Branch\" if defeated with Exact Kill."
+  },
+  {
+    "row": 86,
+    "en": "Toot-Hoot"
+  },
+  {
+    "row": 87,
+    "en": "A subspecies of the Hoot-Hoot. Its brown feathers mean that, unlike its white-feathered cousin, it is unable to camouflage itself against the snow and is easily spotted by humans. In order to compensate for this, it is able to use \"Paralyzing Gaze\" to stall humans for longer than the Hoot-Hoot's \"Blinding Gaze\" can. Will drop a \"Joyflower\" if defeated while afflicted with a status ailment."
+  },
+  {
+    "row": 88,
+    "en": "Woot-Hoot"
+  },
+  {
+    "row": 89,
+    "en": "A subspecies of the Hoot-Hoot. A nocturnal creature, its jet-black feathers are well-suited to moving under cover of darkness. As a result, it is not usually spotted by humans during the nighttime, but conversely is sometimes happened upon by humans while asleep during the daylight hours. Its signature attack is \"Petrifying Gaze,\" which can turn humans who meet its eye to stone. Will drop a \"Happiness Wreath\" if defeated with a combo."
+  },
+  {
+    "row": 90,
+    "en": "Whitewind"
+  },
+  {
+    "row": 91,
+    "en": "The gigantic airborne monster that attacked Nive Village. The creature flies through the stratosphere, swooping down to earth at incredible speed when it gets wind of prey. It is responsible for the destruction of countless villages. It attacks by taking in deep breaths, combusting the inhaled oxygen internally, and then releasing it as \"Burning Breath.\" Furthermore, this attack is used when the oxygen is only partially combusted, and when fully combusted, the creature can unleash the truly fearsome \"Blazing Breath.\""
+  },
+  {
+    "row": 92,
+    "en": "Versa"
+  },
+  {
+    "row": 93,
+    "en": "A monster with the ability to take on human form. As most humans who do battle with monsters (resistance members, soldiers, etc.) tend to be male, it generally assumes the form of a young female. Even in human form, however, its love of cold climates and aversion to warmth is unchanged, and it is not usually seen inside villages - especially not heated buildings. In keeping with its love of the cold, during combat it makes frequent use of \"Ice.\" Will drop an \"Eternity Crystal\" if defeated while afflicted with a status ailment."
+  },
+  {
+    "row": 94,
+    "en": "Vulpara"
+  },
+  {
+    "row": 95,
+    "en": "A more powerful relative of the Versa. Its shapeshifting ability is more advanced, and not only can it imitate the physical characteristics of humans, it can also create clothes and accessories from magical energy. It is adept at the use of water-elemental magic, and as well as \"Ice,\" can also use the more powerful \"Snowdust.\" Its other attacks include \"Slap,\" which mimics the mannerisms of a young human female, and \"Powder Cloud,\" which it uses to seduce human males. Will drop an \"Unknown Fur\" if defeated with a combo."
+  },
+  {
+    "row": 96,
+    "en": "Lupara"
+  },
+  {
+    "row": 97,
+    "en": "The most powerful member of the Versa species. It possesses shapeshifting abilities far beyond those of the Versa and the Vulpara, and is able to perfectly mimic not only the form of a human, but also human smell, mannerisms, and so forth. However, as the creature remains unable to speak the human language, it is uncertain what purpose such a flawless mimicry serves. In combat it uses \"Triple Slap\" and \"Freezing Gaze,\" which turns humans who meet its eye to ice. Will sometimes drop a \"Snow Fairy's Feather Robe.\""
+  },
+  {
+    "row": 98,
+    "en": "Shroomback"
+  },
+  {
+    "row": 99,
+    "en": "An extraordinarily unclean monster. Due to its extreme filth and griminess, moss and mold cover its entire body, and mushrooms can even be seen growing from its fur. It is not a very aggressive creature, and when coming across humans, will merely want to play with them. However, what seems like play to a Shroomback can easily prove fatal to a human. The creature's breath is also particularly foul-smelling, and humans that fall victim to its \"Bad Breath\" will be inflicted with Stun. Will drop \"Thick Ivy\" if defeated with Over Kill."
+  },
+  {
+    "row": 100,
+    "en": "Mountain Shroomback"
+  },
+  {
+    "row": 101,
+    "en": "A localized subspecies of the Shroomback. It is essentially the same creature, but the differences in habitat cause it to grow distinct varieties of mold, moss, and fungi, and it is treated as a separate species. It loves eating the stingshrooms that grow on its body, and can use \"Munch Mushroom\" to restore its HP. Its breath smells even fouler than its cousin's, and anyone struck by its \"Very Bad Breath\" has a high chance of being inflicted with Paralysis. Will drop a \"Sweet Banana Seed\" if defeated while afflicted with a status ailment."
+  },
+  {
+    "row": 102,
+    "en": "Cave Shroomback"
+  },
+  {
+    "row": 103,
+    "en": "A localized subspecies of the Shroomback. Its habitat differs from those of its cousins, and it favors dark, damp places. The main reason for this is its love of the lostshrooms that are easily propagated in such areas. It grows these mushrooms on its own body, and uses \"Munch Mushroom\" to snack on them and restore its HP. Its breath is as noxious as that of its cousins, and anyone hit by its \"Really Bad Breath\" has a high chance of being inflicted with Confusion. Will sometimes drop \"Fungal Fur.\""
+  },
+  {
+    "row": 104,
+    "en": "Wolf Baron"
+  },
+  {
+    "row": 105,
+    "en": "Lord Avalo's henchman; the monster that attacked the sacrifice's guard onboard the airship. It moves at lightning speed to disrupt its foes, waiting to catch them off guard. When it does, it swiftly attacks with \"Deadly Claw,\" using its sharpened claws, and \"Deadly Bite,\" using its bone-crunching fangs. When it deems its foe powerful enough to warrant doing so, it will reveal its true form, emitting a golden light. When in this form it attacks using the fierce \"Golden Claw,\" \"Golden Fang,\" and \"Golden Wind.\""
+  },
+  {
+    "row": 106,
+    "en": "Snecter"
+  },
+  {
+    "row": 107,
+    "en": "A beast with a body of which 99.9% is made up of organs for predation and digestion. It has a voracious appetite, and dedicates over 23 hours of each day to eating. The creature is omnivorous - it will literally eat anything. As well as plants, humans, and other monsters, it has even been seen preying on other Snecters. After using \"Feed,\" it can use a very powerful breath attack known as \"Soul Breath.\" Once used, it cannot use this attack until it uses \"Feed\" again. Will drop a \"Four-Leaf Shamrock\" if defeated with Exact Kill."
+  },
+  {
+    "row": 108,
+    "en": "Boa Tigris"
+  },
+  {
+    "row": 109,
+    "en": "A subspecies of the Snecter. While the Snecter will attack using the Paralysis-inducing \"Burning Bite\" and the fire-elemental \"Burning Breath,\" the Boa Tigris will use the Freeze-inducing \"Frosty Bite\" and the water-elemental \"Frosty Breath.\" The creature will still use \"Feed\" followed by \"Soul Breath\" in the same way as its cousin, so caution is definitely advised! Will drop a \"Deep Green Gem\" if defeated with a Momentum mode attack."
+  },
+  {
+    "row": 110,
+    "en": "Hellviper"
+  },
+  {
+    "row": 111,
+    "en": "A cross between a Snecter and a Boa Tigris. It possesses the characteristics of both parents, and is a shrewd beast that is able to attack using two types of bite and breath attacks. Furthermore, it will of course also use \"Feed\" followed by \"Soul Breath,\" making it a truly formidable creature. Will sometimes drop a \"Glistening Scale.\""
+  },
+  {
+    "row": 112,
+    "en": "Dinotaurus"
+  },
+  {
+    "row": 113,
+    "en": "An unidentified creature that at some point mysteriously appeared in this land. It possesses a huge frame of a size incomparable to those of other monsters, as well as devastating combat power. It annihilates its foes by using \"Tornado Tail\" to swing around its gigantic tail, \"Crushing Bite\" to charge forward and snap its powerful jaws, and \"Crystal Horn\" to stab repeatedly with its three long, sharp horns. Will drop \"Brave Soul\" if defeated with a light-elemental attack."
+  },
+  {
+    "row": 114,
+    "en": "Dinotaurus Magnus"
+  },
+  {
+    "row": 115,
+    "en": "A more powerful relative of the Dinotaurus. This huge beast appeared at around the same time as the Dinotaurus, and is thus treated as a member of the same species, but very little is known about it. This is partly because of the extremely low number of the creatures to be found, and partly because no human who has tried to investigate their biology has ever returned alive. This is likely due in no small part to the \"Meteo\" attack that the creature uses. Will drop an \"Ancient Weapon Shard\" if defeated with a combo."
+  },
+  {
+    "row": 116,
+    "en": "Dinotaurus Giganteus"
+  },
+  {
+    "row": 117,
+    "en": "The most powerful member of the Dinotaurus species. It is found in far greater numbers than the other creatures in its species, leading some to theorize that its relatives may be living fossils, and that the Dinotaurus Giganteus is the most evolved of its kind. It attacks using the ferocious \"Ultimate Combo,\" combining \"Tornado Tail,\" \"Crushing Bite,\" and \"Crystal Horn\" in rapid succession. Needless to say, one should not expect to bear the full brunt of this and survive. Will sometimes drop a \"Giant Spear-Horn.\""
+  },
+  {
+    "row": 118,
+    "en": "Carboceros Beetle"
+  },
+  {
+    "row": 119,
+    "en": "A young male monster that can take on human form. Most monsters attack instinctively, to replenish their depleted magical energy, but he is not swayed by such instincts. It is unknown whether this is a result of a sudden mutation or of evolution. If an adult were to use his \"Horn Slice\" and \"Tackle\" attacks, they would pose a considerable threat, but from a child, they do not warrant much caution. Caution is advised, however, with regards to his Sap-inducing \"Poison Needle\" and Paralysis-inducing \"Sticky Thread.\""
+  },
+  {
+    "row": 120,
+    "en": "Timeslave"
+  },
+  {
+    "row": 121,
+    "en": "A giant with no will of its own. Unlike the other monsters, it is thought to have been created by an ancient civilization that possessed vast amounts of spritnite and magical energy. This may somehow relate to its constant attacks on <NAME=CP_0005>'s village. As its name suggests, it uses time-elemental magic, as well as attacks such as \"Missile Punch\" and \"Laser Beam\" that are thought to stem from lost technology once possessed by the civilization that created it. The impact from attacks can also cause it to use \"Rampage.\""
+  },
+  {
+    "row": 122,
+    "en": "Grinche"
+  },
+  {
+    "row": 123,
+    "en": "A giant with no will of its own. Unlike the other monsters, it is thought to have been created by an ancient civilization that possessed vast amounts of spritnite and magical energy. There is a sadness to the way it roams around in search of powerful magical energy sources, trying to recover its lost purpose for being. It uses more powerful time-elemental magic than the Timeslave, and can also freely use \"Blowback\" - one use of which destroyed the Timeslave. However, the impact from attacks will again cause it to use \"Rampage.\""
+  },
+  {
+    "row": 124,
+    "en": "Rhydderch"
+  },
+  {
+    "row": 125,
+    "en": "The spirit guardian of the ancient kingdom who tests the strength of the sacrifice's guard in the royal ruins of Ithees. He summons Summoned Deermons and Summoniels to test the party, as well as attacking with his own array of powerful magic spells, which include \"Flare\" and \"Holy Light.\" When his trial enters its final phase, he also attacks with \"Spell Stream.\""
+  },
+  {
+    "row": 126,
+    "en": "Summoned Deermon"
+  },
+  {
+    "row": 127,
+    "en": "One of the two creatures summoned by Rhydderch to test the sacrifice's guard. The sole purpose of its existence is to test the party's strength. It uses \"Lightning\" to rain down bolts that inflict body-shattering pain, in order to see if its opponents possess the strength to withstand it and continue to fight on."
+  },
+  {
+    "row": 128,
+    "en": "Summoniel"
+  },
+  {
+    "row": 129,
+    "en": "One of the two creatures summoned by Rhydderch to test the sacrifice's guard. The sole purpose of its existence is to test the party's fortitude. It uses \"Feather Attack\" to inflict irrecoverable wounds in the hearts of the party, in order to see if they possess the mental fortitude to withstand them and continue to fight on."
+  },
+  {
+    "row": 130,
+    "en": "The Time Judge"
+  },
+  {
+    "row": 131,
+    "en": "The woman who for a thousand long years has kept the Dark Samsara contained. By combining her own magical energy with the power of ancient spritnite, she is able to create a variety of magical phenomena. Her clone, <NAME=CP_0003>, is one example. In combat she uses powerful time magic to create an overwhelming gap between the speed at which time moves for her and for her opponents. As well as the devastating \"Comet\" and \"Meteo,\" she is also able to use a magic attack of even greater power..."
+  },
+  {
+    "row": 132,
+    "en": "The Ruler of Time"
+  },
+  {
+    "row": 133,
+    "en": "Most of the ancients despised conflict, and wished only for a peaceful future. However, some among them felt differently, and their lust for power created time and space in this world, giving birth to the Ruler of Time. It uses time-manipulation magic and barriers created using spatial distortion, as well as a range of attacks that draw on the ancient technology that created it, each of which is capable of deciding the outcome of battle in a single strike. It is without doubt the most powerful foe in existence."
+  },
+  {
+    "row": 134,
+    "en": "Plump Young Man"
+  },
+  {
+    "row": 135,
+    "en": "A member of the resistance formed in the village of Purikka. He has a slightly overweight physique. He attacks using a sword, but his skill with it still leaves much to be desired."
+  },
+  {
+    "row": 136,
+    "en": "Shrewd-Eyed Young Man"
+  },
+  {
+    "row": 137,
+    "en": "A member of the resistance formed in the village of Purikka. He has a sharp look in his eyes, and is probably the best-looking member of the resistance. He attacks using a sword. When he loses his cool, he has a habit of attacking repeatedly with \"Swipe.\""
+  },
+  {
+    "row": 138,
+    "en": "Baby-Faced Young Man"
+  },
+  {
+    "row": 139,
+    "en": "A member of the resistance formed in the village of Purikka. He has a very young face, and takes great offense to being mistaken for a child. He attacks using a sword. When concentrating, he has a habit of losing sight of his surroundings, causing him to attack repeatedly with \"Slash.\""
+  },
+  {
+    "row": 140,
+    "en": "Soldier"
+  },
+  {
+    "row": 141,
+    "en": "The soldiers who serve as guards in the citadel town of Floneia. As most of the soldiers are posted inside the town, which is protected from monsters by a powerful citadel, only a small handful of them have any actual combat experience. They attack using swords."
+  },
+  {
+    "row": 142,
+    "en": "Sayagi"
+  },
+  {
+    "row": 143,
+    "en": "An elderly healer who lives in Gatherington. When testing <NAME=CP_0002> in order to teach her the secret light-elemental spell \"Shining,\" she attacks by continually casting \"Thunder II,\" another light-elemental spell. However, using \"Thunder II\" eats away at her life force, and rather than the pain it inflicts on her target, it is likely this that is the true lesson she wishes to teach..."
+  },
+  {
+    "row": 144,
+    "en": "Hapsper"
+  },
+  {
+    "row": 145,
+    "en": "An elderly swordsman who works as a mercenary, like <NAME=CP_0001>. He attacks using a \"monster sword\" that is steeped in a monster-like aura. Anyone who crosses swords with him will come to a realization: from Hapsper's sword technique and his \"Death Throes\" attack, it is clear what he really wishes to impart to his opponent!"
+  },
+  {
+    "row": 146,
+    "en": "Freyja"
+  },
+  {
+    "row": 147,
+    "en": "The swordswoman who leads the resistance in the village of Purikka. A user of a two-sword combat style, her technique possesses both great power and great beauty. She is adept at using \"Blunt Blow\" and \"Stone Slash\" to stall her opponents, and \"Double Back\" and \"Rebellion\" to turn their attacks back on them."
+  },
+  {
+    "row": 148,
+    "en": "Syg"
+  },
+  {
+    "row": 149,
+    "en": "The eldest of the three rare-blood sisters. The sisters were once captured by the Magic Consortium, but were rescued by Tor. She is a polite and dependable young woman, but shows no mercy to those who are hostile towards her. She feels a strong duty to protect her younger sisters. Syg specializes in healing magic, and uses \"Cure II\" to restore the HP of her and her sisters, and \"Life II\" to resuscitate her sisters if defeated. Be sure to defeat her first of all, not least to prevent the three working together to use \"Delta Attack\"!"
+  },
+  {
+    "row": 150,
+    "en": "Quotra"
+  },
+  {
+    "row": 151,
+    "en": "The second eldest of the three rare-blood sisters. Her hatred for the Magic Consortium is stronger than anyone's, but she is filled with hope for the hidden village that Tor spoke of. She attacks using a giant monster axe and fire-elemental magic, reflecting her fiery temperament. Quotra can also make use of \"Icy Sentence,\" a combo attack combined with Tronne's water-elemental magic, and the immensely powerful \"Delta Attack,\" a combo performed by all three sisters."
+  },
+  {
+    "row": 152,
+    "en": "Tronne"
+  },
+  {
+    "row": 153,
+    "en": "The youngest of the three rare-blood sisters. She has lost the ability to speak due to a past trauma. She is still very young, and misses her mother. She is untrusting of everyone apart from her sisters and Tor. She attacks using a giant monster hammer, and water-elemental magic, reflecting her calm temperament. Tronne can also make use of \"Hellflame Hammer,\" a combo attack combined with Quotra's fire-elemental magic, and the immensely powerful \"Delta Attack,\" a combo performed by all three sisters."
+  },
+  {
+    "row": 154,
+    "en": "The Reaper"
+  },
+  {
+    "row": 155,
+    "en": "A mysterious man who wields a scythe. He suddenly attacks the sacrifice's guard in the town of Serendale. He seems to see nothing but the enemy before him, and simply slashes single-mindedly with his scythe."
+  },
+  {
+    "row": 156,
+    "en": "The Reaper (2)"
+  },
+  {
+    "row": 157,
+    "en": "A mysterious man who wields a scythe. After the incident in Serendale, he attacks the party once more on Lord Avalo's airship as they attempt to destroy the spritnite device. He is strikingly different from their last battle, and handles his scythe deftly, as well as attacking with shadow-elemental magic. Most frightening of all is the fact that he seems to be learning to fight more intelligently, as demonstrated by his use of different attacks depending on the distance between him and his opponent."
+  },
+  {
+    "row": 158,
+    "en": "The Reaper (3)"
+  },
+  {
+    "row": 159,
+    "en": "A mysterious man who wields a scythe. He was waiting to attack the sacrifice's guard inside the Archimell Ruins. As well as being even stronger than before, he now seems to not only want to defeat his opponents but to make them suffer, and uses \"Cursed Slash\" to inflict Sap on them, and \"Absorb\" to absorb their HP and MP."
+  },
+  {
+    "row": 160,
+    "en": "The Reaper (4)"
+  },
+  {
+    "row": 161,
+    "en": "A mysterious man who wields a scythe. He was awaiting the party inside the castle in the Last Lands, sitting atop the throne in the royal chamber. Perhaps presuming this to be their final battle, he uses powerful attacks such as \"Black Hole\" and \"Dark Matter\" unsparingly. Something seems to have changed inside him, and his combat style is strikingly different in comparison to previous encounters. Even when seemingly defeated, he rises once more..."
+  },
+  {
+    "row": 162,
+    "en": "Dysphormic Monster"
+  },
+  {
+    "row": 163,
+    "en": "The Reaper's mutated form after having absorbed powerful magical energy. The source of this energy seems to be the same as the energy that interfered with <NAME=CP_0006>'s mind, and most likely possesses immense power. He uses \"Demi\" to gather his opponents in one place before scorching them with \"Dragonic Breath.\" As he becomes desperate, his attacks grow more powerful: \"Demi\" becomes \"Demi II\" and \"Dragonic Breath\" becomes \"Dragonic Rage.\""
+  },
+  {
+    "row": 164,
+    "en": "Dysphormic Monster (2)"
+  },
+  {
+    "row": 165,
+    "en": "The materialized form of <NAME=CP_0007>'s lust for destruction, created by a powerful spritnite stone. If <NAME=CP_0007> had never gained a will of his own, this monster never would have been born. As well as attacking using \"Demi\" magic and breath attacks, it also uses \"Dragonic Tail\" to swipe at foes with its burly tail, and \"Swallow\" to swallow them whole, absorbing HP and MP. As if these deadly attacks weren't enough, it can also cast \"Dragnarok\" in quick succession..."
+  },
+  {
+    "row": 166,
+    "en": "Vermillion-Winged Beast"
+  },
+  {
+    "row": 167,
+    "en": "One part of the Dark Samsara's vast magical energy. By separating it from the being's core, the Time Judge was able to seal away the Dark Samsara. Now, many years later, it has begun to take on a will of its own. It can assume the form of its foe's darkest fear, and has targeted <NAME=CP_0005>. By inhaling deeply, it is able to use two types of breath attack, combusting oxygen internally and releasing it as \"Burning Breath,\" or freezing moisture and releasing it as \"Frosty Breath.\" It also has an even more powerful breath attack..."
+  },
+  {
+    "row": 168,
+    "en": "Azure-Scaled Beast"
+  },
+  {
+    "row": 169,
+    "en": "One part of the Dark Samsara's vast magical energy. By separating it from the being's core, the Time Judge was able to seal away the Dark Samsara. Now, many years later, it has begun to take on a will of its own. It can assume the form of its foe's darkest fear, and has targeted <NAME=CP_0002>. It uses its immense magical energy to trigger natural disasters, as seen in \"Tsunami\" and \"Snowstorm.\" Most fearsome of all is its ability to rapidly unleash the \"Tidal Wave\" attack that sunk the Nive-Floneia ferry."
+  },
+  {
+    "row": 170,
+    "en": "Onyx-Shelled Beast"
+  },
+  {
+    "row": 171,
+    "en": "One part of the Dark Samsara's vast magical energy. By separating it from the being's core, the Time Judge was able to seal away the Dark Samsara. Now, many years later, it has begun to take on a will of its own. It can assume the form of its foe's darkest fear, and has targeted <NAME=CP_0004>. It has inexhaustible magical energy, and can use magic of the fire, water, light, and shadow elements. It can also use \"Hide in Shell\" to create an impregnable physical defense, and \"Sweeping Spin\" to cause multiple hits over a wide area."
+  },
+  {
+    "row": 172,
+    "en": "White-Fanged Beast"
+  },
+  {
+    "row": 173,
+    "en": "One part of the Dark Samsara's vast magical energy. By separating it from the being's core, the Time Judge was able to seal away the Dark Samsara. Now, many years later, it has begun to take on a will of its own. It can assume the form of its foe's darkest fear, and has targeted <NAME=CP_0006>. Its instantaneously unleashed magic spells and consecutive attacks are a result of the space-time distortions created by its incredible magical energy, and therefore cannot be prevented, even with time magic..."
+  },
+  {
+    "row": 174,
+    "en": "The Dark Samsara"
+  },
+  {
+    "row": 175,
+    "en": "A being, said to be the source of all monsters, that is trapped inside a nameless phantasmal realm. It is in order to keep it here that the sacrifices offer up their magical energy and life force. The being has become a mass of pure energy, and has no clear consciousness of its own. Before doing battle, the four rocks surrounding it must be destroyed in order to stop the magical energy that was separated from the being's core from reassimilating with it. Even after having done this, though, a grueling fight is still inevitable."
+  },
+  {
+    "row": 176,
+    "en": "Youth"
+  },
+  {
+    "row": 177,
+    "en": "Powerful magic has caused the memories that lingered faintly in the depths of the Dark Samsara's being to take on a visible form. He is consumed by hatred and sorrow, and little trace of his human appearance remains. As if refusing to forgive humankind, he musters up his last strength to fight, but his power is vastly weaker than when he was the Dark Samsara. At least let us try to understand his pain, his suffering..."
+  },
+  {
+    "row": 178,
+    "en": "Rocky"
+  },
+  {
+    "row": 179,
+    "en": "A Pengy that has been eaten away at by spritnite, causing its whole body to stiffen to a diamond-like hardness. Its muscles and joints have solidified completely, meaning that its once-supple wings can no longer use \"Slap,\" and its beak can no longer widen to produce a tearing \"Bite.\" However, it can instead make use of its hardened body and its reduced friction to perform powerful \"Rocket Dive\" and \"Rocket Rush\" attacks. Will sometimes drop a \"Crystallized Egg.\""
+  },
+  {
+    "row": 180,
+    "en": "Southpaw"
+  },
+  {
+    "row": 181,
+    "en": "An Uppa that has been eaten away at by spritnite. The pitiful creature's body has been taken over by the Bees it produced with its own magical energy, turning it into a living corpse. It is now completely under the control of the Bees, and it moves with machinelike precision. Its attacks themselves are the same as before the spritnite took hold, but its precise movements have transformed it into a powerful beast that can produce strings of critical hits in rapid succession. Will sometimes drop a \"Crystallized Armplate.\""
+  },
+  {
+    "row": 182,
+    "en": "Maloompa"
+  },
+  {
+    "row": 183,
+    "en": "A Waloompa that has been eaten away at by spritnite. The blubber stored in its body has thickened, greatly increasing its energy efficiency, and as a result it now possesses inexhaustible stamina. The creature has a vast amount of HP, and despite receiving damage, will take attack after attack without showing any sign of weakening. When doing battle with a Maloompa, be prepared for a long fight. Will sometimes drop a \"Crystallized Flipper.\""
+  },
+  {
+    "row": 184,
+    "en": "Fallout Shell"
+  },
+  {
+    "row": 185,
+    "en": "A Skullian that has been eaten away at by spritnite. Its protective shell has transformed in such a way that it now resembles a nuclear weapon, and it provides an impregnable defense in line with a fallout shelter. The creature's self-defense instincts have also increased greatly in comparison to a regular Skullian. \"Shell Shield\" now provides far greater protection, and \"Super Shell Shield\" is able to repel any and all attacks. Will sometimes drop a \"Crystallized Pincer.\""
+  },
+  {
+    "row": 186,
+    "en": "Stone Flapper"
+  },
+  {
+    "row": 187,
+    "en": "A White Flapper that has been eaten away at by spritnite, causing its trademark healing magic to spiral out of control. The creature will wildly use \"Healing Feather\" whenever its own HP, or that of any nearby monsters, has been reduced by even a fraction. As a result, although hundreds of years have passed since the spritnite first took hold of its body, it still lives on today. It travels the land sorrowfully, searching for someone who will defeat it. Will sometimes drop a \"Crystallized Wing.\""
+  },
+  {
+    "row": 188,
+    "en": "Atomic Puff-Puff"
+  },
+  {
+    "row": 189,
+    "en": "A Fiery Puff-Puff that has been eaten away at by spritnite, turning the inside of its body into what can only be described as a nuclear fusion reactor. A long time has passed since the spritnite took over its body, and it has reached a critical state, meaning that even the smallest shock can trigger a huge explosion. No one had previously witnessed one of these explosions and lived to tell the tale, and therefore the creature's very existence was previously uncertain. Will sometimes drop a \"Crystallized  Barbel.\""
+  },
+  {
+    "row": 190,
+    "en": "Jewelly"
+  },
+  {
+    "row": 191,
+    "en": "A Muffy that has been eaten away at by spritnite. It is now able to use the fuzzy balls at the ends of its ears to produce unlimited magical energy. Furthermore, the creature can make use of three types of elemental magic: fire, water, and light. In exchange, however, it is now unable to use \"Call\" and \"Bushy Bond.\" When it attempts to beat its bushy ears to do so, the different elements clash with each other, causing its magical energy to short-circuit. Will sometimes drop \"Crystallized Ear Fur.\""
+  },
+  {
+    "row": 192,
+    "en": "Glowly-Poly"
+  },
+  {
+    "row": 193,
+    "en": "A Roly-Poly that has been eaten away at by spritnite. It uses its hind legs like fine-precision tools, rolling snowballs that shine like glittering spritnite. In order to fully accentuate the brilliant white shine of its snowballs, it has turned its own fur a jet black. As well as being able to execute \"Handstand Snowball Ride\" perfectly each time, the creature also has a high chance of nimbly evading its opponent's attacks without even needing to ride atop its snowball. Will sometimes drop a \"Crystallized Tail.\""
+  },
+  {
+    "row": 194,
+    "en": "Silvara"
+  },
+  {
+    "row": 195,
+    "en": "A Versa that has been eaten away at by spritnite. Its frosty aura has spiraled out of control to the point that it freezes everything it turns its eyes upon. In order to avoid freezing its fellow monsters, the creature therefore keeps its eyes hidden with its long hair. When doing battle with humans, the Silvara parts its locks and unleashes \"Freezing Gaze\" in rapid succession. Will sometimes drop \"Crystallized Neck Fur.\""
+  },
+  {
+    "row": 196,
+    "en": "Magiconda"
+  },
+  {
+    "row": 197,
+    "en": "A Snecter that has been eaten away at by spritnite. This sorrowful creature now only preys on other Magicondas. As a result, despite the fact that they were originally relatively common in comparison to other spritnite-consumed monsters, their numbers continue to dwindle by the year. The creature's \"Death Breath,\" which it can use just once - after using \"Feed\" on a fellow Magiconda - is a fearsome attack. If you value your life, be sure to avoid it at all costs! Will sometimes drop \"Crystallized Shed Skin.\""
+  },
+  {
+    "row": 198,
+    "en": "Crystal Shroomback"
+  },
+  {
+    "row": 199,
+    "en": "A Shroomback that has been eaten away at by spritnite. The mold, moss, and fungi covering it have all died out, and its barren fur now hosts not a single organism. It carries a hidden stash of mushrooms, stockpiled before the spritnite took over, and when absolutely necessary will use \"Munch Mushroom\" to recover HP. Its putrid breath smells more like a rotting corpse than mere halitosis, and it can use all three Shroomback breath attacks. Will sometimes drop \"Crystallized Fungal Fur.\""
+  },
+  {
+    "row": 200,
+    "en": "Digi Deermon"
+  },
+  {
+    "row": 201,
+    "en": "A Lesser Deermon that has been eaten away at by spritnite, transforming its very body into electricity. It has no physical body, and the form seen by humans is in fact a three-dimensional image created by electricity-infused magical energy. It can use all three Deermon attacks - \"Lightning,\" \"Thunderclap,\" and \"Thunderstorm\" - and even \"Lightning,\" the weakest of the three, possesses an attack power comparable to the other monsters' strongest attacks. Will sometimes drop a \"Crystallized Horn.\""
+  },
+  {
+    "row": 202,
+    "en": "Stoniel"
+  },
+  {
+    "row": 203,
+    "en": "A Heroniel that has been eaten away at by spritnite. It is now able to control not only its own magical energy, but also that of all nearby beings, including its foes. In its eyes, even the humans who oppose it are nothing more than energy receptacles. \"Heavenly Wrath,\" a fearsome attack unleashed by three Stoniels, blasts all opponents with pure magical energy, as well as stealing their magical energy. Definitely not a monster to be confronted with a strategy that relies on magic alone. Will sometimes drop a \"Crystallized Beak.\""
+  },
+  {
+    "row": 204,
+    "en": "Dinotaurus Crystallus"
+  },
+  {
+    "row": 205,
+    "en": "A Dinotaurus Giganteus that has been eaten away at by spritnite, transforming it into a terrifying beast of fearsome might, capable of destroying all that stands in its way. As a result of this immense power, the creature has completely lost its own will, and does nothing but relentlessly unleash \"Ultimate Combo\" and \"Meteo.\" If one possesses sufficient strength to slay a Dinotaurus Crystallus, there is likely no monster he or she cannot defeat. Will sometimes drop a \"Crystallized Scale.\""
+  },
+  {
+    "row": 206,
+    "en": "Zoot-Hoot"
+  },
+  {
+    "row": 207,
+    "en": "A Hoot-Hoot that has been eaten away at by spritnite, enhancing its motor nerves and reflexes to their utmost limits. This enables it to fly away at light-speed when spotted by humans, allowing it to disappear from sight each and every time. Will sometimes drop a \"Crystallized Teardrop.\""
+  }
+]

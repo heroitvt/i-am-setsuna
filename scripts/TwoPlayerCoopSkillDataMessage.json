@@ -1,0 +1,506 @@
+[
+  {
+    "row": 6,
+    "en": "Heal"
+  },
+  {
+    "row": 7,
+    "en": "Recovers the HP of all allies, and heals all status\nailments. (Aura/Prayer)"
+  },
+  {
+    "row": 8,
+    "en": "Lightning Cleave"
+  },
+  {
+    "row": 9,
+    "en": "Causes special damage [Light] to all enemies near\nthe target. Inflicts more damage when striking a\nweakness. (Cleave/Lightning II)"
+  },
+  {
+    "row": 10,
+    "en": "Synchronize"
+  },
+  {
+    "row": 11,
+    "en": "Casts Sync on all allies. For all allies, each stat\nbecomes the same as that of the ally with the\nhighest value. (Battlecry/Cheer)"
+  },
+  {
+    "row": 12,
+    "en": "X-Strike"
+  },
+  {
+    "row": 13,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. Inflicts more damage the sooner the\ntwo strikes cross. (Cyclone/Charge)"
+  },
+  {
+    "row": 14,
+    "en": "Overdrive"
+  },
+  {
+    "row": 15,
+    "en": "Casts Double Action on a single ally, causing\neffects to be generated twice when Momentum\nmode is used. (Quick/Flawless Blow)"
+  },
+  {
+    "row": 16,
+    "en": "Phasal Shift"
+  },
+  {
+    "row": 17,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. Also raises the SP gauges of all allies.\n(Realization/All Creation)"
+  },
+  {
+    "row": 18,
+    "en": "Cross Cutter"
+  },
+  {
+    "row": 19,
+    "en": "Energy blades leave behind a cross that causes\nphysical damage [Null] to all enemies.\n(Blade Wave/Wind Slash)"
+  },
+  {
+    "row": 20,
+    "en": "Blowbeat"
+  },
+  {
+    "row": 21,
+    "en": "Causes physical damage [Null] to all enemies.\nCan also inflict Paralysis, Confusion, and Stun.\n(Shock/Provoke)"
+  },
+  {
+    "row": 22,
+    "en": "Hagakure"
+  },
+  {
+    "row": 23,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target, ignoring 30% of Defense. Also has a\nhigh critical hit rate. (Spark/Diffuse)"
+  },
+  {
+    "row": 24,
+    "en": "Drain Slash"
+  },
+  {
+    "row": 25,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. All allies absorb 40% of inflicted\ndamage as HP. (Radiance/Drain)"
+  },
+  {
+    "row": 26,
+    "en": "Fire Cleave"
+  },
+  {
+    "row": 27,
+    "en": "Causes special damage [Fire] to all enemies near\nthe target. Inflicts more damage when striking a\nweakness. (Cleave/Fire II)"
+  },
+  {
+    "row": 28,
+    "en": "Twin Meteo"
+  },
+  {
+    "row": 29,
+    "en": "Countless meteors fall from the sky, causing\nmagical damage [Null] that ignores 50% of Defense\nto all enemies. (Meteo/Booster)"
+  },
+  {
+    "row": 30,
+    "en": "Frost Wall"
+  },
+  {
+    "row": 31,
+    "en": "Deploys a wall of absolute ice around all allies\nthat provides powerful defense against physical\nattacks. (Wall/Enfrost)"
+  },
+  {
+    "row": 32,
+    "en": "Ice Cleave"
+  },
+  {
+    "row": 33,
+    "en": "Causes special damage [Water] to all enemies near\nthe target. Inflicts more damage when striking a\nweakness. (Cleave/Ice II)"
+  },
+  {
+    "row": 34,
+    "en": "Tera Meteo"
+  },
+  {
+    "row": 35,
+    "en": "Interweaves meteors and jump attacks, causing\nspecial damage [Null/2 hits] that ignores 50%\nof Defense to all enemies. (Meteo/Echo)"
+  },
+  {
+    "row": 36,
+    "en": "Shadow Wave"
+  },
+  {
+    "row": 37,
+    "en": "Fuses the forces of order and chaos in a wave that\ncauses magical damage [Shadow] to all enemies\nand restores the HP of all allies. (Life/Dark Mist)"
+  },
+  {
+    "row": 38,
+    "en": "Dark Dawn"
+  },
+  {
+    "row": 39,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. Critical hits will cause increased\ndamage. (Backslash/Hellfire)"
+  },
+  {
+    "row": 40,
+    "en": "Deus Ex Machina"
+  },
+  {
+    "row": 41,
+    "en": "Reduces resistance against all elements for all\nenemies, and boosts resistance against all\nelements for all allies. (Magen/Snatch)"
+  },
+  {
+    "row": 42,
+    "en": "Perfect Harmony"
+  },
+  {
+    "row": 43,
+    "en": "A high-speed, flawlessly interwoven attack that\ncauses physical damage [Null/7 hits] to all\nenemies near the target. (Whirling Shot/Haste)"
+  },
+  {
+    "row": 44,
+    "en": "Brilliance"
+  },
+  {
+    "row": 45,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. Can also reduce ATB speed and status\nresistance. (Sanctity/Slow)"
+  },
+  {
+    "row": 46,
+    "en": "Lifeline"
+  },
+  {
+    "row": 47,
+    "en": "Casts Auto-Revive on a single target. Once only,\nthe target will be automatically revived when\nknocked out. (Life II/Permanence)"
+  },
+  {
+    "row": 48,
+    "en": "Lightning Rod"
+  },
+  {
+    "row": 49,
+    "en": "Causes special damage [Light] to all enemies near\nthe target. Also reduces resistance against all\nelements. (Lightning/Pinpoint)"
+  },
+  {
+    "row": 50,
+    "en": "Unbreakable Spirit"
+  },
+  {
+    "row": 51,
+    "en": "Awakens dormant life force and spiritual power,\nboosting the maximum HP/MP of all allies.\n(Inspire/Tenacity)"
+  },
+  {
+    "row": 52,
+    "en": "Magnetic Storm"
+  },
+  {
+    "row": 53,
+    "en": "Causes special damage [Null] to all enemies. Can\nalso inflict Sap and Confusion.\n(Enthunder/Whirlwind Blade)"
+  },
+  {
+    "row": 54,
+    "en": "Frostwave"
+  },
+  {
+    "row": 55,
+    "en": "Causes special damage [Null] to all enemies. Also\ncancels status boosts for all enemies, and heals\nstatus ailments for all allies. (Remedy/Dispel)"
+  },
+  {
+    "row": 56,
+    "en": "Vulcan Strike"
+  },
+  {
+    "row": 57,
+    "en": "Creates a helix of flames that cause special damage\n[Fire/6 hits] to all enemies near the target.\n(Whirling Shot/Enflame)"
+  },
+  {
+    "row": 58,
+    "en": "Supernova"
+  },
+  {
+    "row": 59,
+    "en": "Creates a huge explosion like those triggered when\nstars meet their demise, causing special damage\n[Light+Fire] to all enemies. (Luminaire/Flare)"
+  },
+  {
+    "row": 60,
+    "en": "Electromagnetism"
+  },
+  {
+    "row": 61,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target, ignoring 40% of Defense. Also has a\nhigh critical hit rate. (Incite/Icicle Lance)"
+  },
+  {
+    "row": 62,
+    "en": "Full Cure"
+  },
+  {
+    "row": 63,
+    "en": "Invokes powerful blessings and healing power,\nrecovering the HP of all allies, and healing any\nstatus ailments. (Cure II/Chakra)"
+  },
+  {
+    "row": 64,
+    "en": "Intervention"
+  },
+  {
+    "row": 65,
+    "en": "Causes physical damage [Light] to all enemies\nnear the target. The closer to the center, the more\ndamage caused. (Luminaire/Meteor Thrust)"
+  },
+  {
+    "row": 66,
+    "en": "Clashing Cross"
+  },
+  {
+    "row": 67,
+    "en": "Causes physical damage [Null] to all enemies near\nthe user. All allies absorb 50% of inflicted damage\nas HP. (Sanctity/Pandemic)"
+  },
+  {
+    "row": 68,
+    "en": "Slipstream"
+  },
+  {
+    "row": 69,
+    "en": "Creates an energy source that emits life force and\nspiritual power, casting Restore and Concentration\non all allies near the target. (Cure/Absorb)"
+  },
+  {
+    "row": 70,
+    "en": "Holy Darkness"
+  },
+  {
+    "row": 71,
+    "en": "Causes magical damage [Light+Shadow] to all\nenemies. Can also inflict Death.\n(Play Dead/Black Hole)"
+  },
+  {
+    "row": 72,
+    "en": "Barricade"
+  },
+  {
+    "row": 73,
+    "en": "Uses magical energy to strengthen the body to its\nutmost limits, greatly boosting the Defense of all\nallies. (Protect/Impenetrable Defense)"
+  },
+  {
+    "row": 74,
+    "en": "Phantasm Break"
+  },
+  {
+    "row": 75,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. Can also reduce Attack.\n(Dream Shatterer/Aerial Strike)"
+  },
+  {
+    "row": 76,
+    "en": "Desperation"
+  },
+  {
+    "row": 77,
+    "en": "The users move at magical-energy-induced speed,\ncausing physical damage [Null/6 hits] to all\nenemies near the target. (Haste/Blunt Blow)"
+  },
+  {
+    "row": 78,
+    "en": "Blazing Spiral"
+  },
+  {
+    "row": 79,
+    "en": "Causes magical damage [Fire+Time] to all\nenemies near the target. Can also inflict Sap.\n(Enchrono/Magma)"
+  },
+  {
+    "row": 80,
+    "en": "Phantom Rush"
+  },
+  {
+    "row": 81,
+    "en": "Grants the power to move with phantom speed,\ngreatly boosting the evasion rate of a single target.\n(Mirage/Vanish)"
+  },
+  {
+    "row": 82,
+    "en": "Frog Meteo"
+  },
+  {
+    "row": 83,
+    "en": "Causes magical damage [Null] to all enemies.\nInflicts more damage the higher HP/MP are.\n(Frog Squash/Meltdown)"
+  },
+  {
+    "row": 84,
+    "en": "Raging Spirit"
+  },
+  {
+    "row": 85,
+    "en": "Boosts the Attack and critical hit rate of all allies.\nGives a large boost, but also causes Paralysis.\n(Protect/Berserk)"
+  },
+  {
+    "row": 86,
+    "en": "Iron Maiden"
+  },
+  {
+    "row": 87,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. Can also inflict Death.\n(Stop/Precise Thrust)"
+  },
+  {
+    "row": 88,
+    "en": "Astral Bloom"
+  },
+  {
+    "row": 89,
+    "en": "Causes physical damage [Special/5 hits] to all\nenemies near the target. The attack's element\nchanges with each hit. (Oblivion/Jump)"
+  },
+  {
+    "row": 90,
+    "en": "Paradox"
+  },
+  {
+    "row": 91,
+    "en": "Disrupts time itself, unleashing destruction. Causes\nphysical damage [Null/11 hits] to all enemies\nnear the target. (Haste/Cursed Slash)"
+  },
+  {
+    "row": 92,
+    "en": "Fantasia"
+  },
+  {
+    "row": 93,
+    "en": "Causes magical damage [Shadow+Time] to all\nenemies near the target. Inflicts more damage the\nlower SP is. (Demi/Endark)"
+  },
+  {
+    "row": 94,
+    "en": "Starstrike"
+  },
+  {
+    "row": 95,
+    "en": "Causes physical damage [Special/10 hits] to all\nenemies near the target. Can also inflict Stop and\nreduce elemental resistance. (Frenzy/Phantom)"
+  },
+  {
+    "row": 96,
+    "en": "Bio Slash"
+  },
+  {
+    "row": 97,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. Can also reduce status resistance.\n(Stone Slash/Bio)"
+  },
+  {
+    "row": 98,
+    "en": "Magic Barrier"
+  },
+  {
+    "row": 99,
+    "en": "Deploys a wall around all allies that nullifies all\nmagical attacks. (Demonic Strike/Barrier)"
+  },
+  {
+    "row": 100,
+    "en": "Megaflare"
+  },
+  {
+    "row": 101,
+    "en": "Creates an all-consuming explosion that causes\nspecial damage [Null] to all enemies, ignoring\n50% of Defense. (Double Back/Flare)"
+  },
+  {
+    "row": 102,
+    "en": "Diamond Dust"
+  },
+  {
+    "row": 103,
+    "en": "Causes special damage [Water/5 hits] to all\nenemies. Can also inflict Freeze. (Emission/Ice II)"
+  },
+  {
+    "row": 104,
+    "en": "Flash Thrust"
+  },
+  {
+    "row": 105,
+    "en": "A pincer attack that seizes a tiny opening, causing\nphysical damage [Null] to all enemies near the\ntarget. (Pinpoint/Precise Thrust)"
+  },
+  {
+    "row": 106,
+    "en": "Clarity"
+  },
+  {
+    "row": 107,
+    "en": "Allows dormant power to be awoken at any time\nby instantly filling the SP gauge of a single target.\n(Condense/Serenity)"
+  },
+  {
+    "row": 108,
+    "en": "Tornado"
+  },
+  {
+    "row": 109,
+    "en": "Causes physical damage [Null] to all enemies. Can\nalso inflict Sap. (Whirlwind Blade/Helix Slash)"
+  },
+  {
+    "row": 110,
+    "en": "Steadfastness"
+  },
+  {
+    "row": 111,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target. The more damage has been received,\nthe more damage is inflicted. (Counter/Stalker)"
+  },
+  {
+    "row": 112,
+    "en": "Dragon Blade"
+  },
+  {
+    "row": 113,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. Absorbs 30% of inflicted damage as\nHP/MP. (Pinpoint/Absorb)"
+  },
+  {
+    "row": 114,
+    "en": "Antipode Blast"
+  },
+  {
+    "row": 115,
+    "en": "Opposing forces of fire and water create a blast\nthat causes magical damage [Fire+Water] to all\nenemies near the target. (Fire/Ice)"
+  },
+  {
+    "row": 116,
+    "en": "Vampyrus"
+  },
+  {
+    "row": 117,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. All allies absorb 20% of inflicted\ndamage as MP. (Osmose/Chase)"
+  },
+  {
+    "row": 118,
+    "en": "Drill Thrust"
+  },
+  {
+    "row": 119,
+    "en": "Causes physical damage [Null] to all enemies near\nthe target, ignoring 50% of Defense. Also inflicts\nSap. (Weaken/Apex Thrust)"
+  },
+  {
+    "row": 120,
+    "en": "Volcano"
+  },
+  {
+    "row": 121,
+    "en": "Summons lava, causing special damage [Fire] that\nignores elemental resistance to all enemies in\na line from the users. (Magma/Earthsplitter)"
+  },
+  {
+    "row": 122,
+    "en": "Miracle Comeback"
+  },
+  {
+    "row": 123,
+    "en": "Sacrifices HP, causing physical damage [Null] to\nall enemies in a line from the users. The more HP\nconsumed, the more damage. (Regen/Dark Pact)"
+  },
+  {
+    "row": 124,
+    "en": "Shadow Flare"
+  },
+  {
+    "row": 125,
+    "en": "Creates scorching, white-hot flames that reduce\neverything to ash, causing magical damage [Fire+\nShadow] to all enemies. (Flare/Dark Matter)"
+  },
+  {
+    "row": 126,
+    "en": "Celerity"
+  },
+  {
+    "row": 127,
+    "en": "Boosts the ATB speed of all allies. In exchange, the\nrate at which their SP gauges fill up is decreased.\n(Transcendence/Dragonic Soul)"
+  },
+  {
+    "row": 128,
+    "en": "Righteous Indignation"
+  },
+  {
+    "row": 129,
+    "en": "Causes physical damage [Null/2 hits] to all\nenemies near the target. Increased critical hit\ndamage and hit rate. (Precise Thrust/Hellfire)"
+  },
+  {
+    "row": 130,
+    "en": "Shadow Moon"
+  },
+  {
+    "row": 131,
+    "en": "Causes special damage [Shadow] to all enemies\nnear the target. Inflicts more damage when\nstriking a weakness. (Royal Lance/Dark Matter)"
+  }
+]

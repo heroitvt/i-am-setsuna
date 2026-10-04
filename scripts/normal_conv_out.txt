@@ -1,0 +1,97 @@
+RID 5265 (NPC NPC_21010): It's not often anyone comes here
+from the mainland. Usually it's
+only the other way round... There's a departure ceremony
+today, actually. What? Who's departing?
+The sacrifice, of course!
+RID 5266 (NPC NPC_21010): What is it? If you're looking for the
+ferry, it's already set sail back to
+the mainland. Anyway, seeing as you came all the
+way here, there's no need to rush
+back. At least stay and watch the
+departure ceremony. Not that it's
+much of a spectacle...
+RID 5267 (NPC NPC_21010): Hold on a minute... How'd you get
+back here without a boat!? What? By airship!?
+Don't be ridiculous...
+RID 5268 (NPC NPC_21020): You wanna get to the village? After you leave the port, jus' head nord-west, and you'll soon see it...
+RID 5269 (NPC NPC_21020): Sorry, there won't be anudda ferry
+for a while now... The next one'll be carrying the
+sacrifice.
+RID 5270 (NPC NPC_21020): Chúc may mắn trên chuyến đi!
+Mang hy vọng trở lại nhé! <NAME=CP_0002>!
+RID 5271 (NPC NPC_21020): Gió đại dương thổi
+từ đồi... T <NAME=CP_0002>?
+RID 5272 (NPC NPC_21040): Very few people travel to this
+island these days, what with all the
+monsters... You're very brave to have come
+here. Let me welcome you on
+behalf of the village!
+RID 5273 (NPC NPC_21040): The next ferry that'll be arriving
+will sail to the citadel town of
+Floneia. The sacrifice's guard always head
+there first, to decide their journey's
+route. Land...sea...air...
+From Floneia, you can determine
+the safest route.
+RID 5274 (NPC NPC_21040): I never thought we'd be seeing off
+little <NAME=CP_0002> like
+this... Thank you...
+Thank you so much...
+RID 5275 (NPC NPC_21040): Ngôi làng bé
+nhỏ này <NAME=CP_0002>?
+RID 5276 (NPC NPC_21030): Chào
+mừng, chào!
+RID 5277 (NPC NPC_21030): Aha! I see you've got a recipe. If you give it to me, I can add it to
+our menu!
+RID 5278 (NPC ): Đưa anh
+công thức!
+RID 5279 (NPC ): Đừng đưa
+anh công thức!
+RID 5280 (NPC NPC_21030): Let me see, what have we got here
+then... I see... Right...
+Yup, I can make this, no problem! I've added it to our menu, so feel
+free to order it any time! Now, back to work...
+RID 5281 (NPC NPC_21030): Oh? That's a shame...
+Let me know if you change your
+mind. Now, back to work...
+RID 5282 (NPC NPC_21030): Xin lỗi,
+chưa mở cửa!
+RID 5283 (NPC NPC_21011): Hả? Bạn đến từ đâu? Bạn đã không
+ở trên con tàu cuối cùng đó bạn?
+RID 5284 (NPC NPC_21021): You wanna get to the village? After you leave the port, jus' head
+nord-west, and you'll soon see it!
+RID 5285 (NPC NPC_21041): No matter how many times I do it,
+seeing off the sacrifices never gets
+any easier... Maybe this'll be the last, though.
+I'm getting on a bit, after all...
+RID 5286 (NPC NPC_21031): Sorry, but we're still getting ready
+to open. We only just rented this
+place, you see. I've always dreamed of opening my
+own pub... Just you wait, this place
+will be full of people in no time.
+RID 5287 (NPC NPC_10010): We're about to hold the departure
+ceremony for the sacrifice. My own daughter is the one who
+will take on this important role... I suppose this, too, is fate...
+RID 5288 (NPC NPC_10010): <NAME=CP_0002> is the reason
+you're a free man. Make sure you never forget that...
+RID 5289 (NPC NPC_10010): <NAME=CP_0002>'s departure
+ceremony is about to begin... Back when her mother, <NAME=NPC_10150>,
+set off, I never dreamed this day
+would come...
+RID 5290 (NPC NPC_10010): <NAME=CP_0001>...
+<NAME=CP_0003>... Please take care of my daughter
+<NAME=CP_0002>...
+RID 5291 (NPC NPC_10010): Hãy bảo vệ cô
+ấy thật tốt, ! <NAME=CP_0002>?
+RID 5292 (NPC NPC_22010): Her mother, and her aunt, too... I saw them off just like this, too...
+We are powerless to do anything
+else... Even if it is for everyone's sake,
+surely this is too much grief for
+one family to bear...
+RID 5293 (NPC NPC_22010): Lễ khởi hành sẽ không vẫn chưa bắt đầu
+nên vẫn còn thời gian để bạn suy nghĩ lại.
+RID 5294 (NPC NPC_22010): Ahh... So pure and noble...
+She is the spitting image of her
+mother <NAME=NPC_10150>. I am sure <NAME=NPC_10150> watches
+over her still. The hope of all the people rests on
+<NAME=CP_0002>. Please look after her.

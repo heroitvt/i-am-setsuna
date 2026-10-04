@@ -1,0 +1,522 @@
+[
+  {
+    "row": 9,
+    "en": "The users' strikes cross each other, creating an X-shaped trail that causes damage to enemies. It inflicts more damage the sooner the two strikes cross.\nWhen used in Momentum mode, this combo will also cause additional physical damage to a single enemy."
+  },
+  {
+    "row": 10,
+    "en": "This combo uses the combined magical energy of the two users to manipulate space-time, causing effects to be generated twice when Momentum mode is triggered.\nWhen used in Momentum mode, its duration will be increased."
+  },
+  {
+    "row": 11,
+    "en": "This combo uses Momentum power to create a barrier, then destroys it, triggering a blast that causes damage to enemies. It also raises the SP gauges of all allies.\nWhen used in Momentum mode, it will also cause physical damage that increases in power according to how high SP is."
+  },
+  {
+    "row": 12,
+    "en": "Energy blades fired by the two users create a cross-shaped slash.\nWhen used in Momentum mode, this combo will also cause additional physical damage to all enemies."
+  },
+  {
+    "row": 13,
+    "en": "Hits all enemies with a powerful pressure attack that can sometimes also inflict Paralysis, Confusion, and Stun.\nWhen used in Momentum mode, this combo will also reduce Attack and Defense."
+  },
+  {
+    "row": 14,
+    "en": "Launches enemies into the air before sending them hurtling down again. Has a high critical hit rate, and also ignores 30% of Defense.\nWhen used in Momentum mode, this combo will also boost evasion rate, making it effective in terms of both attack and defense."
+  },
+  {
+    "row": 15,
+    "en": "Charges the blade with absorptive magical energy and slashes at surrounding foes. 40% of the damage inflicted is absorbed by all allies as HP.\nWhen used in Momentum mode, HP will also be recovered. An excellent combo that combines both attack and recovery."
+  },
+  {
+    "row": 16,
+    "en": "One user imbues the other's sword with the power of fire, producing a powerful strike. Causes increased damage when striking a foe's weakness.\nWhen used in Momentum mode, damage will be even further increased when striking a weakness."
+  },
+  {
+    "row": 17,
+    "en": "Attacks by summoning a meteor storm from the skies above, causing damage that ignores 50% of Defense.\nWhen used in Momentum mode, this combo will also cause additional magical damage to a single enemy. The single-user tech \"Meteo\" was originally adapted from this combo."
+  },
+  {
+    "row": 18,
+    "en": "Creates a powerful wall of ice. This wall absorbs all physical damage until its HP reaches zero or its duration runs out.\nWhen used in Momentum mode, this combo will also increase Defense, making the wall even more powerful."
+  },
+  {
+    "row": 19,
+    "en": "One user imbues the other's sword with the power of ice, producing a powerful strike. Causes increased damage when striking a foe's weakness.\nWhen used in Momentum mode, damage will be even further increased when striking a weakness."
+  },
+  {
+    "row": 20,
+    "en": "This combo combines meteor and jump attacks, causing damage that ignores 50% of Defense.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 21,
+    "en": "Merges the forces of chaos and order into a surging wave. As well as causing damage to all enemies, it will also recover the HP of all allies.\nWhen used in Momentum mode, it will also boost critical hit rate."
+  },
+  {
+    "row": 22,
+    "en": "This combo creates an instantaneous attack born from darkness. Critical hits will cause increased damage when generated.\nWhen used in Momentum mode, its power is increased when striking an enemy's weakness, and \nmultiple hits, each of a different element, will also be inflicted."
+  },
+  {
+    "row": 23,
+    "en": "Interferes with the laws of elements, reducing the elemental resistance of enemies and boosting the elemental resistance of allies.\nWhen used in Momentum mode, for one turn only all attacks will inflict damage of all elemental types."
+  },
+  {
+    "row": 24,
+    "en": "The users move at drastically increased speed, performing a lightning-fast combo attack that inflicts multiple hits.\nWhen used in Momentum mode, critical hits will be generated, greatly increasing damage."
+  },
+  {
+    "row": 25,
+    "en": "Attacks by using a sacred light to bind foes. Can sometimes also reduce ATB speed and status resistance.\nWhen used in Momentum mode, this combo will also cause additional Paralysis-inflicting damage to a single enemy."
+  },
+  {
+    "row": 26,
+    "en": "This combo uses a mighty healing power to cast Auto-Revive on one ally.\nWhen used in Momentum mode, its effect will be applied to all allies."
+  },
+  {
+    "row": 27,
+    "en": "One user plants his or her sword in the ground, and the other summons lightning to strike it. Reduces resistance against all elements.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies.\nThis combo was thought up on the spur of the moment, but proved surprisingly effective."
+  },
+  {
+    "row": 28,
+    "en": "This combo awakens dormant life force and spiritual power.\nWhen used in Momentum mode, it will also recover HP and MP."
+  },
+  {
+    "row": 29,
+    "en": "This combo summons a magnetically charged storm that can inflict Sap and Confusion.\nWhen used in Momentum mode, it will also cause additional damage to a single enemy. This damage increases according to the number of status ailments in effect."
+  },
+  {
+    "row": 30,
+    "en": "This combo unleashes a wave that nullifies all energy.\nWhen used in Momentum mode, it will also nullify all status boosts cast on enemies and all status ailments inflicted on allies for a set period of time."
+  },
+  {
+    "row": 31,
+    "en": "This combo creates a blazing helix of flames.\nWhen used in Momentum mode, it will also inflict multiple hits with a high critical hit rate."
+  },
+  {
+    "row": 32,
+    "en": "This combo creates a huge explosion akin to the ones triggered when stars meet their demise.\nWhen used in Momentum mode, it will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 33,
+    "en": "Attacks using rapid, electromagnetically powered lance thrusts. Has a high critical hit rate, and ignores 40% of Defense.\nWhen used in Momentum mode, this combo will also cause additional magical damage to a single enemy. This damage increases the higher MP is."
+  },
+  {
+    "row": 34,
+    "en": "Invokes powerful blessings that heal all party members. Recovers HP and heals all status ailments.\nWhen used in Momentum mode, this combo will also recover MP."
+  },
+  {
+    "row": 35,
+    "en": "Creates a blast of focused purifying energy. The closer foes are to its center, the more damage they will receive.\nWhen used in Momentum mode, it will also recover HP."
+  },
+  {
+    "row": 36,
+    "en": "Performs an attack charged with absorptive magical energy. 50% of the damage inflicted is absorbed by all allies as HP.\nWhen used in Momentum mode, this combo will also cause additional damage to a single enemy. This damage increases the higher HP is."
+  },
+  {
+    "row": 37,
+    "en": "Generates a magical energy source that causes allies to automatically recover HP and MP.\nWhen used in Momentum mode, it will also recover HP and MP instantly."
+  },
+  {
+    "row": 38,
+    "en": "Unleashes an attack created from the opposing powers of absolute darkness and sacred light. Can sometimes also inflict Death.\nWhen used in Momentum mode, it will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 39,
+    "en": "Strengthens the body's physical thresholds to their limits, greatly boosting Defense.\nWhen used in Momentum mode, it will also boost elemental resistance."
+  },
+  {
+    "row": 40,
+    "en": "Combines a jump attack with a powerful strike delivered in the same instant. Can sometimes also reduce Attack.\nWhen used in Momentum mode, it will also cause additional physical damage to a single enemy."
+  },
+  {
+    "row": 41,
+    "en": "Speeds up the flow of time to create an incredibly fast and perfectly intertwined attack.\nWhen used in Momentum mode, critical hits will be generated, greatly increasing damage."
+  },
+  {
+    "row": 42,
+    "en": "Creates a fireball by speeding up the flow of time, causing damage that can sometimes also inflict Sap.\nWhen used in Momentum mode, this combo will sometimes also reduce Attack and elemental resistance."
+  },
+  {
+    "row": 43,
+    "en": "Distorts space-time and grants the ability to move at incredible speed, massively boosting evasion rate.\nWhen used in Momentum mode, this combo will also grant Guaranteed Evasion."
+  },
+  {
+    "row": 44,
+    "en": "This combo summons a shower of tiny frogs from above, causing more damage the higher HP and MP are.\nWhen used in Momentum mode, it will also recover HP. A frog lover's dream!"
+  },
+  {
+    "row": 45,
+    "en": "Draws out power that surpasses the body's natural limits, boosting the Attack and critical hit rate of all allies, but also inflicting Paralysis on them.\nWhen used in Momentum mode, this combo will also cast Silhouette."
+  },
+  {
+    "row": 46,
+    "en": "This combo binds foes within the flow of time, causing damage that can sometimes inflict Death.\nWhen used in Momentum mode, it will also cause additional physical damage to all enemies that can again sometimes inflict Death."
+  },
+  {
+    "row": 47,
+    "en": "A beautifully performed jump attack combo that inflicts multiple hits. Each hit causes damage of a different element.\nWhen used in Momentum mode, this combo will also cause additional damage with a high critical hit rate to a single enemy."
+  },
+  {
+    "row": 48,
+    "en": "Contorts the flow of time, causing space to warp and generating a destructive blast.\nWhen used in Momentum mode, this combo will also cause additional damage with a high critical hit rate to a single enemy."
+  },
+  {
+    "row": 49,
+    "en": "Generates a powerful gravitational force inside the bodies of enemies, causing damage that becomes more powerful the lower SP is.\nWhen used in Momentum mode, it will also cause additional magical damage that ignores elemental resistance."
+  },
+  {
+    "row": 50,
+    "en": "Charges the dagger with shadow energy and unleashes an interwoven combo attack. Each hit causes damage of a different element.\nWhen used in Momentum mode, it will also cause additional damage that again changes element with each hit and inflicts increased damage when striking a weakness."
+  },
+  {
+    "row": 51,
+    "en": "Uses magical energy to imbue the user's sword with an infectious virus.\nWhen used in Momentum mode, it will also reduce Attack, Defense, ATB speed, and evasion rate."
+  },
+  {
+    "row": 52,
+    "en": "Creates a wall that nullifies magical energy. This wall absorbs all magical damage until its HP reaches zero or its duration runs out.\nWhen used in Momentum mode, this combo will also increase Defense, making the wall even more powerful."
+  },
+  {
+    "row": 53,
+    "en": "Creates an even-more-powerful explosion of scorching flames, causing damage that ignores 50% of Defense.\nWhen used in Momentum mode, this combo will also cause additional special damage, which again ignores 50% of Defense, to a single enemy."
+  },
+  {
+    "row": 54,
+    "en": "One user strikes his or her sword against a block of ice to shatter and disperse it, causing damage that can sometimes also inflict Freeze.\nWhen used in Momentum mode, it will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 55,
+    "en": "The users perform an ultra-fast, unavoidable pincer attack, causing damage with a high critical hit rate.\nWhen used in Momentum mode, this combo will also cause additional damage with a high critical hit rate to a single enemy. Critical hits will also cause increased damage when generated."
+  },
+  {
+    "row": 56,
+    "en": "Brings the target to a state of enlightenment, instantly filling the SP gauge.\nWhen used in Momentum mode, this combo's effect will be applied to all allies."
+  },
+  {
+    "row": 57,
+    "en": "Generates countless tornados that cause damage and can sometimes also inflict Sap.\nWhen used in Momentum mode, it will also cause additional physical damage to all enemies."
+  },
+  {
+    "row": 58,
+    "en": "Attacks by transforming fortitude into raw power, causing damage that becomes more powerful according to the amount of damage received.\nWhen used in Momentum mode, this combo will also cause additional magical damage to a single enemy. This damage increases the lower SP is."
+  },
+  {
+    "row": 59,
+    "en": "Imbues the sword with both destructive and healing energy, absorbing 30% of inflicted damage as HP and MP.\nWhen used in Momentum mode, it will also cause additional damage that again absorbs 30% of inflicted damage as HP and MP."
+  },
+  {
+    "row": 60,
+    "en": "Generates a blast created from the opposing powers of fire and water. \nWhen used in Momentum mode, it will also cause additional magical damage to all enemies."
+  },
+  {
+    "row": 61,
+    "en": "Thrusts at foes with absorptive magical energy. 20% of the damage inflicted is absorbed by all allies as MP.\nWhen used in Momentum mode, it will also recover HP."
+  },
+  {
+    "row": 62,
+    "en": "Spins the lance at ultra-fast speed while thrusting forward, causing damage that ignores 50% of Defense and can sometimes also inflict Sap.\nWhen used in Momentum mode, it will also reduce Defense and evasion rate."
+  },
+  {
+    "row": 63,
+    "en": "Summons lava from beneath the earth's surface, causing damage that ignores elemental resistance.\nWhen used in Momentum mode, it will also cause additional damage to all enemies, again ignoring elemental resistance."
+  },
+  {
+    "row": 64,
+    "en": "Consumes HP in order to accumulate magical energy, and releases it in an energy wave. Causes more damage the more HP is consumed.\nWhen used in Momentum mode, it will also recover HP."
+  },
+  {
+    "row": 65,
+    "en": "Creates a scorching blast that leaves behind nothing in its wake.\nWhen used in Momentum mode, this combo will also cause additional magical damage to all enemies."
+  },
+  {
+    "row": 66,
+    "en": "Synchronizes the energy of all allies, greatly boosting the speed at which the ATB gauge fills up, but reducing the rate at which SP accumulates.\nWhen used in Momentum mode, this combo will also boost Attack."
+  },
+  {
+    "row": 67,
+    "en": "Strikes at foes' blind spots. Has a high critical hit rate, and critical hits will cause increased damage when generated.\nWhen used in Momentum mode, this combo will also cause additional damage, which can reduce status resistance, to a single enemy."
+  },
+  {
+    "row": 68,
+    "en": "Attacks by scattering dark matter made from magical energy. Causes increased damage when striking a weakness.\nWhen used in Momentum mode, this combo will also cause additional damage that increases in power in the same way."
+  },
+  {
+    "row": 69,
+    "en": "Attacks by releasing a blast of mighty energy, causing damage that ignores elemental resistance.\nWhen used in Momentum mode, critical hits will be generated, greatly increasing damage."
+  },
+  {
+    "row": 70,
+    "en": "Releases the infinite power of the cosmos inside the surrounding space. Boasts incredible destructive power.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 71,
+    "en": "This combo generates an absolute defense around all allies. As well as rendering them invincible, it also deliberately provokes enemy attacks, and can easily turn the tide of battle.\nWhen used in Momentum mode, it will also recover HP and MP."
+  },
+  {
+    "row": 72,
+    "en": "Attacks with a dazzling flash of magical energy that causes damage to enemies. Also casts Restore on all allies.\nWhen used in Momentum mode, this combo will also recover HP."
+  },
+  {
+    "row": 73,
+    "en": "Releases accumulated magical energy in a single mighty attack. Damage increases according to the number of status boosts in effect.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 74,
+    "en": "Generates an explosion with the power of infinite cosmic creation.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 75,
+    "en": "Leaves behind a trail, shaped like three crossed swords, that causes damage to all enemies. Also instantly fills the SP gauges of all allies.\nWhen used in Momentum mode, this combo will also cause additional special damage of all elemental types to a single enemy."
+  },
+  {
+    "row": 76,
+    "en": "Stops time, inflicting innumerable blows in a single instant.\nWhen used in Momentum mode, this combo will also cause additional physical damage to a single enemy."
+  },
+  {
+    "row": 77,
+    "en": "This combo manipulates time, casting Stop on all enemies and boosting the ATB speed of all allies.\nWhen used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly."
+  },
+  {
+    "row": 78,
+    "en": "Channels magical energy from the attacks of allies, then releases it to attack foes. This combo also boosts the Attack and Defense of all allies.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 79,
+    "en": "Attacks by suddenly descending from above, causing more damage the higher HP and MP are.\nWhen used in Momentum mode, this combo will also cause additional physical damage to a single enemy."
+  },
+  {
+    "row": 80,
+    "en": "Locks foes inside a jail of darkness and slashes at them, causing damage that can sometimes also inflict Stone and reduce Defense, ATB speed, and evasion rate. \nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 81,
+    "en": "Summons a shower of stardust with the power of fire and water, causing damage that ignores 50% of Defense.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies, again ignoring 50% of Defense."
+  },
+  {
+    "row": 82,
+    "en": "Condenses all the magical energy in the surrounding area into an explosion. Can sometimes also reduce Attack, Defense, and ATB speed. \nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 83,
+    "en": "Attacks by causing magical energy to fall down from the skies. Also recovers the HP of all allies.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 84,
+    "en": "Attacks with a divine shower imbued with flame magical energy. Also casts Auto-Revive on all allies.\nWhen used in Momentum mode, this combo will also cause additional damage to all enemies that becomes more powerful the lower HP is."
+  },
+  {
+    "row": 85,
+    "en": "Creates a Z-shaped trail that causes damage to foes. Can sometimes also inflict Death.\nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 86,
+    "en": "The users move at a speed too fast to be seen by the naked eye, performing a beautifully interwoven combo attack.\nWhen used in Momentum mode, critical hits will be generated, greatly increasing damage."
+  },
+  {
+    "row": 87,
+    "en": "Attacks by firing a mighty wave of magical energy, causing damage that ignores 50% of Defense.\nWhen used in Momentum mode, this combo can also reduce Defense and elemental resistance."
+  },
+  {
+    "row": 88,
+    "en": "Interferes with the laws of nature, triggering an all-consuming destructive energy.\nWhen used in Momentum mode, it will also cause additional Stun-inflicting damage to all enemies."
+  },
+  {
+    "row": 89,
+    "en": "Plants the sword in the ground and channels magical energy into it to create an electrical discharge. Causes increased damage when striking an enemy's weakness.\nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 90,
+    "en": "Attacks with a torrent of conflicting magical energy.\nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 91,
+    "en": "Fuses together all the magical energy that exists in nature, triggering a huge explosion.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 92,
+    "en": "Generates an explosion with the power to return everything to nothingness. This combo was invented in ancient times, but its use was forbidden due to its immense destructive power.\nWhen used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 93,
+    "en": "Gathers fragments of magical energy from the skies, releasing them in a powerful attack. Critical hits will cause increased damage when generated.\nWhen used in Momentum mode, this combo will also cause additional damage that increases in power in the same way."
+  },
+  {
+    "row": 94,
+    "en": "Generates a gravitational force that distorts space itself. Can sometimes also inflict Sap, Paralysis, and Stop.\nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 95,
+    "en": "Causes a giant snowman to fall down from the sky.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 96,
+    "en": "Consumes life force in order to generate magical energy, and uses it to strike at foes. Causes more damage the lower HP is.\nWhen used in Momentum mode, this combo will also recover HP."
+  },
+  {
+    "row": 97,
+    "en": "Uses magical energy to generate a curtain of light, deploying a defensive wall around all allies. This wall absorbs all magical damage until its HP reaches zero or its duration runs out.\nWhen used in Momentum mode, this combo will also recover HP."
+  },
+  {
+    "row": 98,
+    "en": "Condenses vast amounts of chaos energy to create a shadow mist that causes damage to foes. Can sometimes also inflict Sap.\nWhen used in Momentum mode, this combo will also cause additional special damage with a high critical hit rate to a single enemy."
+  },
+  {
+    "row": 99,
+    "en": "Synchronizes physical and magical energy, releasing a magnificent attack that also causes the SP gauges of all allies to be filled instantly.\nWhen used in Momentum mode, this combo will also cause additional damage that becomes more powerful the higher SP is."
+  },
+  {
+    "row": 100,
+    "en": "Imbues one user's weapon with element-distorting magical energy, in order to unleash a devastating simultaneous attack. Causes increased damage when striking an enemy's weakness.\nWhen used in Momentum mode, this combo will also cause additional damage that can lower elemental resistance."
+  },
+  {
+    "row": 101,
+    "en": "Channels vast amounts of condensed magical energy into an explosion. Can sometimes also reduce status resistance.\nWhen used in Momentum mode, this combo will also cause additional damage to all enemies. This damage can inflict Sap, Paralysis, and Stun."
+  },
+  {
+    "row": 102,
+    "en": "All users attack with weapons charged with a furious power. Causes more damage the lower HP and MP are.\nWhen used in Momentum mode, this combo will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 103,
+    "en": "Attacks by synchronizing released magical energy. Also boosts the Attack, Defense, and ATB speed of all allies.\nWhen used in Momentum mode, this combo will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 104,
+    "en": "This combo is a variation of Grand Cross, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode, the same attack will be generated twice."
+  },
+  {
+    "row": 105,
+    "en": "This combo is a variation of Galactic Force, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 106,
+    "en": "This combo is a variation of Peerless Power, and its appearance is the same.\nIt no longer casts Provoke on allies, but instead causes additional special damage to all enemies. When used in Momentum mode, the same attack will be generated twice."
+  },
+  {
+    "row": 107,
+    "en": "This combo is a variation of Evanescent Flash, and its appearance is the same.\nWhen used in Momentum mode, instead of recovering HP, it will cause additional special damage to all enemies."
+  },
+  {
+    "row": 108,
+    "en": "This combo is a variation of Ultra Release, and its appearance is the same.\nThe damage adjustment based on the number of status boosts in effect is greater, and it will also cause increased damage when used in Momentum mode."
+  },
+  {
+    "row": 109,
+    "en": "This combo is a variation of Big Bang, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 110,
+    "en": "This combo is a variation of Moments in Time, and its appearance is the same.\nIt accumulates more SP, and when used in Momentum mode will cause more damage the higher SP is."
+  },
+  {
+    "row": 111,
+    "en": "This combo is a variation of Perpetual Strike, and its appearance is the same.\nIt inflicts more hits, and when used in Momentum mode, critical hits will also be generated."
+  },
+  {
+    "row": 112,
+    "en": "This combo is a variation of Astral Stasis, and its appearance is the same.\nIt no longer causes damage to enemies, but its duration is increased, and when used in Momentum mode, counters will no longer be reset."
+  },
+  {
+    "row": 113,
+    "en": "This combo is a variation of Apocalypse, and its appearance is the same.\nInstead of boosting the Defense of allies, it boosts their critical hit rate. When used in Momentum mode, it will also reduce the Attack, Defense, ATB speed, and evasion rate of all enemies."
+  },
+  {
+    "row": 114,
+    "en": "This combo is a variation of Hyperion, and its appearance is the same.\nThe damage adjustment based on HP and MP is greater, and when used in Momentum mode it will also cause additional damage that increases in power in the same way."
+  },
+  {
+    "row": 115,
+    "en": "This combo is a variation of Stone Clutch, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause additional damage that increases in power according to the number of status ailments affecting the target."
+  },
+  {
+    "row": 116,
+    "en": "This combo is a variation of Stardust Fall, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will reduce not only Attack but also Defense."
+  },
+  {
+    "row": 117,
+    "en": "This combo is a variation of Detonation, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will boost Attack, Defense, and ATB speed."
+  },
+  {
+    "row": 118,
+    "en": "This combo is a variation of Dragonic Ray, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 119,
+    "en": "This combo is a variation of Rising Phoenix, and its appearance is the same.\nIt is more powerful, and also casts Restore on all allies. Its effect when used in Momentum mode is unchanged."
+  },
+  {
+    "row": 120,
+    "en": "This combo is a variation of Last Letter, and its appearance is the same.\nIts base damage is reduced, but it now increases in power according to the number of status ailments affecting the target. When used in Momentum mode, it will cause additional damage that increases in power in the same way."
+  },
+  {
+    "row": 121,
+    "en": "This combo is a variation of Gaia's Beauty, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode, the same attack will be generated twice."
+  },
+  {
+    "row": 122,
+    "en": "This combo is a variation of Astral Blast, and its appearance is the same.\nIt does not ignore Defense, but when used in Momentum mode will also cause additional special damage to a single enemy, making it more power-oriented."
+  },
+  {
+    "row": 123,
+    "en": "This combo is a variation of Disintegration, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage to a single enemy."
+  },
+  {
+    "row": 124,
+    "en": "This combo is a variation of Thunderbolt, and its appearance is the same.\nIts base damage is reduced, but the damage inflicted when striking an enemy's weakness is further increased. When used in Momentum mode, it will also cause additional damage with a high critical hit rate. Critical hits will also cause increased damage when generated."
+  },
+  {
+    "row": 125,
+    "en": "This combo is a variation of Shining Torrent, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will also recover HP."
+  },
+  {
+    "row": 126,
+    "en": "This combo is a variation of Delta Force, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 127,
+    "en": "This combo is a variation of Omega Flare, and its appearance is the same.\nIt now causes non-elemental damage, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 128,
+    "en": "This combo is a variation of Magicdust, and its appearance is the same.\nIts critical hit rate is higher, and when used in Momentum mode, the damage inflicted is more powerful and has a higher critical hit rate."
+  },
+  {
+    "row": 129,
+    "en": "This combo is a variation of Big Crunch, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause additional damage that increases in power according to the number of status ailments affecting the target."
+  },
+  {
+    "row": 130,
+    "en": "This combo is a variation of Snowman Squash, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause increased damage."
+  },
+  {
+    "row": 131,
+    "en": "This combo is a variation of Penance, and its appearance is the same.\nIt consumes more HP, but damage is now increased according to the amount consumed. When used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 132,
+    "en": "This combo is a variation of Prismatic Glow, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause powerful additional special damage to all enemies."
+  },
+  {
+    "row": 133,
+    "en": "This combo is a variation of Perdition, and its appearance is the same.\nIt no longer inflicts Sap, but has a higher critical hit rate. When used in Momentum mode it will also cause increased damage."
+  },
+  {
+    "row": 134,
+    "en": "This combo is a variation of Snowfall Symphony, and its appearance is the same.\nThe damage caused can sometimes also inflict Stun, and when used in Momentum mode it will cause additional damage with a high critical hit rate."
+  },
+  {
+    "row": 135,
+    "en": "This combo is a variation of Epiphanic Blade, and its appearance is the same.\nIt will now sometimes reduce elemental resistance. When used in Momentum mode, it will also cause additional special damage to all enemies."
+  },
+  {
+    "row": 136,
+    "en": "This combo is a variation of Crimson Flare, and its appearance is the same.\nThe damage caused can sometimes also inflict Stun, and when used in Momentum mode it will also cause additional special damage to a single enemy."
+  },
+  {
+    "row": 137,
+    "en": "This combo is a variation of Earthly Rage, and its appearance is the same.\nThe combo itself no longer causes increased damage according to HP and MP. However, when used in Momentum mode, the damage caused will increase in power in this way."
+  },
+  {
+    "row": 138,
+    "en": "This combo is a variation of Omega Drive, and its appearance is the same.\nIt is less powerful, but when used in Momentum mode will cause additional special damage to all enemies that becomes more powerful according to the number of status boosts in effect."
+  }
+]

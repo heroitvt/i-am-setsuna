@@ -1,0 +1,3044 @@
+[
+  {
+    "id": "SYS01",
+    "jp": "名前を入力してください",
+    "en": "Vui lòng nhập tên dưới.   ",
+    "fr": "Entrez un nom ci-dessous."
+  },
+  {
+    "id": "SYS02",
+    "jp": "はい",
+    "en": "Có ",
+    "fr": "Oui"
+  },
+  {
+    "id": "SYS03",
+    "jp": "いいえ",
+    "en": "Ko",
+    "fr": "Kon"
+  },
+  {
+    "id": "SYS04",
+    "jp": "<NAME_BEFORE>の名前を変更しますか？\r\n※一部使用できない文字があります",
+    "en": "Do you want to change\r\n<NAME_BEFORE>'s name?",
+    "fr": "Voulez-vous changer\r\nle nom <NAME_BEFORE> ?"
+  },
+  {
+    "id": "SYS05",
+    "jp": "使用できない文字が含まれています",
+    "en": "Invalid character used.",
+    "fr": "Caractère non valide."
+  },
+  {
+    "id": "SYS06",
+    "jp": "<NAME_AFTER>\r\nこれでよろしいですか？",
+    "en": "<NAME_AFTER>\r\nDo you want to use this name?",
+    "fr": "<NAME_AFTER>\r\nVoulez-vous utiliser ce nom ?"
+  },
+  {
+    "id": "SYS07",
+    "jp": "〇",
+    "en": "*",
+    "fr": "*"
+  },
+  {
+    "id": "SYS10",
+    "jp": "<NAME_ITM>\r\nを手に入れた！",
+    "en": "Nhận  ed\r\n<NAME_ITM>!",
+    "fr": "Vous avez obtenu\r\n<NAME_ITM> !"
+  },
+  {
+    "id": "SYS11",
+    "jp": "からっぽ！",
+    "en": "It's empty!",
+    "fr": "C'est vide !"
+  },
+  {
+    "id": "SYS12",
+    "jp": "<NUMBER>Ｇ\r\nを手に入れた！",
+    "en": "Nhận  ed\r\n\r\n<NUMBER> G!",
+    "fr": "Vous avez obtenu\r\n\r\n<NUMBER>Or!"
+  },
+  {
+    "id": "SYS13",
+    "jp": "<NAME_ITM>\r\nが入っている！\r\n所持数いっぱいで入手できない！",
+    "en": "Found <NAME_ITM>...\r\nBut your inventory is already full!",
+    "fr": "Vous avez trouvé\r\n<NAME_ITM>\r\nMais votre inventaire est plein !"
+  },
+  {
+    "id": "SYS14",
+    "jp": "鍵がかかっている",
+    "en": "It's locked...",
+    "fr": "C'est fermé..."
+  },
+  {
+    "id": "SYS15",
+    "jp": "<NAME_ITM>\r\nを見つけた！\r\n所持数いっぱいで入手できない！",
+    "en": "Found <NAME_ITM>...\r\nBut your inventory is already full!",
+    "fr": "Vous avez trouvé\r\n<NAME_ITM>\r\nMais votre inventaire est plein !"
+  },
+  {
+    "id": "SYS16",
+    "jp": "HPとMPが回復した！",
+    "en": "Recovered HP and MP!",
+    "fr": "Vous avez récupéré des PV et PM !"
+  },
+  {
+    "id": "SYS20",
+    "jp": "鍵がかかっている",
+    "en": "It's locked...",
+    "fr": "C'est fermé..."
+  },
+  {
+    "id": "SYS21",
+    "jp": "鍵を使った",
+    "en": "Unlocking...",
+    "fr": "Ouverture..."
+  },
+  {
+    "id": "SYS23",
+    "jp": "同じ種類のコマンド法石は\r\n複数装備できません",
+    "en": "The same Command Spritnite cannot\r\nbe equipped twice.",
+    "fr": "Impossible d'équiper la même\r\nspirite de commande 2fois."
+  },
+  {
+    "id": "SYS24",
+    "jp": "使用できない文字を置換表示します",
+    "en": "Words that cannot be used have been\r\nblanked out.",
+    "fr": "Les mots ne pouvant pas être utilisés\r\nont été effacés."
+  },
+  {
+    "id": "SYS25",
+    "jp": "使用できない表示があります",
+    "en": "This name cannot be used.",
+    "fr": "Ce nom ne peut pas être utilisé."
+  },
+  {
+    "id": "SYS26",
+    "jp": "入力しなおす",
+    "en": "Re-enter",
+    "fr": "Entrer de nouveau"
+  },
+  {
+    "id": "SYS27",
+    "jp": "決定",
+    "en": "Confirm",
+    "fr": "Confirmer"
+  },
+  {
+    "id": "SYS28",
+    "jp": "＜入力した名前＞★★★要変更★★★",
+    "en": "<Entered Name> must be changed",
+    "fr": "<Entered Name> doit être changé."
+  },
+  {
+    "id": "SYS29",
+    "jp": "法石をこれ以上持てません\r\n不要な法石を売却してください",
+    "en": "You cannot carry any more spritnite.\r\nPlease sell any that you do not need.",
+    "fr": "Vous ne pouvez pas porter\r\nplus de spirite.\r\nVendez-en."
+  },
+  {
+    "id": "SYS30",
+    "jp": "<NAME_PC>が仲間になった",
+    "en": "<NAME_PC>\r\njoined your party.",
+    "fr": "<NAME_PC>\r\na rejoint votre équipe."
+  },
+  {
+    "id": "SYS31",
+    "jp": "<NAME_PC>が離脱した",
+    "en": "<NAME_PC>\r\nleft your party.",
+    "fr": "<NAME_PC>\r\na quitté votre équipe."
+  },
+  {
+    "id": "SYS32",
+    "jp": "スリップ",
+    "en": "Sap",
+    "fr": "Poison"
+  },
+  {
+    "id": "SYS33",
+    "jp": "麻痺",
+    "en": "Paralysis",
+    "fr": "Paralysie"
+  },
+  {
+    "id": "SYS34",
+    "jp": "混乱",
+    "en": "Confusion",
+    "fr": "Confusion"
+  },
+  {
+    "id": "SYS35",
+    "jp": "石化",
+    "en": "Stone",
+    "fr": "Pétrification"
+  },
+  {
+    "id": "SYS36",
+    "jp": "凍結",
+    "en": "Freeze",
+    "fr": "Gel"
+  },
+  {
+    "id": "SYS37",
+    "jp": "時間停止",
+    "en": "Stop",
+    "fr": "Arrêt"
+  },
+  {
+    "id": "SYS38",
+    "jp": "刹那封印",
+    "en": "Momentum Lock",
+    "fr": "Verrouillage Momentum"
+  },
+  {
+    "id": "SYS39",
+    "jp": "攻撃低下",
+    "en": "Đánh   Down",
+    "fr": "Attaque -"
+  },
+  {
+    "id": "SYS40",
+    "jp": "防御低下",
+    "en": "Defense Down",
+    "fr": "Défense -"
+  },
+  {
+    "id": "SYS41",
+    "jp": "速度低下",
+    "en": "Speed Down",
+    "fr": "Vitesse -"
+  },
+  {
+    "id": "SYS42",
+    "jp": "通常刹那低下",
+    "en": "Momentum Down",
+    "fr": "Momentum -"
+  },
+  {
+    "id": "SYS43",
+    "jp": "攻撃刹那低下",
+    "en": "Đánh   Momentum Down",
+    "fr": "Momentum attaque -"
+  },
+  {
+    "id": "SYS44",
+    "jp": "支援刹那低下",
+    "en": "Support Momentum Down",
+    "fr": "Momentum soutien -"
+  },
+  {
+    "id": "SYS45",
+    "jp": "防御刹那低下",
+    "en": "Defense Momentum Down",
+    "fr": "Momentum défense -"
+  },
+  {
+    "id": "SYS46",
+    "jp": "火耐性低下",
+    "en": "Hỏa  Kháng ance Down",
+    "fr": "Résistance feu -"
+  },
+  {
+    "id": "SYS47",
+    "jp": "水耐性低下",
+    "en": "Water Kháng ance Down",
+    "fr": "Résistance eau -"
+  },
+  {
+    "id": "SYS48",
+    "jp": "天耐性低下",
+    "en": "Light Kháng ance Down",
+    "fr": "Résistance lumière -"
+  },
+  {
+    "id": "SYS49",
+    "jp": "冥耐性低下",
+    "en": "Shadow Kháng ance Down",
+    "fr": "Résistance ténèbres -"
+  },
+  {
+    "id": "SYS50",
+    "jp": "時耐性低下",
+    "en": "Time Kháng ance Down",
+    "fr": "Résistance temps -"
+  },
+  {
+    "id": "SYS51",
+    "jp": "行動予測",
+    "en": "Predict Action",
+    "fr": "Prévoir action"
+  },
+  {
+    "id": "SYS52",
+    "jp": "戦闘不能",
+    "en": "Knocked Out",
+    "fr": "KO"
+  },
+  {
+    "id": "SYS53",
+    "jp": "スタン",
+    "en": "Stun",
+    "fr": "Étourdissement"
+  },
+  {
+    "id": "SYS54",
+    "jp": "即死",
+    "en": "Death",
+    "fr": "Mort"
+  },
+  {
+    "id": "SYS55",
+    "jp": "再生",
+    "en": "Restore",
+    "fr": "Régénération"
+  },
+  {
+    "id": "SYS56",
+    "jp": "集中",
+    "en": "Concentrate",
+    "fr": "Concentration"
+  },
+  {
+    "id": "SYS57",
+    "jp": "自動復活",
+    "en": "Auto-Revive",
+    "fr": "Auto-réanimation"
+  },
+  {
+    "id": "SYS58",
+    "jp": "我慢",
+    "en": "Tenacity",
+    "fr": "Ténacité"
+  },
+  {
+    "id": "SYS59",
+    "jp": "物理回避",
+    "en": "Physical Evasion",
+    "fr": "Esquive physique"
+  },
+  {
+    "id": "SYS60",
+    "jp": "魔法反射",
+    "en": "Repel Magic",
+    "fr": "Anti-magie"
+  },
+  {
+    "id": "SYS61",
+    "jp": "絶対回避",
+    "en": "Guaranteed Evasion",
+    "fr": "Esquive garantie"
+  },
+  {
+    "id": "SYS62",
+    "jp": "魔法盾",
+    "en": "Magical Barrier",
+    "fr": "Barrière magique"
+  },
+  {
+    "id": "SYS63",
+    "jp": "スリップ耐性",
+    "en": "Sap Kháng ance",
+    "fr": "Résistance Poison"
+  },
+  {
+    "id": "SYS64",
+    "jp": "麻痺耐性",
+    "en": "Paralysis Kháng ance",
+    "fr": "Résistance Paralysie"
+  },
+  {
+    "id": "SYS65",
+    "jp": "混乱耐性",
+    "en": "Confusion Kháng ance",
+    "fr": "Résistance Confusion"
+  },
+  {
+    "id": "SYS66",
+    "jp": "石化耐性",
+    "en": "Stone Kháng ance",
+    "fr": "Résistance Pétrification"
+  },
+  {
+    "id": "SYS67",
+    "jp": "凍結耐性",
+    "en": "Freeze Kháng ance",
+    "fr": "Résistance Gel"
+  },
+  {
+    "id": "SYS68",
+    "jp": "時間停止耐性",
+    "en": "Stop Kháng ance",
+    "fr": "Résistance Arrêt"
+  },
+  {
+    "id": "SYS69",
+    "jp": "封印耐性",
+    "en": "Lock Kháng ance",
+    "fr": "Résistance Verrouillage"
+  },
+  {
+    "id": "SYS70",
+    "jp": "スタン耐性",
+    "en": "Stun Kháng ance",
+    "fr": "Résistance Étourdissement"
+  },
+  {
+    "id": "SYS71",
+    "jp": "即死耐性",
+    "en": "Death Kháng ance",
+    "fr": "Résistance Mort"
+  },
+  {
+    "id": "SYS72",
+    "jp": "透明",
+    "en": "Invisibility",
+    "fr": "Invisibilité"
+  },
+  {
+    "id": "SYS73",
+    "jp": "挑発",
+    "en": "Provoke",
+    "fr": "Provocation"
+  },
+  {
+    "id": "SYS74",
+    "jp": "限界突破",
+    "en": "Unlimit",
+    "fr": "Infini"
+  },
+  {
+    "id": "SYS75",
+    "jp": "絶対命中",
+    "en": "Perfect Accuracy",
+    "fr": "Précision parfaite"
+  },
+  {
+    "id": "SYS76",
+    "jp": "効果反転",
+    "en": "Reverse Effect (翻訳不要)",
+    "fr": "Effet inversé (翻訳不要)"
+  },
+  {
+    "id": "SYS77",
+    "jp": "効果多重",
+    "en": "Multiple Effect (翻訳不要)",
+    "fr": "Effet multiple (翻訳不要)"
+  },
+  {
+    "id": "SYS78",
+    "jp": "影攻撃",
+    "en": "Silhouette",
+    "fr": "Silhouette"
+  },
+  {
+    "id": "SYS79",
+    "jp": "異常延長",
+    "en": "Ailment Duration Up",
+    "fr": "Durée altération +"
+  },
+  {
+    "id": "SYS80",
+    "jp": "支援延長",
+    "en": "Boost Duration Up",
+    "fr": "Durée boost +"
+  },
+  {
+    "id": "SYS81",
+    "jp": "攻撃範囲拡大",
+    "en": "Đánh   Range Up",
+    "fr": "Portée attaque +"
+  },
+  {
+    "id": "SYS82",
+    "jp": "回復範囲拡大",
+    "en": "Recovery Range Up",
+    "fr": "Portée récupération +"
+  },
+  {
+    "id": "SYS83",
+    "jp": "支援範囲拡大",
+    "en": "Support Range Up",
+    "fr": "Portée soutien +"
+  },
+  {
+    "id": "SYS84",
+    "jp": "行動準備",
+    "en": "ATB Boost",
+    "fr": "Boost ATB"
+  },
+  {
+    "id": "SYS85",
+    "jp": "連携解放",
+    "en": "Combo Release",
+    "fr": "Combo libre"
+  },
+  {
+    "id": "SYS86",
+    "jp": "連続行動",
+    "en": "Double Action",
+    "fr": "Double action"
+  },
+  {
+    "id": "SYS87",
+    "jp": "物理反撃",
+    "en": "Physical Counterattack",
+    "fr": "Contre-attaque physique"
+  },
+  {
+    "id": "SYS88",
+    "jp": "物理追撃",
+    "en": "Follow-Up Đánh   (Physical)",
+    "fr": "Attaque complémentaire (physique)"
+  },
+  {
+    "id": "SYS89",
+    "jp": "魔法追撃",
+    "en": "Follow-Up Đánh   (Magical)",
+    "fr": "Attaque complémentaire (magique)"
+  },
+  {
+    "id": "SYS90",
+    "jp": "HP吸収",
+    "en": "Absorb HP",
+    "fr": "Absorption PV"
+  },
+  {
+    "id": "SYS91",
+    "jp": "MP吸収",
+    "en": "Absorb MP",
+    "fr": "Absorption PM"
+  },
+  {
+    "id": "SYS92",
+    "jp": "HP上昇",
+    "en": "Max. HP Up",
+    "fr": "PV max. +"
+  },
+  {
+    "id": "SYS93",
+    "jp": "MP上昇",
+    "en": "Max. MP Up",
+    "fr": "PM max. +"
+  },
+  {
+    "id": "SYS94",
+    "jp": "攻撃上昇",
+    "en": "Đánh   Up",
+    "fr": "Attaque +"
+  },
+  {
+    "id": "SYS95",
+    "jp": "防御上昇",
+    "en": "Defense Up",
+    "fr": "Défense +"
+  },
+  {
+    "id": "SYS96",
+    "jp": "速度上昇",
+    "en": "Speed Up",
+    "fr": "Vitesse +"
+  },
+  {
+    "id": "SYS97",
+    "jp": "命中上昇",
+    "en": "Accuracy Rate Up",
+    "fr": "Taux précision +"
+  },
+  {
+    "id": "SYS98",
+    "jp": "回避上昇",
+    "en": "Evasion Rate Up",
+    "fr": "Taux esquive +"
+  },
+  {
+    "id": "SYS99",
+    "jp": "CRT上昇",
+    "en": "Chí Mạng Hit Rate Up",
+    "fr": "Taux coups critiques +"
+  },
+  {
+    "id": "SYS100",
+    "jp": "状態発生率上昇",
+    "en": "Chỉ Số Infliction Rate Up",
+    "fr": "Taux inflict. d'état +"
+  },
+  {
+    "id": "SYS101",
+    "jp": "通常刹那上昇",
+    "en": "SP Up",
+    "fr": "PS +"
+  },
+  {
+    "id": "SYS102",
+    "jp": "攻撃刹那上昇",
+    "en": "Đánh   SP Up",
+    "fr": "PS attaque +"
+  },
+  {
+    "id": "SYS103",
+    "jp": "支援刹那上昇",
+    "en": "Support SP Up",
+    "fr": "PS soutien +"
+  },
+  {
+    "id": "SYS104",
+    "jp": "防御刹那上昇",
+    "en": "Defense SP Up",
+    "fr": "PS défense +"
+  },
+  {
+    "id": "SYS105",
+    "jp": "火属性付与",
+    "en": "Additional Hỏa -Elemental Damage",
+    "fr": "Dégâts feu supplémentaires"
+  },
+  {
+    "id": "SYS106",
+    "jp": "水属性付与",
+    "en": "Additional Water-Elemental Damage",
+    "fr": "Dégâts eau supplémentaires"
+  },
+  {
+    "id": "SYS107",
+    "jp": "天属性付与",
+    "en": "Additional Light-Elemental Damage",
+    "fr": "Dégâts lumière supplémentaires"
+  },
+  {
+    "id": "SYS108",
+    "jp": "冥属性付与",
+    "en": "Additional Shadow-Elemental Damage",
+    "fr": "Dégâts ténèbres supplémentaires"
+  },
+  {
+    "id": "SYS109",
+    "jp": "時属性付与",
+    "en": "Additional Time-Elemental Damage",
+    "fr": "Dégâts temps supplémentaires"
+  },
+  {
+    "id": "SYS110",
+    "jp": "無属性強化",
+    "en": "Kon-Elemental Power Up",
+    "fr": "Pouvoir non-élément +"
+  },
+  {
+    "id": "SYS111",
+    "jp": "火属性強化",
+    "en": "Hỏa -Elemental Power Up",
+    "fr": "Pouvoir feu +"
+  },
+  {
+    "id": "SYS112",
+    "jp": "水属性強化",
+    "en": "Water-Elemental Power Up",
+    "fr": "Pouvoir eau +"
+  },
+  {
+    "id": "SYS113",
+    "jp": "天属性強化",
+    "en": "Light-Elemental Power Up",
+    "fr": "Pouvoir lumière +"
+  },
+  {
+    "id": "SYS114",
+    "jp": "冥属性強化",
+    "en": "Shadow-Elemental Power Up",
+    "fr": "Pouvoir ténèbres +"
+  },
+  {
+    "id": "SYS115",
+    "jp": "時属性強化",
+    "en": "Time-Elemental Power Up",
+    "fr": "Pouvoir temps +"
+  },
+  {
+    "id": "SYS116",
+    "jp": "火耐性上昇",
+    "en": "Hỏa  Kháng ance Up",
+    "fr": "Résistance feu +"
+  },
+  {
+    "id": "SYS117",
+    "jp": "水耐性上昇",
+    "en": "Water Kháng ance Up",
+    "fr": "Résistance eau +"
+  },
+  {
+    "id": "SYS118",
+    "jp": "天耐性上昇",
+    "en": "Light Kháng ance Up",
+    "fr": "Résistance lumière +"
+  },
+  {
+    "id": "SYS119",
+    "jp": "冥耐性上昇",
+    "en": "Shadow Kháng ance Up",
+    "fr": "Résistance ténèbres +"
+  },
+  {
+    "id": "SYS120",
+    "jp": "時耐性上昇",
+    "en": "Time Kháng ance Up",
+    "fr": "Résistance temps +"
+  },
+  {
+    "id": "SYS121",
+    "jp": "経験値上昇",
+    "en": "EXP Boost",
+    "fr": "Boost EXP"
+  },
+  {
+    "id": "SYS122",
+    "jp": "ドロップ上昇",
+    "en": "Drop Boost",
+    "fr": "Boost butin"
+  },
+  {
+    "id": "SYS123",
+    "jp": "昇華上昇",
+    "en": "Fluxation Boost",
+    "fr": "Boost Sublimation"
+  },
+  {
+    "id": "SYS600",
+    "jp": "物理盾",
+    "en": "Physical Barrier",
+    "fr": "Barrière physique"
+  },
+  {
+    "id": "SYS601",
+    "jp": "集中",
+    "en": "Concentration",
+    "fr": "Concentration"
+  },
+  {
+    "id": "SYS602",
+    "jp": "物理防御上昇",
+    "en": "Physical Defense Up",
+    "fr": "Défense physique +"
+  },
+  {
+    "id": "SYS603",
+    "jp": "魔法防御上昇",
+    "en": "Magical Defense Up",
+    "fr": "Défense magique +"
+  },
+  {
+    "id": "SYS604",
+    "jp": "全属性付与",
+    "en": "All-Elemental Damage",
+    "fr": "Dégâts tous éléments"
+  },
+  {
+    "id": "SYS605",
+    "jp": "状態異常解除",
+    "en": "Heal Chỉ Số Ailments",
+    "fr": "Guérison altérations d'état"
+  },
+  {
+    "id": "SYS606",
+    "jp": "状態異常耐性",
+    "en": "Nullify Chỉ Số Ailments",
+    "fr": "Annulation altérations d'état"
+  },
+  {
+    "id": "SYS607",
+    "jp": "状態耐性上昇",
+    "en": "Chỉ Số Kháng ance Up",
+    "fr": "Résistance état +"
+  },
+  {
+    "id": "SYS608",
+    "jp": "発生時間延長",
+    "en": "Duration Boost",
+    "fr": "Boost durée"
+  },
+  {
+    "id": "SYS609",
+    "jp": "全耐性上昇",
+    "en": "All Kháng ances Up",
+    "fr": "Toutes résistances +"
+  },
+  {
+    "id": "SYS610",
+    "jp": "全能力上昇",
+    "en": "All Stats Up",
+    "fr": "Toutes stats +"
+  },
+  {
+    "id": "SYS611",
+    "jp": "絶対防御",
+    "en": "Absolute Defense",
+    "fr": "Défense absolue"
+  },
+  {
+    "id": "SYS612",
+    "jp": "SP蓄積",
+    "en": "Fill SP Gauge",
+    "fr": "Remplir jauge PS"
+  },
+  {
+    "id": "SYS613",
+    "jp": "SP上昇",
+    "en": "SP Boost",
+    "fr": "Boost PS"
+  },
+  {
+    "id": "SYS614",
+    "jp": "連続行動",
+    "en": "Double Action",
+    "fr": "Double action"
+  },
+  {
+    "id": "SYS615",
+    "jp": "フェイズシフト",
+    "en": "Phasal Shift",
+    "fr": "Modulation"
+  },
+  {
+    "id": "SYS616",
+    "jp": "同調",
+    "en": "Sync",
+    "fr": "Synchronisation"
+  },
+  {
+    "id": "SYS617",
+    "jp": "状態発生率上昇",
+    "en": "Chỉ Số Infliction Rate Up",
+    "fr": "Taux inflict. d'état +"
+  },
+  {
+    "id": "SYS618",
+    "jp": "行動準備",
+    "en": "ATB Boost",
+    "fr": "Boost ATB"
+  },
+  {
+    "id": "SYS619",
+    "jp": "能力上昇",
+    "en": "Stat Boost",
+    "fr": "Boost stats"
+  },
+  {
+    "id": "SYS620",
+    "jp": "特殊攻撃付与",
+    "en": "Special Damage",
+    "fr": "Dégâts spéciaux"
+  },
+  {
+    "id": "SYS621",
+    "jp": "特殊カウント継続",
+    "en": "Continuous Counters",
+    "fr": "Ripostes continues"
+  },
+  {
+    "id": "SYS622",
+    "jp": "命中上昇",
+    "en": "Accuracy Rate Up",
+    "fr": "Taux précision +"
+  },
+  {
+    "id": "SYS623",
+    "jp": "能力覚醒",
+    "en": "Stat Trigger",
+    "fr": "Déclencheur stats"
+  },
+  {
+    "id": "SYS624",
+    "jp": "速度覚醒",
+    "en": "Speed Trigger",
+    "fr": "Déclencheur vitesse"
+  },
+  {
+    "id": "SYS625",
+    "jp": "属性覚醒",
+    "en": "All-Element Trigger",
+    "fr": "Déclencheur tous éléments"
+  },
+  {
+    "id": "SYS626",
+    "jp": "万能覚醒",
+    "en": "Special Trigger",
+    "fr": "Déclencheur spécial"
+  },
+  {
+    "id": "SYS627",
+    "jp": "耐性覚醒",
+    "en": "Kháng ance Trigger",
+    "fr": "Déclencheur résistance"
+  },
+  {
+    "id": "SYS628",
+    "jp": "確率覚醒",
+    "en": "Precision Trigger",
+    "fr": "Déclencheur précision"
+  },
+  {
+    "id": "SYS629",
+    "jp": "CRT覚醒",
+    "en": "Chí Mạng Hit Trigger",
+    "fr": "Déclencheur coup critique"
+  },
+  {
+    "id": "SYS630",
+    "jp": "吸収覚醒",
+    "en": "Absorb Trigger",
+    "fr": "Déclencheur absorption"
+  },
+  {
+    "id": "SYS631",
+    "jp": "奥義覚醒",
+    "en": "Counter Trigger",
+    "fr": "Compteur gelé"
+  },
+  {
+    "id": "SYS632",
+    "jp": "状態強化解除",
+    "en": "Hủy Bỏ Chỉ Số Boosts",
+    "fr": "Annulation boosts d'état"
+  },
+  {
+    "id": "SYS633",
+    "jp": "全能力低下",
+    "en": "All Stats Down",
+    "fr": "Toutes stats -"
+  },
+  {
+    "id": "SYS634",
+    "jp": "SP低下",
+    "en": "SP Down",
+    "fr": "PS -"
+  },
+  {
+    "id": "SYS635",
+    "jp": "全耐性低下",
+    "en": "All Kháng ances Down",
+    "fr": "Toutes résistances -"
+  },
+  {
+    "id": "SYS636",
+    "jp": "魔法防御低下",
+    "en": "Magical Defense Down",
+    "fr": "Défense magique -"
+  },
+  {
+    "id": "SYS637",
+    "jp": "状態耐性低下",
+    "en": "Chỉ Số Kháng ance Down",
+    "fr": "Résistance état -"
+  },
+  {
+    "id": "SYS638",
+    "jp": "状態強化無効",
+    "en": "Nullify Chỉ Số Boosts",
+    "fr": "Suppression boosts d'état"
+  },
+  {
+    "id": "SYS639",
+    "jp": "回避低下",
+    "en": "Evasion Rate Down",
+    "fr": "Taux esquive -"
+  },
+  {
+    "id": "SYS640",
+    "jp": "連続行動覚醒",
+    "en": "Double Action Trigger",
+    "fr": "Déclencheur double action"
+  },
+  {
+    "id": "SYS124",
+    "jp": "Press Start Button",
+    "en": "Press Start",
+    "fr": "Appuyer sur Commencer"
+  },
+  {
+    "id": "SYS125",
+    "jp": "2016 Tokyo RPG Factory Co., Ltd. All rights reserved.",
+    "en": "2016 Tokyo RPG Factory Co., Ltd. All rights reserved.",
+    "fr": "2016 Tokyo RPG Factory Co., Ltd. All rights reserved."
+  },
+  {
+    "id": "SYS126",
+    "jp": "Chơi Mới",
+    "en": "Chơi Mới",
+    "fr": "Kouvelle partie"
+  },
+  {
+    "id": "SYS127",
+    "jp": "Tải Game ",
+    "en": "Tải Game ",
+    "fr": "Charger une partie"
+  },
+  {
+    "id": "SYS128",
+    "jp": "Delete Lưu Data",
+    "en": "Delete Lưu d Data",
+    "fr": "Supprimer une sauvegarde"
+  },
+  {
+    "id": "SYS129",
+    "jp": "YESNOウィンドウ",
+    "en": "Có /Ko Window",
+    "fr": "Fenêtre Oui/Kon"
+  },
+  {
+    "id": "SYS130",
+    "jp": "<NAME=CP_0001>の旅は終わった",
+    "en": "<NAME=CP_0001>'s journey is over...",
+    "fr": "Le voyage de <NAME=CP_0001> prend fin..."
+  },
+  {
+    "id": "SYS131",
+    "jp": "いけにえの旅は失敗に終わった",
+    "en": "The pilgrimage ended in failure...",
+    "fr": "Le pèlerinage a été un échec..."
+  },
+  {
+    "id": "SYS132",
+    "jp": "護送任務は失敗に終わった",
+    "en": "You failed to guard the sacrifice...",
+    "fr": "Vous n'avez pas protégé le sacrifice..."
+  },
+  {
+    "id": "SYS133",
+    "jp": "世界の命運は変えられなかった",
+    "en": "You were unable to change the future...",
+    "fr": "Vous n'avez pas pu changer le futur..."
+  },
+  {
+    "id": "SYS134",
+    "jp": "予備１",
+    "en": "Blank 1",
+    "fr": "Vide 1"
+  },
+  {
+    "id": "SYS135",
+    "jp": "予備２",
+    "en": "Blank 2",
+    "fr": "Vide 2"
+  },
+  {
+    "id": "SYS136",
+    "jp": "シルバード",
+    "en": "Diange",
+    "fr": "Ange-gardien"
+  },
+  {
+    "id": "SYS137",
+    "jp": "序章題名",
+    "en": "Prologue",
+    "fr": "Prologue"
+  },
+  {
+    "id": "SYS138",
+    "jp": "1章題名",
+    "en": "Chapter One",
+    "fr": "Chapitre un"
+  },
+  {
+    "id": "SYS139",
+    "jp": "2章題名",
+    "en": "Chapter Two",
+    "fr": "Chapitre deux"
+  },
+  {
+    "id": "SYS140",
+    "jp": "3章題名",
+    "en": "Chapter Three",
+    "fr": "Chapitre trois"
+  },
+  {
+    "id": "SYS141",
+    "jp": "4章題名",
+    "en": "Chapter Four",
+    "fr": "Chapitre quatre"
+  },
+  {
+    "id": "SYS142",
+    "jp": "魔導商会について",
+    "en": "The Hội Ma Thuật    ",
+    "fr": "Le Consortium de magie"
+  },
+  {
+    "id": "SYS143",
+    "jp": "酒場について",
+    "en": "Bếp s",
+    "fr": "Bếp s"
+  },
+  {
+    "id": "SYS144",
+    "jp": "武器強化道具について",
+    "en": "Tempering Đồ  s",
+    "fr": "Objets de consolid."
+  },
+  {
+    "id": "SYS145",
+    "jp": "昇華について",
+    "en": "Fluxation",
+    "fr": "Sublimation"
+  },
+  {
+    "id": "SYS146",
+    "jp": "サポート昇華について",
+    "en": "Support Fluxation",
+    "fr": "Sublimation de soutien"
+  },
+  {
+    "id": "SYS147",
+    "jp": "エンカウントについて",
+    "en": "Encounters",
+    "fr": "Rencontres"
+  },
+  {
+    "id": "SYS148",
+    "jp": "アクティブタイムバトルについて",
+    "en": "Active Time Battle",
+    "fr": "Active Time Battle"
+  },
+  {
+    "id": "SYS149",
+    "jp": "法石について",
+    "en": "Spritnite",
+    "fr": "Spirites"
+  },
+  {
+    "id": "SYS150",
+    "jp": "刹那システムについて",
+    "en": "Momentum Mode",
+    "fr": "Mode Momentum"
+  },
+  {
+    "id": "SYS151",
+    "jp": "刹那システムの効果について",
+    "en": "Momentum Mode Effects",
+    "fr": "Effets du mode Momentum"
+  },
+  {
+    "id": "SYS152",
+    "jp": "セーブについて",
+    "en": "Lưu  Points",
+    "fr": "Points de sauvegarde"
+  },
+  {
+    "id": "SYS153",
+    "jp": "チュートリアル題名12",
+    "en": "Tutorial Title 12",
+    "fr": "Titre didacticiel 12"
+  },
+  {
+    "id": "SYS154",
+    "jp": "チュートリアル題名13",
+    "en": "Tutorial Title 13",
+    "fr": "Titre didacticiel 13"
+  },
+  {
+    "id": "SYS155",
+    "jp": "チュートリアル題名14",
+    "en": "Tutorial Title 14",
+    "fr": "Titre didacticiel 14"
+  },
+  {
+    "id": "SYS156",
+    "jp": "チュートリアル題名15",
+    "en": "Tutorial Title 15",
+    "fr": "Titre didacticiel 15"
+  },
+  {
+    "id": "SYS157",
+    "jp": "チュートリアル題名16",
+    "en": "Tutorial Title 16",
+    "fr": "Titre didacticiel 16"
+  },
+  {
+    "id": "SYS158",
+    "jp": "チュートリアル題名17",
+    "en": "Tutorial Title 17",
+    "fr": "Titre didacticiel 17"
+  },
+  {
+    "id": "SYS159",
+    "jp": "チュートリアル題名18",
+    "en": "Tutorial Title 18",
+    "fr": "Titre didacticiel 18"
+  },
+  {
+    "id": "SYS160",
+    "jp": "チュートリアル題名19",
+    "en": "Tutorial Title 19",
+    "fr": "Titre didacticiel 19"
+  },
+  {
+    "id": "SYS161",
+    "jp": "チュートリアル題名20",
+    "en": "Tutorial Title 20",
+    "fr": "Titre didacticiel 20"
+  },
+  {
+    "id": "SYS162",
+    "jp": "チュートリアル題名21",
+    "en": "Tutorial Title 21",
+    "fr": "Titre didacticiel 21"
+  },
+  {
+    "id": "SYS163",
+    "jp": "チュートリアル題名22",
+    "en": "Tutorial Title 22",
+    "fr": "Titre didacticiel 22"
+  },
+  {
+    "id": "SYS164",
+    "jp": "チュートリアル題名23",
+    "en": "Tutorial Title 23",
+    "fr": "Titre didacticiel 23"
+  },
+  {
+    "id": "SYS165",
+    "jp": "チュートリアル題名24",
+    "en": "Tutorial Title 24",
+    "fr": "Titre didacticiel 24"
+  },
+  {
+    "id": "SYS166",
+    "jp": "チュートリアル題名25",
+    "en": "Tutorial Title 25",
+    "fr": "Titre didacticiel 25"
+  },
+  {
+    "id": "SYS167",
+    "jp": "チュートリアル題名26",
+    "en": "Tutorial Title 26",
+    "fr": "Titre didacticiel 26"
+  },
+  {
+    "id": "SYS168",
+    "jp": "チュートリアル題名27",
+    "en": "Tutorial Title 27",
+    "fr": "Titre didacticiel 27"
+  },
+  {
+    "id": "SYS169",
+    "jp": "チュートリアル題名28",
+    "en": "Tutorial Title 28",
+    "fr": "Titre didacticiel 28"
+  },
+  {
+    "id": "SYS170",
+    "jp": "チュートリアル題名29",
+    "en": "Tutorial Title 29",
+    "fr": "Titre didacticiel 29"
+  },
+  {
+    "id": "SYS171",
+    "jp": "チュートリアル題名30",
+    "en": "Tutorial Title 30",
+    "fr": "Titre didacticiel 30"
+  },
+  {
+    "id": "SYS172",
+    "jp": "チュートリアル題名31",
+    "en": "Tutorial Title 31",
+    "fr": "Titre didacticiel 31"
+  },
+  {
+    "id": "SYS173",
+    "jp": "魔導商会員は各地の村にいます。\r\n\r\n魔導商会には、魔物を倒してドロップした素材を売却することができ、お金を得ることができます。また、売却した素材に応じて、法石を入手することができます。なお、魔物は「特定の属性でトドメをさす」「連携でトドメをさす」「刹那システムを発動してトドメをさす」「状態異常状態でトドメをさす」「大ダメージを与えてトドメをさす」「与えたダメージギリギリでトドメをさす」という感じに、倒し方によって、ドロップするものが変わります。\r\n\r\n入手できる法石は「法石を入手する」で確認できます。ゲームが進行すると、入手できる法石が増えていきますので、こまめにチェックしましょう！",
+    "en": "Members of the Hội Ma Thuật     are found in towns and villages across the land.\r\n\r\nThese members will buy the materials that monsters drop. As well as receiving gold, you can also obtain spritnite stones according to the materials you have previously sold. Monsters will drop different items according to how you defeat them (e.g., using an attack of a certain element, using a combo, using a Momentum mode attack, while they are inflicted with a status ailment, with lots of excess damage, or with just the right amount of damage).\r\n\r\nThe spritnite stones you can obtain can be seen by selecting \"Nhận   Spritnite.\" As you progress through the game, more will become available, so make sure to check back regularly!",
+    "fr": "Vous trouverez des membres du Consortium de magie dans les villes et villages de la région.\r\n\r\nIls achètent des matériaux abandonnés par les monstres en échange d'or, mais aussi de pierres de spirite selon les matériaux vendus. Les monstres abandonnent des objets différents en fonction de la manière dont vous les éliminez (par ex. avec une attaque d'un certain élément, un combo, une attaque en mode Momentum alors qu'ils subissent une altération d'état, avec des dégâts très élevés ou simplement des dégâts en quantité suffisante).\r\n\r\nPour voir les pierres de spirite que vous pouvez obtenir, sélectionnez Obtenir spirite. À mesure que vous progressez, de nouvelles spirites seront disponibles, alors vérifiez régulièrement !"
+  },
+  {
+    "id": "SYS174",
+    "jp": "料理人は各地の村にいます。\r\n\r\n料理人に話すと料理を買うことができます。料理はキャンプ画面でのみ使用でき、次に行う戦闘に影響が発生します。\r\n\r\n料理は食材集めイベントによって、レシピを入手することにより、ラインナップが増えます。食材はフィールドにある光るポイントで入手することができ、食材が揃っている状態で、特定のNPCに話しかけると、レシピが入手できるイベントが発生します。",
+    "en": "Bếp s are found in towns and villages across the land.\r\n\r\nBy talking to them, you can purchase food. Food can only be used from the menu, and comes into effect in the next battle. After that battle, its effect goes away.\r\n\r\nYou can increase the selection of food available by collecting different combinations of ingredients in order to acquire recipes. Ingredients are obtained from the shining spots found on the world map and in area maps. If you talk to certain NPCs once you have the right ingredients, they will give you recipes.",
+    "fr": "Vous trouverez des chefs dans les villes et villages de la région.\r\n\r\nParlez-leur pour acheter des aliments, que vous pourrez ensuite sélectionner à partir du menu. Les aliments sélectionnés sont consommés lors du combat suivant. Après le combat, leur effet\r\ndisparaît.\r\n\r\nPour augmenter la variété d'aliments, récupérez différentes combinaisons d'ingrédients afin d'obtenir des recettes. Vous trouverez des\r\ningrédients dans les endroits brillants de la carte du monde et dans les zones à explorer. Parlez à certains PNJ après avoir obtenu les bons\r\ningrédients pour obtenir des recettes."
+  },
+  {
+    "id": "SYS175",
+    "jp": "旅をしていると、特殊な金属を手に入れることがあります。\r\n\r\nこの金属を武器と同化させることにより、性能を強化することが可能です。強化は武器の装備画面で行うことができます。\r\n\r\nなお、ゲームが進行すると登場するブッキー＆ホッキーで、買うことができるようにもなります。",
+    "en": "Along the course of your journey, you will sometimes come across special metals.\r\n\r\nBy combining these metals with your weapons, it is possible to raise their stats. You can do this from the Weapons menu.\r\n\r\nAs you progress through the game, you will also be able to purchase these metals from Quán Weppy     .",
+    "fr": "Lors de votre périple, vous trouverez parfois des\r\nmétaux spéciaux.\r\n\r\nEn combinant ces métaux avec vos armes, vous pouvez augmenter leurs statistiques, et ce à partir du menu Armes.\r\n\r\nÀ mesure que vous progressez dans le jeu, vous pourrez également acheter ces métaux chez Bukky & Hokky."
+  },
+  {
+    "id": "SYS176",
+    "jp": "昇華効果が設定されている法器を装備している状態で、刹那システムを使うと、ランダムで昇華が発生します。刹那システムを使ったときの魔法の法石が昇華することになり、効果がパワーアップします。\r\n\r\n昇華効果の内容は「魔法の威力を大きくする」「消費MPを低下させる」「行動後にATBがたまるようにする」などがあります。どの昇華効果が発生するかは、装備している法器に依存します。\r\n\r\n戦闘中に昇華が発生すると、戦闘終了時に発生した昇華効果を確認することができます。そのときに、発生した昇華効果を有効にするかを決定することができるため、好みに合わせてカスタマイズすることができます。",
+    "en": "If a character is equipped with a talisman with a Flux bonus, Fluxation will sometimes randomly occur when he or she uses a tech or combo in Momentum mode. This allows you to power up the corresponding spritnite stone by adding \"Fluxes\" to it.\r\n\r\nThere are various types of Flux bonus. They can increase the power of techs, reduce the amount of MP they use, fill the ATB gauge after use, and much more. Which bonus is granted will depend on which talisman is equipped.\r\n\r\nWhen Fluxation occurs during battle, the bonuses will be shown on-screen once the battle is over. You can then choose to add these bonuses to spritnite stones, allowing you to customize them as you wish.",
+    "fr": "Si un personnage est équipé d'un talisman avec un bonus de flux, Sublimation se déclenche parfois de manière aléatoire lorsque le personnage utilise une technique ou un combo en mode Momentum. Cela permet de renforcer la spirite correspondante en y ajoutant des flux.\r\n\r\nIl existe différents types de bonus de flux pour augmenter la puissance des techniques, réduire la quantité de PM utilisés, remplir la jauge ATB après utilisation, etc. Le bonus octroyé dépend du talisman équipé.\r\n\r\nLorsque Sublimation se déclenche en combat, les bonus s'affichent à l'écran à la fin du combat. Vous pouvez alors choisir d'ajouter ces bonus aux spirites afin de les personnaliser."
+  },
+  {
+    "id": "SYS177",
+    "jp": "昇華はコマンド法石だけではなく、サポート法石でも発生することがあります。\r\n\r\nサポート法石の昇華が発生する法器を装備し、サポート法石を複数装備している状態で、刹那システムを使うと、ランダムで昇華が発生します。\r\n\r\nサポート法石の昇華が発生すると、昇華した法石に装備中の他のサポート法石の効果（効果は１／１０）が付与されます。",
+    "en": "As well as Command Spritnite, Fluxation will also sometimes occur in Support Spritnite.\r\n\r\nIf a character is equipped with a talisman with a \"Support Bonus\" Flux bonus, and also equipped with more than one Support Spritnite, Fluxation will sometimes randomly occur in one of the spritnite stones when Momentum mode is used.\r\n\r\nWhen this happens, the effect of one Support Spritnite will be added to the other. However, this added effect will only possess 1/10 of its original power.",
+    "fr": "En plus des spirites de commande, Sublimation peut parfois se déclencher avec les spirites de soutien.\r\n\r\nSi un personnage est équipé d'un talisman avec un bonus de flux Bonus de soutien, ainsi que de plusieurs spirites de soutien, Sublimation peut se\r\ndéclencher de manière aléatoire dans l'une des pierres de spirite lorsque le mode Momentum est utilisé.\r\n\r\nDans ce cas, l'effet d'une spirite de soutien sera ajouté à l'autre. Toutefois, cet effet équivaut à un dixième de sa puissance d'origine."
+  },
+  {
+    "id": "SYS178",
+    "jp": "魔物に近づくと、戦闘が始まります。\r\n\r\n魔物は正面から近づくと警戒しますが、後ろから近づけば、反応しません。警戒されずに戦闘になると、ATBとSPのゲージがたまった状態となり、魔物に先制攻撃を行うことができます。\r\n\r\nATBとSPについては、あとで説明を行いますが、ともに戦闘で必要となるゲージです",
+    "en": "When you move within a certain distance of monsters, battle will begin.\r\n\r\nIf you approach monsters from the front, they will enter guard mode. However, if you approach them from behind, their guard will be down. You will then start the battle with full ATB and SP gauges, allowing you to make a preemptive attack.\r\n\r\nThe ATB and SP gauges are both essential to combat, and will be explained later on.",
+    "fr": "Lorsque vous êtes à une certaine distance des monstres, le combat commence.\r\n\r\nSi vous approchez les monstres de face, ils entrent en mode de défense. Mais si vous les approchez par-derrière, ils ne sont pas sur leurs gardes. Vous commencez ensuite le combat avec vos jauges PS et ATB pleines, ce qui vous permet de lancer une attaque préventive.\r\n\r\nLes jauges ATB et PS sont essentielles au combat et vous seront expliquées ultérieurement."
+  },
+  {
+    "id": "SYS179",
+    "jp": "戦闘が始まると、画面下に表示されているキャラクターそれぞれの「ATB（アクティブタイムバトル）ゲージ」が左から右にたまります。ゲージがたまったキャラクターから、コマンドの選択ができるようになります。コマンドの選択が終了すると、ターゲットを選択できるようになります。コマンドとターゲットの選択が終了すると、キャラクターは行動を行います。\r\n\r\n複数のキャラクターのATBゲージがたまっている場合は、左スティック左右もしくは方向キー左右で、行動するキャラクターを切り替えることができます。\r\n\r\nなお、画面には表示されていませんが、魔物にもATBゲージはあり、たまることで行動するようになります。",
+    "en": "Once battle begins, your characters' ATB (Active Time Battle) gauges, which are displayed at the bottom of the screen, will start to fill up. Once one of your characters' gauges is full, his or her command list will be displayed. Select a command and a target, and the character will then perform that action.\r\n\r\nWhen more than one character has a full ATB gauge, you can press the left and right directional buttons or move the left stick left and right to switch between characters.\r\n\r\nAlthough they aren't displayed on the screen, monsters also have ATB gauges, and will perform actions once they are full.",
+    "fr": "Dès que le combat commence, les jauges ATB (Active Time Battle) de vos personnages, en bas de l'écran, commencent à se remplir. Dès que l'une d'elle est pleine, une liste de commandes s'affiche. Sélectionnez une commande et une cible, et le personnage effectuera cette action.\r\n\r\nLorsque la jauge ATB de plusieurs personnages est pleine, appuyez sur les touches droite et gauche ou dirigez le joystick gauche vers la droite ou la gauche pour changer de personnage.\r\n\r\nLes monstres ont eux aussi des jauges ATB, bien qu'elles ne s'affichent pas à l'écran. Ils effectuent des actions dès qu'elles sont pleines."
+  },
+  {
+    "id": "SYS180",
+    "jp": "「法石」と呼ばれる魔力の持つ石を装備することで、キャラクターはさまざまな力を手に入れることができます。\r\n\r\n法石には「コマンド」と「サポート」の2種類があります。コマンドの法石は装備することで、戦闘中に魔法が使用できるようになります。サポートの法石は装備することで、自動で発生する効果を得ることができるようになります。\r\n\r\n法石の装備はキャンプメニューで行うことができます。法石を装備するには、「封穴」と呼ばれる法器の穴に法石をはめることで行います。最初は1つしかありませんが、キャラクターのレベル上昇や法器の装備により増えていきます。また、封穴にはタイプがあり、「全ての法石が装備できる封穴」「コマンド法石が装備できる封穴」「サポート法石が装備できる封穴」の3種類があります。",
+    "en": "Spritnite are stones that are imbued with magical energy. Equipping them allows your characters to obtain a wide range of powers.\r\n\r\nThere are two types of spritnite: Command Spritnite allow your characters to use different techs during battle and from the Phéps menu, while Support Spritnite grant effects that occur automatically during battle.\r\n\r\nSpritnite can be equipped from the menu. This is done by inserting them into the \"slots\" contained in talismans. At first your characters will only have one slot, but they will gain more as their levels increase, and by equipping different talismans. There are three types of slot: ones for Command Spritnite, ones for Support Spritnite, and ones that can be used to equip either type of spritnite.",
+    "fr": "Les spirites sont des pierres imprégnées d'énergie magique. Équipez-en vos personnages pour obtenir de nombreux pouvoirs. Il existe deux types de spirite : la spirite de commande permet d'utiliser différentes techniques durant le combat et à partir du menu Phépniques. La spirite de soutien octroie des effets qui se produisent automatiquement durant le combat.\r\n\r\nVous pouvez équiper des spirites à partir du menu en les insérant dans les espaces des talismans. Au début, vos personnages disposeront d'un seul espace, mais ils en obtiendront d'autres à mesure que leur niveau augmente, et en équipant différents talismans. Il y a trois types d'espaces : un pour les spirites de commande, un pour les spirites de soutien, et un pour l'un ou l'autre type de spirite."
+  },
+  {
+    "id": "SYS181",
+    "jp": "ATBがたまった状態で待機していると、「SP」と呼ばれる数値の丸いゲージが下から上にたまります。SPのゲージはキャラクターが行動したり、ダメージを受けてもたまります。ゲージが上までたまると1つ発光し、ゲージはリセットされて、再び下から上にたまります。発光は3つまで発生します。\r\n\r\n1つでも発光している状態であれば、さまざまな効果が得られる「刹那システム」を発動することができます。刹那システムはキャラクターが行動する瞬間に、頭上に光が出現するので、そのタイミングに<ICON_SQUARE><BUTTON>を押すことで、発動することができます。",
+    "en": "When a character's ATB gauge is full, but you haven't yet selected a command, the round SP (Special Power) gauge to the right will start to fill up. It will also be filled when your characters perform actions or take damage. Once it is full, it will flash, and one SP point will appear at the top. The gauge will then be reset, and will start to fill up from the bottom once more. The maximum number of SP points is three.\r\n\r\nWhen a character has at least one SP point, you can choose to trigger \"Momentum mode\" to add various additional effects to attacks and techs. Just as one of your characters performs an action, a light will appear above them, and pressing the <ICON_SQUARE> <BUTTON> at that moment will trigger Momentum mode.",
+    "fr": "Lorsque la jauge ATB d'un personnage est pleine, mais que vous n'avez pas encore sélectionné de commande, la jauge PS (Pouvoir spécial) ronde à droite commence à se remplir. Elle se remplit également lorsque vos personnages effectuent des actions ou subissent des dégâts. Une fois remplie, elle scintille et un point de PS apparaît en haut. Alors la jauge se réinitialise et recommence à se remplir. Le nombre maximum de points de PS est de trois.\r\n\r\nLorsqu'un personnage a au moins un point de PS, vous pouvez déclencher le mode Momentum pour ajouter divers effets aux attaques et techniques. Ainsi, lorsqu'un personnage effectue une action, une lumière apparaît au-dessus de lui et si vous appuyez sur <BUTTON> <ICON_SQUARE>, le mode Momentum se déclenche."
+  },
+  {
+    "id": "SYS182",
+    "jp": "刹那システムが発動すると、魔法や連携に追加効果が発生します。発生する効果は、魔法によってそれぞれ変わります。\r\n\r\n攻撃の場合は、追加ダメージを与えたり、クリティカルを発生させたり、状態異常を発生させたりすることができます。回復や支援の場合は、追加回復ができたり、効果範囲を広くしたり、状態強化の発生時間を延長したりできます。\r\n\r\nまた、戦闘をしていると、「シンギュラリティ」という戦況を有利にする効果が味方全体に発生します。発生する効果は複数ありますが、いつ何が発生するかはランダムです。ただし、刹那システムを発動すればするほど、発生する確率が高くなるので、長期戦ではどんどん刹那システムを使いましょう！",
+    "en": "Triggering Momentum mode will add various additional effects to your techs and combos.\r\n\r\nTriggering it when attacking will add additional damage, generate critical hits, or inflict status ailments. Triggering it when using healing or support techs will recover additional HP/MP, increase the tech's range, or increase the duration of status effects.\r\n\r\nDuring battle, special bonuses that affect your whole party also sometimes occur randomly. This is known as \"Singularity.\" There are various different bonuses, and the one that occurs is chosen randomly. The more you use Momentum mode, the greater the chance of Singularity occurring. During long battles, make sure to use Momentum mode as much as possible!",
+    "fr": "L'activation du mode Momentum ajoute divers effets à vos techniques et combos.\r\n\r\nSi vous le déclenchez en attaquant, vous infligez des dégâts supplémentaires ou des altérations d'état, ou générez des coups critiques. Si vous le déclenchez en utilisant des techniques de guérison ou soutien, vous récupérez plus de PV/PM, augmentez la portée des techniques ou la durée des effets d'état.\r\n\r\nEn combat, votre équipe peut aussi bénéficier de bonus spéciaux variés qui apparaissent de manière aléatoire, appelés Singularité. Plus vous utilisez le mode Momentum, plus vous avez de chance d'obtenir Singularité. Dans les longs combats, utilisez le mode Momentum autant que possible !"
+  },
+  {
+    "id": "SYS183",
+    "jp": "ダンジョンにある「光の環」の中に入ると\r\nセーブを行うことができます。\r\n「光の環」の中で<ICON_CIRCLE><BUTTON>を押すとセーブを\r\n行うか否か質問されます。\r\nまた、「光の環」の中でキャンプメニューを\r\n開くと「セーブ」の項目が選択できるように\r\nなっています。いずれかの方法を選べば\r\nセーブ画面へと移行します。\r\n\r\n※セーブができる「光の環」があるのは\r\nダンジョンの中だけです。ただし、後々行く\r\nことができるワールドマップ上では、いつでも\r\nキャンプメニューからセーブを行えます。\r\n\r\nこのゲームでは自動的にセーブを行うことは\r\nありません。こまめにセーブをとることが\r\n旅の重要なポイントとなります。",
+    "en": "Lưu  points are rings of light found in area maps that allow you to record your current progress in the game. If you step inside these rings of light and press the <ICON_CIRCLE> <BUTTON>, you will be asked whether or not you want to save your progress. Alternatively, you can open the main menu while inside the ring and select the Lưu  option.\r\n\r\nLưu  points are only found at certain points within area maps. However, when on the world map, which you will reach later on in the game, you will be able to save your progress at any time from the main menu.\r\n\r\nPlease note that this game does not save automatically. Making sure to save regularly will be essential to your journey's success.",
+    "fr": "Les points de sauvegarde sont des cercles de lumière répartis dans les zones à explorer qui vous permettent d'enregistrer votre progression. Si vous entrez dans ces cercles de lumière et que vous appuyez sur <BUTTON> <ICON_CIRCLE>, vous pouvez décider de sauvegarder ou non votre progression. Vous pouvez aussi ouvrir le menu principal une fois à l'intérieur du cercle et sélectionner Sauvegarder.\r\n\r\nLes points de sauvegarde ne se trouvent qu'à certains endroits dans les zones à explorer. Toutefois, sur la carte du monde, à laquelle vous aurez accès plus tard, vous pourrez sauvegarder votre progression à tout moment à partir du menu principal.\r\n\r\nIl n'y a pas de sauvegarde automatique, alors pensez à sauvegarder régulièrement."
+  },
+  {
+    "id": "SYS184",
+    "jp": "チュートリアル内容12",
+    "en": "Tutorial Contents 12",
+    "fr": "Contenu didacticiel 12"
+  },
+  {
+    "id": "SYS185",
+    "jp": "チュートリアル内容13",
+    "en": "Tutorial Contents 13",
+    "fr": "Contenu didacticiel 13"
+  },
+  {
+    "id": "SYS186",
+    "jp": "チュートリアル内容14",
+    "en": "Tutorial Contents 14",
+    "fr": "Contenu didacticiel 14"
+  },
+  {
+    "id": "SYS187",
+    "jp": "チュートリアル内容15",
+    "en": "Tutorial Contents 15",
+    "fr": "Contenu didacticiel 15"
+  },
+  {
+    "id": "SYS188",
+    "jp": "チュートリアル内容16",
+    "en": "Tutorial Contents 16",
+    "fr": "Contenu didacticiel 16"
+  },
+  {
+    "id": "SYS189",
+    "jp": "チュートリアル内容17",
+    "en": "Tutorial Contents 17",
+    "fr": "Contenu didacticiel 17"
+  },
+  {
+    "id": "SYS190",
+    "jp": "チュートリアル内容18",
+    "en": "Tutorial Contents 18",
+    "fr": "Contenu didacticiel 18"
+  },
+  {
+    "id": "SYS191",
+    "jp": "チュートリアル内容19",
+    "en": "Tutorial Contents 19",
+    "fr": "Contenu didacticiel 19"
+  },
+  {
+    "id": "SYS192",
+    "jp": "チュートリアル内容20",
+    "en": "Tutorial Contents 20",
+    "fr": "Contenu didacticiel 20"
+  },
+  {
+    "id": "SYS193",
+    "jp": "チュートリアル内容21",
+    "en": "Tutorial Contents 21",
+    "fr": "Contenu didacticiel 21"
+  },
+  {
+    "id": "SYS194",
+    "jp": "チュートリアル内容22",
+    "en": "Tutorial Contents 22",
+    "fr": "Contenu didacticiel 22"
+  },
+  {
+    "id": "SYS195",
+    "jp": "チュートリアル内容23",
+    "en": "Tutorial Contents 23",
+    "fr": "Contenu didacticiel 23"
+  },
+  {
+    "id": "SYS196",
+    "jp": "チュートリアル内容24",
+    "en": "Tutorial Contents 24",
+    "fr": "Contenu didacticiel 24"
+  },
+  {
+    "id": "SYS197",
+    "jp": "チュートリアル内容25",
+    "en": "Tutorial Contents 25",
+    "fr": "Contenu didacticiel 25"
+  },
+  {
+    "id": "SYS198",
+    "jp": "チュートリアル内容26",
+    "en": "Tutorial Contents 26",
+    "fr": "Contenu didacticiel 26"
+  },
+  {
+    "id": "SYS199",
+    "jp": "チュートリアル内容27",
+    "en": "Tutorial Contents 27",
+    "fr": "Contenu didacticiel 27"
+  },
+  {
+    "id": "SYS200",
+    "jp": "チュートリアル内容28",
+    "en": "Tutorial Contents 28",
+    "fr": "Contenu didacticiel 28"
+  },
+  {
+    "id": "SYS201",
+    "jp": "チュートリアル内容29",
+    "en": "Tutorial Contents 29",
+    "fr": "Contenu didacticiel 29"
+  },
+  {
+    "id": "SYS202",
+    "jp": "チュートリアル内容30",
+    "en": "Tutorial Contents 30",
+    "fr": "Contenu didacticiel 30"
+  },
+  {
+    "id": "SYS203",
+    "jp": "チュートリアル内容31",
+    "en": "Tutorial Contents 31",
+    "fr": "Contenu didacticiel 31"
+  },
+  {
+    "id": "SYS204",
+    "jp": "チュートリアル内容32",
+    "en": "Tutorial Contents 32",
+    "fr": "Contenu didacticiel 32"
+  },
+  {
+    "id": "SYS205",
+    "jp": "チュートリアル内容33",
+    "en": "Tutorial Contents 33",
+    "fr": "Contenu didacticiel 33"
+  },
+  {
+    "id": "SYS206",
+    "jp": "チュートリアル内容34",
+    "en": "Tutorial Contents 34",
+    "fr": "Contenu didacticiel 34"
+  },
+  {
+    "id": "SYS207",
+    "jp": "チュートリアル内容35",
+    "en": "Tutorial Contents 35",
+    "fr": "Contenu didacticiel 35"
+  },
+  {
+    "id": "SYS208",
+    "jp": "チュートリアル内容36",
+    "en": "Tutorial Contents 36",
+    "fr": "Contenu didacticiel 36"
+  },
+  {
+    "id": "SYS209",
+    "jp": "チュートリアル内容37",
+    "en": "Tutorial Contents 37",
+    "fr": "Contenu didacticiel 37"
+  },
+  {
+    "id": "SYS210",
+    "jp": "チュートリアル内容38",
+    "en": "Tutorial Contents 38",
+    "fr": "Contenu didacticiel 38"
+  },
+  {
+    "id": "SYS211",
+    "jp": "チュートリアル内容39",
+    "en": "Tutorial Contents 39",
+    "fr": "Contenu didacticiel 39"
+  },
+  {
+    "id": "SYS212",
+    "jp": "チュートリアル内容40",
+    "en": "Tutorial Contents 40",
+    "fr": "Contenu didacticiel 40"
+  },
+  {
+    "id": "SYS213",
+    "jp": "チュートリアル内容41",
+    "en": "Tutorial Contents 41",
+    "fr": "Contenu didacticiel 41"
+  },
+  {
+    "id": "SYS214",
+    "jp": "チュートリアル内容42",
+    "en": "Tutorial Contents 42",
+    "fr": "Contenu didacticiel 42"
+  },
+  {
+    "id": "SYS215",
+    "jp": "チュートリアル内容43",
+    "en": "Tutorial Contents 43",
+    "fr": "Contenu didacticiel 43"
+  },
+  {
+    "id": "SYS216",
+    "jp": "チュートリアル内容44",
+    "en": "Tutorial Contents 44",
+    "fr": "Contenu didacticiel 44"
+  },
+  {
+    "id": "SYS217",
+    "jp": "チュートリアル内容45",
+    "en": "Tutorial Contents 45",
+    "fr": "Contenu didacticiel 45"
+  },
+  {
+    "id": "SYS218",
+    "jp": "チュートリアル内容46",
+    "en": "Tutorial Contents 46",
+    "fr": "Contenu didacticiel 46"
+  },
+  {
+    "id": "SYS219",
+    "jp": "チュートリアル内容47",
+    "en": "Tutorial Contents 47",
+    "fr": "Contenu didacticiel 47"
+  },
+  {
+    "id": "SYS220",
+    "jp": "チュートリアル内容48",
+    "en": "Tutorial Contents 48",
+    "fr": "Contenu didacticiel 48"
+  },
+  {
+    "id": "SYS221",
+    "jp": "チュートリアル内容49",
+    "en": "Tutorial Contents 49",
+    "fr": "Contenu didacticiel 49"
+  },
+  {
+    "id": "SYS222",
+    "jp": "チュートリアル内容50",
+    "en": "Tutorial Contents 50",
+    "fr": "Contenu didacticiel 50"
+  },
+  {
+    "id": "SYS223",
+    "jp": "チュートリアル内容51",
+    "en": "Tutorial Contents 51",
+    "fr": "Contenu didacticiel 51"
+  },
+  {
+    "id": "SYS224",
+    "jp": "新しくゲームを開始しますが、よろしいですか？",
+    "en": "A new game will be started. Is this OK?",
+    "fr": "Une nouvelle partie sera lancée. Confirmer ?"
+  },
+  {
+    "id": "SYS225",
+    "jp": "セーブしますか？",
+    "en": "Do you want to save your progress?",
+    "fr": "Sauvegarder votre progression ?"
+  },
+  {
+    "id": "SYS226",
+    "jp": "ゲーム中のボイスを適用しますか？\r\n(コンフィグ画面で変更できます)",
+    "en": "Do you want to turn on in-game voices?\r\n(Can be changed later from the Cài Đặt  menu.)",
+    "fr": "Activer les voix dans le jeu ?\r\n(Modifiable dans le menu Paramètres.)"
+  },
+  {
+    "id": "SYS227",
+    "jp": "Press OPTIONS Button",
+    "en": "Press the OPTIONS button",
+    "fr": "Appuyez sur la touche OPTIONS."
+  },
+  {
+    "id": "SYS228",
+    "jp": "セーブしますか？\r\n※使用したアイテムは消費された状態でセーブされます",
+    "en": "Do you want to save the game?\r\n(Any used items will be removed from your inventory.)",
+    "fr": "Sauvegarder la partie ?\r\n(Les objets utilisés seront retirés de l'inventaire.)"
+  },
+  {
+    "id": "SYS229",
+    "jp": "セーブデータが壊れています",
+    "en": "Lưu  data is corrupted.",
+    "fr": "Sauvegarde corrompue"
+  },
+  {
+    "id": "SYS230",
+    "jp": "コンプリート！\r\n経験値<GET_EXP>取得",
+    "en": "Area complete!\r\nYou earned <GET_EXP> EXP.",
+    "fr": "Zone terminée !\r\nVous avez gagné <GET_EXP> EXP."
+  },
+  {
+    "id": "SYS231",
+    "jp": "扉は固く閉ざされている",
+    "en": "It's firmly shut, and won't budge...",
+    "fr": "C'est bien fermé..."
+  },
+  {
+    "id": "SYS232",
+    "jp": "タイトル画面に戻りますが、よろしいですか？",
+    "en": "You will now be returned to the title screen. Is this OK?",
+    "fr": "Vous allez revenir à l'écran titre. Confirmer ?"
+  },
+  {
+    "id": "SYS233",
+    "jp": "キャラクターの名前を入力してください。",
+    "en": "Please enter a new name for this character.",
+    "fr": "Entrez un nouveau nom pour ce personnage."
+  },
+  {
+    "id": "SYS234",
+    "jp": "飛空艇の名前を入力してください。",
+    "en": "Please enter a new name for the airship.",
+    "fr": "Entrez un nouveau nom pour l'aéronef."
+  },
+  {
+    "id": "SYS235",
+    "jp": "法石の名前を入力してください。",
+    "en": "Please enter a new name for this spritnite.",
+    "fr": "Entrez un nouveau nom pour cette spirite."
+  },
+  {
+    "id": "SYS236",
+    "jp": "(最大<MAX_NUM>文字まで)",
+    "en": "(Up to <MAX_NUM> characters)",
+    "fr": "(<MAX_NUM> caractères max.)"
+  },
+  {
+    "id": "SYS237",
+    "jp": "決定",
+    "en": "Confirm",
+    "fr": "Confirmer"
+  },
+  {
+    "id": "SYS238",
+    "jp": "戻る",
+    "en": "Hủy Bỏ",
+    "fr": "Retour"
+  },
+  {
+    "id": "SYS240",
+    "jp": "セーブ",
+    "en": "Lưu ",
+    "fr": "Sauvegarder"
+  },
+  {
+    "id": "SYS241",
+    "jp": "ロード",
+    "en": "Load",
+    "fr": "Charger"
+  },
+  {
+    "id": "SYS242",
+    "jp": "削除",
+    "en": "Delete",
+    "fr": "Supprimer"
+  },
+  {
+    "id": "SYS243",
+    "jp": "決定",
+    "en": "Confirm",
+    "fr": "Conf."
+  },
+  {
+    "id": "SYS244",
+    "jp": "戻る",
+    "en": "Hủy Bỏ",
+    "fr": "Retour"
+  },
+  {
+    "id": "SYS245",
+    "jp": "情報",
+    "en": "Info",
+    "fr": "Infos"
+  },
+  {
+    "id": "SYS246",
+    "jp": "いけにえと雪のセツナ",
+    "en": "I am Setsuna.",
+    "fr": "I am Setsuna."
+  },
+  {
+    "id": "SYS247",
+    "jp": "新しいデータ",
+    "en": "New Data",
+    "fr": "Kouvelles données"
+  },
+  {
+    "id": "SYS248",
+    "jp": "更新日",
+    "en": "Date",
+    "fr": "Date"
+  },
+  {
+    "id": "SYS249",
+    "jp": "サイズ",
+    "en": "Size",
+    "fr": "Taille"
+  },
+  {
+    "id": "SYS250",
+    "jp": "詳細",
+    "en": "Details",
+    "fr": "Détails"
+  },
+  {
+    "id": "SYS251",
+    "jp": "Lv.<CHARA_LEVEL>:<CHARA_NAME>",
+    "en": "<CHARA_NAME> (Cấp  <CHARA_LEVEL>)",
+    "fr": "<CHARA_NAME> (nv. <CHARA_LEVEL>)"
+  },
+  {
+    "id": "SYS252",
+    "jp": "<DATA_NAME>\r\nこのセーブデータを上書きしますか？",
+    "en": "<DATA_NAME>\r\nDo you want to overwrite this save data?",
+    "fr": "<DATA_NAME>\r\nÉcraser cette sauvegarde ?"
+  },
+  {
+    "id": "SYS253",
+    "jp": "<DATA_NAME>\r\nこのセーブデータを削除しますか？",
+    "en": "<DATA_NAME>\r\nDo you want to delete this save data?",
+    "fr": "<DATA_NAME>\r\nSupprimer cette sauvegarde ?"
+  },
+  {
+    "id": "SYS260",
+    "jp": "ゲームを終了しますか？",
+    "en": "ゲームを終了しますか？",
+    "fr": "ゲームを終了しますか？"
+  },
+  {
+    "id": "SYS261",
+    "jp": "はい",
+    "en": "はい",
+    "fr": "はい"
+  },
+  {
+    "id": "SYS262",
+    "jp": "いいえ",
+    "en": "いいえ",
+    "fr": "いいえ"
+  },
+  {
+    "id": "SYS263",
+    "jp": "Do you want to exit?",
+    "en": "Do you want to exit?",
+    "fr": "Do you want to exit?"
+  },
+  {
+    "id": "SYS264",
+    "jp": "Có ",
+    "en": "Có ",
+    "fr": "Có "
+  },
+  {
+    "id": "SYS265",
+    "jp": "Ko",
+    "en": "Ko",
+    "fr": "Ko"
+  },
+  {
+    "id": "SYS340",
+    "jp": "Voulez-vous quitter ?",
+    "en": "Voulez-vous quitter ?",
+    "fr": "Voulez-vous quitter ?"
+  },
+  {
+    "id": "SYS341",
+    "jp": "Oui",
+    "en": "Oui",
+    "fr": "Oui"
+  },
+  {
+    "id": "SYS342",
+    "jp": "Kon",
+    "en": "Kon",
+    "fr": "Kon"
+  },
+  {
+    "id": "SYS266",
+    "jp": "コンフィグ",
+    "en": "コンフィグ",
+    "fr": "コンフィグ"
+  },
+  {
+    "id": "SYS267",
+    "jp": "言語設定",
+    "en": "言語設定",
+    "fr": "言語設定"
+  },
+  {
+    "id": "SYS268",
+    "jp": "英語",
+    "en": "英語",
+    "fr": "英語"
+  },
+  {
+    "id": "SYS269",
+    "jp": "日本語",
+    "en": "日本語",
+    "fr": "日本語"
+  },
+  {
+    "id": "SYS270",
+    "jp": "画面",
+    "en": "画面",
+    "fr": "画面"
+  },
+  {
+    "id": "SYS271",
+    "jp": "FullScreen",
+    "en": "Full Screen",
+    "fr": "Full Screen"
+  },
+  {
+    "id": "SYS272",
+    "jp": "Window",
+    "en": "Window",
+    "fr": "Window"
+  },
+  {
+    "id": "SYS273",
+    "jp": "解像度",
+    "en": "解像度",
+    "fr": "解像度"
+  },
+  {
+    "id": "SYS274",
+    "jp": "3840×2160",
+    "en": "3840×2160",
+    "fr": "3840×2160"
+  },
+  {
+    "id": "SYS275",
+    "jp": "2560×1440",
+    "en": "2560×1440",
+    "fr": "2560×1440"
+  },
+  {
+    "id": "SYS276",
+    "jp": "1920×1080",
+    "en": "1920×1080",
+    "fr": "1920×1080"
+  },
+  {
+    "id": "SYS277",
+    "jp": "1280×720",
+    "en": "1280×720",
+    "fr": "1280×720"
+  },
+  {
+    "id": "SYS278",
+    "jp": "960×540",
+    "en": "960×540",
+    "fr": "960×540"
+  },
+  {
+    "id": "SYS279",
+    "jp": "操作タイプ",
+    "en": "操作タイプ",
+    "fr": "操作タイプ"
+  },
+  {
+    "id": "SYS280",
+    "jp": "ゲームパッド",
+    "en": "ゲームパッド",
+    "fr": "ゲームパッド"
+  },
+  {
+    "id": "SYS281",
+    "jp": "キーボード",
+    "en": "キーボード",
+    "fr": "キーボード"
+  },
+  {
+    "id": "SYS282",
+    "jp": "キーコンフィグ\r\n(ゲームパッド)",
+    "en": "キーコンフィグ\r\n\r\n(ゲームパッド)",
+    "fr": "キーコンフィグ\r\n\r\n(ゲームパッド)"
+  },
+  {
+    "id": "SYS283",
+    "jp": "キーコンフィグ\r\n(キーボード)",
+    "en": "キーコンフィグ\r\n\r\n(キーボード)",
+    "fr": "キーコンフィグ\r\n\r\n(キーボード)"
+  },
+  {
+    "id": "SYS284",
+    "jp": "決定、話す、調べる",
+    "en": "決定、話す、調べる",
+    "fr": "決定、話す、調べる"
+  },
+  {
+    "id": "SYS285",
+    "jp": "キャンセル",
+    "en": "キャンセル",
+    "fr": "キャンセル"
+  },
+  {
+    "id": "SYS286",
+    "jp": "メニュー表示",
+    "en": "メニュー表示",
+    "fr": "メニュー表示"
+  },
+  {
+    "id": "SYS287",
+    "jp": "刹那システム発動",
+    "en": "刹那システム発動",
+    "fr": "刹那システム発動"
+  },
+  {
+    "id": "SYS288",
+    "jp": "カテゴリ切り替え(右)",
+    "en": "カテゴリ切り替え(右)",
+    "fr": "カテゴリ切り替え(右)"
+  },
+  {
+    "id": "SYS289",
+    "jp": "カテゴリ切り替え(左)",
+    "en": "カテゴリ切り替え(左)",
+    "fr": "カテゴリ切り替え(左)"
+  },
+  {
+    "id": "SYS290",
+    "jp": "一時停止(バトル中)",
+    "en": "一時停止(バトル中)",
+    "fr": "一時停止(バトル中)"
+  },
+  {
+    "id": "SYS291",
+    "jp": "移動(上)、項目選択(上)",
+    "en": "移動(上)、項目選択(上)",
+    "fr": "移動(上)、項目選択(上)"
+  },
+  {
+    "id": "SYS292",
+    "jp": "移動(右)、項目選択(右)",
+    "en": "移動(右)、項目選択(右)",
+    "fr": "移動(右)、項目選択(右)"
+  },
+  {
+    "id": "SYS293",
+    "jp": "移動(左)、項目選択(左)",
+    "en": "移動(左)、項目選択(左)",
+    "fr": "移動(左)、項目選択(左)"
+  },
+  {
+    "id": "SYS294",
+    "jp": "移動(下)、項目選択(下)",
+    "en": "移動(下)、項目選択(下)",
+    "fr": "移動(下)、項目選択(下)"
+  },
+  {
+    "id": "SYS295",
+    "jp": "雪世界の記憶・モデル回転(右)",
+    "en": "雪世界の記憶・モデル回転(右)",
+    "fr": "雪世界の記憶・モデル回転(右)"
+  },
+  {
+    "id": "SYS296",
+    "jp": "雪世界の記憶・モデル回転(左)",
+    "en": "雪世界の記憶・モデル回転(左)",
+    "fr": "雪世界の記憶・モデル回転(左)"
+  },
+  {
+    "id": "SYS297",
+    "jp": "設定終了",
+    "en": "設定終了",
+    "fr": "設定終了"
+  },
+  {
+    "id": "SYS298",
+    "jp": "設定の初期化",
+    "en": "設定の初期化",
+    "fr": "設定の初期化"
+  },
+  {
+    "id": "SYS299",
+    "jp": "設定を初期化しますか？",
+    "en": "設定を初期化しますか？",
+    "fr": "設定を初期化しますか？"
+  },
+  {
+    "id": "SYS300",
+    "jp": "OK",
+    "en": "OK",
+    "fr": "OK"
+  },
+  {
+    "id": "SYS301",
+    "jp": "注意：\r\nキーボードで設定できるキーは、[0～9]、[A～Z]、スペースキーのみです。",
+    "en": "注意：\r\n\r\nキーボードで設定できるキーは、[0～9]、[A～Z]、スペースキーのみです。",
+    "fr": "注意：\r\n\r\nキーボードで設定できるキーは、[0～9]、[A～Z]、スペースキーのみです。"
+  },
+  {
+    "id": "SYS302",
+    "jp": "Cài Đặt ",
+    "en": "Cài Đặt ",
+    "fr": "Cài Đặt "
+  },
+  {
+    "id": "SYS303",
+    "jp": "Ngôn Ngữ",
+    "en": "Ngôn Ngữ",
+    "fr": "Ngôn Ngữ"
+  },
+  {
+    "id": "SYS304",
+    "jp": "English",
+    "en": "English",
+    "fr": "English"
+  },
+  {
+    "id": "SYS305",
+    "jp": "Japanese",
+    "en": "Japanese",
+    "fr": "Japanese"
+  },
+  {
+    "id": "SYS306",
+    "jp": "Chế Độ Màn ",
+    "en": "Chế Độ Màn ",
+    "fr": "Chế Độ Màn "
+  },
+  {
+    "id": "SYS307",
+    "jp": "Phân Giải ",
+    "en": "Phân Giải ",
+    "fr": "Phân Giải "
+  },
+  {
+    "id": "SYS308",
+    "jp": "Điều Khiển  ",
+    "en": "Điều Khiển  ",
+    "fr": "Điều Khiển  "
+  },
+  {
+    "id": "SYS309",
+    "jp": "Tay Cầm ",
+    "en": "Tay Cầm ",
+    "fr": "Tay Cầm "
+  },
+  {
+    "id": "SYS310",
+    "jp": "Bàn Phím",
+    "en": "Bàn Phím",
+    "fr": "Bàn Phím"
+  },
+  {
+    "id": "SYS311",
+    "jp": "Button Config\r\n(Tay Cầm )",
+    "en": "Button Config\r\n\r\n(Tay Cầm )",
+    "fr": "Button Config\r\n\r\n(Tay Cầm )"
+  },
+  {
+    "id": "SYS312",
+    "jp": "Key Config\r\n(Bàn Phím)",
+    "en": "Key Config\r\n\r\n(Bàn Phím)",
+    "fr": "Key Config\r\n\r\n(Bàn Phím)"
+  },
+  {
+    "id": "SYS313",
+    "jp": "Confirm Selection/Nói /Examine",
+    "en": "Confirm Selection/Nói /Examine",
+    "fr": "Confirm Selection/Nói /Examine"
+  },
+  {
+    "id": "SYS314",
+    "jp": "Hủy Bỏ",
+    "en": "Hủy Bỏ",
+    "fr": "Hủy Bỏ"
+  },
+  {
+    "id": "SYS315",
+    "jp": "Mở Menu Chính ",
+    "en": "Mở Menu Chính ",
+    "fr": "Mở Menu Chính "
+  },
+  {
+    "id": "SYS316",
+    "jp": "Kích Hoạt Momentum   ",
+    "en": "Kích Hoạt Momentum   ",
+    "fr": "Kích Hoạt Momentum   "
+  },
+  {
+    "id": "SYS317",
+    "jp": "Chuyển Trang (Phải)            ",
+    "en": "Chuyển Trang (Phải)            ",
+    "fr": "Chuyển Trang (Phải)            "
+  },
+  {
+    "id": "SYS318",
+    "jp": "Chuyển Trang (Trái)           ",
+    "en": "Chuyển Trang (Trái)           ",
+    "fr": "Chuyển Trang (Trái)           "
+  },
+  {
+    "id": "SYS319",
+    "jp": "Tạm Dừng Trận Đấu    ",
+    "en": "Tạm Dừng Trận Đấu    ",
+    "fr": "Tạm Dừng Trận Đấu    "
+  },
+  {
+    "id": "SYS320",
+    "jp": "Di Chuyển (Lên)           ",
+    "en": "Di Chuyển (Lên)           ",
+    "fr": "Di Chuyển (Lên)           "
+  },
+  {
+    "id": "SYS321",
+    "jp": "Di Chuyển (Phải)             ",
+    "en": "Di Chuyển (Phải)             ",
+    "fr": "Di Chuyển (Phải)             "
+  },
+  {
+    "id": "SYS322",
+    "jp": "Di Chuyển (Trái)            ",
+    "en": "Di Chuyển (Trái)            ",
+    "fr": "Di Chuyển (Trái)            "
+  },
+  {
+    "id": "SYS323",
+    "jp": "Di Chuyển (Xuống)           ",
+    "en": "Di Chuyển (Xuống)           ",
+    "fr": "Di Chuyển (Xuống)           "
+  },
+  {
+    "id": "SYS324",
+    "jp": "Rotate Model (R) (Biên Niên Sử   )",
+    "en": "Rotate Model (R) (Biên Niên Sử   )",
+    "fr": "Rotate Model (R) (Biên Niên Sử   )"
+  },
+  {
+    "id": "SYS325",
+    "jp": "Rotate Model (L) (Biên Niên Sử   )",
+    "en": "Rotate Model (L) (Biên Niên Sử   )",
+    "fr": "Rotate Model (L) (Biên Niên Sử   )"
+  },
+  {
+    "id": "SYS326",
+    "jp": "Exit Cài Đặt ",
+    "en": "Exit Cài Đặt ",
+    "fr": "Exit Cài Đặt "
+  },
+  {
+    "id": "SYS327",
+    "jp": "Về Mặc Định     ",
+    "en": "Về Mặc Định     ",
+    "fr": "Về Mặc Định     "
+  },
+  {
+    "id": "SYS328",
+    "jp": "Khôi phục về mặc định         ?",
+    "en": "Khôi phục về mặc định         ?",
+    "fr": "Khôi phục về mặc định         ?"
+  },
+  {
+    "id": "SYS329",
+    "jp": "Please note that the only keyboard keys that can be used are 0-9,\r\nA-Z, and the space key.",
+    "en": "Please note that the only keyboard keys that can be used are 0-9,\r\nA-Z, and the space key.",
+    "fr": "Please note that the only keyboard keys that can be used are 0-9,\r\nA-Z, and the space key."
+  },
+  {
+    "id": "SYS343",
+    "jp": "Paramètres",
+    "en": "Paramètres",
+    "fr": "Paramètres"
+  },
+  {
+    "id": "SYS344",
+    "jp": "Langue",
+    "en": "Langue",
+    "fr": "Langue"
+  },
+  {
+    "id": "SYS345",
+    "jp": "Français",
+    "en": "Français",
+    "fr": "Français"
+  },
+  {
+    "id": "SYS346",
+    "jp": "Japonais",
+    "en": "Japonais",
+    "fr": "Japonais"
+  },
+  {
+    "id": "SYS347",
+    "jp": "Mode écran",
+    "en": "Mode écran",
+    "fr": "Mode écran"
+  },
+  {
+    "id": "SYS348",
+    "jp": "Résolution",
+    "en": "Résolution",
+    "fr": "Résolution"
+  },
+  {
+    "id": "SYS349",
+    "jp": "Commandes",
+    "en": "Commandes",
+    "fr": "Commandes"
+  },
+  {
+    "id": "SYS350",
+    "jp": "Manette",
+    "en": "Manette",
+    "fr": "Manette"
+  },
+  {
+    "id": "SYS351",
+    "jp": "Clavier",
+    "en": "Clavier",
+    "fr": "Clavier"
+  },
+  {
+    "id": "SYS352",
+    "jp": "Config. touches\r\n\r\n(Manette)",
+    "en": "Config. touches\r\n\r\n(Manette)",
+    "fr": "Config. touches\r\n\r\n(Manette)"
+  },
+  {
+    "id": "SYS353",
+    "jp": "Config. touches\r\n\r\n(Clavier)",
+    "en": "Config. touches\r\n\r\n(Clavier)",
+    "fr": "Config. touches\r\n\r\n(Clavier)"
+  },
+  {
+    "id": "SYS354",
+    "jp": "Sélectionner/Parler/Examiner",
+    "en": "Sélectionner/Parler/Examiner",
+    "fr": "Sélectionner/Parler/Examiner"
+  },
+  {
+    "id": "SYS355",
+    "jp": "Annuler",
+    "en": "Annuler",
+    "fr": "Annuler"
+  },
+  {
+    "id": "SYS356",
+    "jp": "Ouvrir menu principal",
+    "en": "Ouvrir menu principal",
+    "fr": "Ouvrir menu principal"
+  },
+  {
+    "id": "SYS357",
+    "jp": "Déclencher mode Momentum",
+    "en": "Déclencher mode Momentum",
+    "fr": "Déclencher mode Momentum"
+  },
+  {
+    "id": "SYS358",
+    "jp": "Changer page/catégorie (D)",
+    "en": "Changer page/catégorie (D)",
+    "fr": "Changer page/catégorie (D)"
+  },
+  {
+    "id": "SYS359",
+    "jp": "Changer page/catégorie (G)",
+    "en": "Changer page/catégorie (G)",
+    "fr": "Changer page/catégorie (G)"
+  },
+  {
+    "id": "SYS360",
+    "jp": "Pause (en combat)",
+    "en": "Pause (en combat)",
+    "fr": "Pause (en combat)"
+  },
+  {
+    "id": "SYS361",
+    "jp": "Déplacer curseur/perso. (H)",
+    "en": "Déplacer curseur/perso. (H)",
+    "fr": "Déplacer curseur/perso. (H)"
+  },
+  {
+    "id": "SYS362",
+    "jp": "Déplacer curseur/perso. (D)",
+    "en": "Déplacer curseur/perso. (D)",
+    "fr": "Déplacer curseur/perso. (D)"
+  },
+  {
+    "id": "SYS363",
+    "jp": "Déplacer curseur/perso. (G)",
+    "en": "Déplacer curseur/perso. (G)",
+    "fr": "Déplacer curseur/perso. (G)"
+  },
+  {
+    "id": "SYS364",
+    "jp": "Déplacer curseur/perso. (B)",
+    "en": "Déplacer curseur/perso. (B)",
+    "fr": "Déplacer curseur/perso. (B)"
+  },
+  {
+    "id": "SYS365",
+    "jp": "Pivoter (D) (Chroniques des neiges)",
+    "en": "Pivoter (D) (Chroniques des neiges)",
+    "fr": "Pivoter (D) (Chroniques des neiges)"
+  },
+  {
+    "id": "SYS366",
+    "jp": "Pivoter (G) (Chroniques des neiges)",
+    "en": "Pivoter (G) (Chroniques des neiges)",
+    "fr": "Pivoter (G) (Chroniques des neiges)"
+  },
+  {
+    "id": "SYS367",
+    "jp": "Valider",
+    "en": "Valider",
+    "fr": "Valider"
+  },
+  {
+    "id": "SYS368",
+    "jp": "Par défaut",
+    "en": "Par défaut",
+    "fr": "Par défaut"
+  },
+  {
+    "id": "SYS369",
+    "jp": "Restaurer les paramètres par défaut ?",
+    "en": "Restaurer les paramètres par défaut ?",
+    "fr": "Restaurer les paramètres par défaut ?"
+  },
+  {
+    "id": "SYS370",
+    "jp": "Kotez que seules les touches 0-9,\r\nA-Z et la touche espace peuvent être utilisées.",
+    "en": "Kotez que seules les touches 0-9,\r\nA-Z et la touche espace peuvent être utilisées.",
+    "fr": "Kotez que seules les touches 0-9,\r\nA-Z et la touche espace peuvent être utilisées."
+  },
+  {
+    "id": "DBG01",
+    "jp": "【START】 全て閉める,【〇】決定,【×】戻る",
+    "en": "Start: Close All, 〇: Confirm, ×: Go Back",
+    "fr": "Start : Fermer tout, 〇 : Confirmer, × : Revenir"
+  },
+  {
+    "id": "DBG02",
+    "jp": "次ヘ→",
+    "en": "Next →",
+    "fr": "Suivant →"
+  },
+  {
+    "id": "DBG03",
+    "jp": "←前ヘ",
+    "en": "← Previous",
+    "fr": "← Précédent"
+  },
+  {
+    "id": "DBG04",
+    "jp": "フィールド",
+    "en": "Area Maps",
+    "fr": "Zones"
+  },
+  {
+    "id": "DBG05",
+    "jp": "バトル",
+    "en": "Combat",
+    "fr": "Combat"
+  },
+  {
+    "id": "DBG06",
+    "jp": "イベント",
+    "en": "Events",
+    "fr": "Événements"
+  },
+  {
+    "id": "DBG07",
+    "jp": "システム",
+    "en": "Hệ Máy",
+    "fr": "Système"
+  },
+  {
+    "id": "DBG08",
+    "jp": "UI",
+    "en": "UI",
+    "fr": "IU"
+  },
+  {
+    "id": "DBG09",
+    "jp": "エフェクト",
+    "en": "Effects",
+    "fr": "Effets"
+  },
+  {
+    "id": "DBG10",
+    "jp": "サウンド",
+    "en": "Sound",
+    "fr": "Audio"
+  },
+  {
+    "id": "DBG11",
+    "jp": "パラメーター",
+    "en": "Parameters",
+    "fr": "Paramètres"
+  },
+  {
+    "id": "DBG12",
+    "jp": "Steam",
+    "en": "Steam",
+    "fr": "Steam"
+  },
+  {
+    "id": "DBG13",
+    "jp": "自動保存",
+    "en": "Auto-Lưu ",
+    "fr": "Sauvegarde automatique"
+  },
+  {
+    "id": "DBG14",
+    "jp": "保存",
+    "en": "Lưu ",
+    "fr": "Sauvegarder"
+  },
+  {
+    "id": "DBG15",
+    "jp": "初期化",
+    "en": "Reset All",
+    "fr": "Réinitialiser tout"
+  },
+  {
+    "id": "DBG16",
+    "jp": "シーンジャンプ",
+    "en": "Scene Jump",
+    "fr": "Changer scène"
+  },
+  {
+    "id": "DBG17",
+    "jp": "メニューへ\r\n戻る",
+    "en": "Go to Menu\r\nGo Back",
+    "fr": "Aller au menu\r\nRevenir"
+  },
+  {
+    "id": "DBG18",
+    "jp": "フロア選択",
+    "en": "Floor Select",
+    "fr": "Sélection de sol"
+  },
+  {
+    "id": "DBG19",
+    "jp": "味方無敵",
+    "en": "Allies Invincible",
+    "fr": "Alliés invincibles"
+  },
+  {
+    "id": "DBG20",
+    "jp": "敵無敵",
+    "en": "Enemies Invincible",
+    "fr": "Ennemis invincibles"
+  },
+  {
+    "id": "DBG21",
+    "jp": "1撃で味方死亡",
+    "en": "One hit kills allies",
+    "fr": "Un coup tue les alliés"
+  },
+  {
+    "id": "DBG22",
+    "jp": "1撃で敵死亡",
+    "en": "One hit kills enemies",
+    "fr": "Un coup tue les ennemis"
+  },
+  {
+    "id": "DBG23",
+    "jp": "消費MP0",
+    "en": "0 MP Consumed",
+    "fr": "0 PM consommé"
+  },
+  {
+    "id": "DBG24",
+    "jp": "HP可視化",
+    "en": "HP Visible",
+    "fr": "PV visibles"
+  },
+  {
+    "id": "DBG25",
+    "jp": "リザルト表示",
+    "en": "Display Results",
+    "fr": "Afficher résultats"
+  },
+  {
+    "id": "DBG26",
+    "jp": "ゲームオーバー表示",
+    "en": "Display Game Over",
+    "fr": "Afficher fin de partie"
+  },
+  {
+    "id": "DBG27",
+    "jp": "ATBゲージ(同時に付けた場合はStop優先)",
+    "en": "ATB Gauge (Stop is prioritized when both set)",
+    "fr": "Jauge ATB (Arrêt prioritaire si deux options activées)"
+  },
+  {
+    "id": "DBG28",
+    "jp": "味方Stop",
+    "en": "Allies: Stop",
+    "fr": "Alliés : Arrêt"
+  },
+  {
+    "id": "DBG29",
+    "jp": "味方Max",
+    "en": "Allies: Max",
+    "fr": "Alliés : Max."
+  },
+  {
+    "id": "DBG30",
+    "jp": "敵Stop",
+    "en": "Enemies: Stop",
+    "fr": "Ennemis : Arrêt"
+  },
+  {
+    "id": "DBG31",
+    "jp": "敵Max",
+    "en": "Enemies: Max",
+    "fr": "Ennemis : Max."
+  },
+  {
+    "id": "DBG32",
+    "jp": "敵グループテスト",
+    "en": "Enemy Test (Group)",
+    "fr": "Test ennemi (groupe)"
+  },
+  {
+    "id": "DBG33",
+    "jp": "敵単体テスト",
+    "en": "Enemy Test (Single)",
+    "fr": "Test ennemi (seul)"
+  },
+  {
+    "id": "DBG34",
+    "jp": "敵のレベル",
+    "en": "Enemy Level",
+    "fr": "Niveau ennemi"
+  },
+  {
+    "id": "DBG35",
+    "jp": "スキル永続",
+    "en": "Continue Using Phép",
+    "fr": "Continuer avec technique"
+  },
+  {
+    "id": "DBG36",
+    "jp": "強制昇華発生",
+    "en": "Force Fluxation",
+    "fr": "Forcer Sublimation"
+  },
+  {
+    "id": "DBG37",
+    "jp": "死なない",
+    "en": "Never Die",
+    "fr": "Jamais mourir"
+  },
+  {
+    "id": "DBG38",
+    "jp": "スキルテスト",
+    "en": "Test Phép",
+    "fr": "Test technique"
+  },
+  {
+    "id": "DBG39",
+    "jp": "進行度設定",
+    "en": "Progress Cài Đặt ",
+    "fr": "Paramètres de progression"
+  },
+  {
+    "id": "DBG40",
+    "jp": "シナリオフラグ設定",
+    "en": "Set Scenario Flags",
+    "fr": "Activer/Désactiver fonction"
+  },
+  {
+    "id": "DBG41",
+    "jp": "シーンチェンジ",
+    "en": "Scene Change",
+    "fr": "Changement de scène"
+  },
+  {
+    "id": "DBG42",
+    "jp": "会話スキップ有効\r\n※キャンセルボタン押しっぱなしでスキップ",
+    "en": "Enable Dialogue Skipping\r\n(Hold Hủy Bỏ button to skip)",
+    "fr": "Activer Passer dialogue\r\n(Maintenir touche Annuler pour passer)"
+  },
+  {
+    "id": "DBG43",
+    "jp": "サブクエスト\r\n進行度",
+    "en": "SubQuest\r\nProgress",
+    "fr": "Progression\r\nquête secondaire"
+  },
+  {
+    "id": "DBG44",
+    "jp": "繰り返すシーン",
+    "en": "Repeat Scenes",
+    "fr": "Répéter scènes"
+  },
+  {
+    "id": "DBG45",
+    "jp": "アイテム全入手",
+    "en": "Nhận   All Đồ  s",
+    "fr": "Obtenir tous les objets"
+  },
+  {
+    "id": "DBG46",
+    "jp": "スキル全入手",
+    "en": "Nhận   All Phéps",
+    "fr": "Obtenir toutes les techniques"
+  },
+  {
+    "id": "DBG47",
+    "jp": "ブレイブストーリー全開放",
+    "en": "Unlock All BraveStory Entries",
+    "fr": "Déverrouiller toutes les entrées BraveStory"
+  },
+  {
+    "id": "DBG48",
+    "jp": "DebugLog無効",
+    "en": "Disable DebugLog",
+    "fr": "Désactiver journal debug"
+  },
+  {
+    "id": "DBG49",
+    "jp": "マスターキー",
+    "en": "Master Key",
+    "fr": "Clé principale"
+  },
+  {
+    "id": "DBG50",
+    "jp": "FPS表示",
+    "en": "Display FPS",
+    "fr": "Afficher images par seconde"
+  },
+  {
+    "id": "DBG51",
+    "jp": "AllomMem表示",
+    "en": "Display AllomMem",
+    "fr": "Afficher AllocMem"
+  },
+  {
+    "id": "DBG52",
+    "jp": "Diagnostics表示",
+    "en": "Display Diagnostics",
+    "fr": "Afficher diagnostique"
+  },
+  {
+    "id": "DBG53",
+    "jp": "コライダー可視化",
+    "en": "Colliders Visible",
+    "fr": "Colliders visibles"
+  },
+  {
+    "id": "DBG54",
+    "jp": "バトルコライダー可視化",
+    "en": "Battle Colliders Visible",
+    "fr": "Colliders de combat visibles"
+  },
+  {
+    "id": "DBG55",
+    "jp": "無限宝箱",
+    "en": "Infinite Treasure Chests",
+    "fr": "Coffres au trésor infinis"
+  },
+  {
+    "id": "DBG56",
+    "jp": "キャンプメニュー\r\n無効",
+    "en": "Main Menu\r\nDisabled",
+    "fr": "Menu principal\r\ndésactivé"
+  },
+  {
+    "id": "DBG57",
+    "jp": "遅",
+    "en": "Slow",
+    "fr": "Lent"
+  },
+  {
+    "id": "DBG58",
+    "jp": "普通",
+    "en": "Kormal",
+    "fr": "Kormal"
+  },
+  {
+    "id": "DBG59",
+    "jp": "やや速",
+    "en": "Fast",
+    "fr": "Rapide"
+  },
+  {
+    "id": "DBG60",
+    "jp": "速",
+    "en": "Very Fast",
+    "fr": "Très rapide"
+  },
+  {
+    "id": "DBG61",
+    "jp": "メッセージ速度",
+    "en": "Message Speed",
+    "fr": "Vitesse message"
+  },
+  {
+    "id": "DBG62",
+    "jp": "タイムスケール",
+    "en": "Time Scale",
+    "fr": "Échelle de temps"
+  },
+  {
+    "id": "DBG63",
+    "jp": "タイトルに戻る",
+    "en": "Return to Title Screen",
+    "fr": "Revenir à l'écran titre"
+  },
+  {
+    "id": "DBG64",
+    "jp": "フレームレート",
+    "en": "Frame Rate",
+    "fr": "Fréquence d'images"
+  },
+  {
+    "id": "DBG65",
+    "jp": "エンディング\r\nテスト",
+    "en": "Test Credits",
+    "fr": "Crédits test"
+  },
+  {
+    "id": "DBG66",
+    "jp": "1枚絵\r\n(〇ボタンで消す)",
+    "en": "Full-Screen Image\r\n(〇 button to hide)",
+    "fr": "Image plein écran\r\n(touche 〇 pour masquer)"
+  },
+  {
+    "id": "DBG67",
+    "jp": "LoadOn/Off",
+    "en": "Loading On/Off",
+    "fr": "Chargement On/Off"
+  },
+  {
+    "id": "DBG68",
+    "jp": "FilterOn/Off",
+    "en": "Filters On/Off",
+    "fr": "Filtres On/Off"
+  },
+  {
+    "id": "DBG69",
+    "jp": "GameOver\r\nOn/Off",
+    "en": "GameOver Screen On/Off",
+    "fr": "Écran fin de partie On/Off"
+  },
+  {
+    "id": "DBG70",
+    "jp": "全UI非表示",
+    "en": "Hide All UI",
+    "fr": "Masquer IU"
+  },
+  {
+    "id": "DBG71",
+    "jp": "昇華効果確認\r\n強制表示",
+    "en": "Force Fluxation\r\nEffect Display",
+    "fr": "Forcer Sublimation\r\nAffichage effets"
+  },
+  {
+    "id": "DBG72",
+    "jp": "エフェクト設定",
+    "en": "Effect Cài Đặt ",
+    "fr": "Paramètres effets"
+  },
+  {
+    "id": "DBG73",
+    "jp": "XZ方向のオフセット(単位：cm)",
+    "en": "XZ Position Offset (cm)",
+    "fr": "Décalage position XZ (cm)"
+  },
+  {
+    "id": "DBG74",
+    "jp": "所持金MAX",
+    "en": "Max. Money",
+    "fr": "Argent max."
+  },
+  {
+    "id": "DBG75",
+    "jp": "レベルMAX",
+    "en": "Max. Levels",
+    "fr": "Niveaux max."
+  },
+  {
+    "id": "DBG76",
+    "jp": "HPMP全回復",
+    "en": "Full HP/MP",
+    "fr": "PV/PM max."
+  },
+  {
+    "id": "DBG77",
+    "jp": "パラメータ\r\n再読み込み",
+    "en": "Reload\r\nParameters",
+    "fr": "Recharger\r\nParamètres"
+  },
+  {
+    "id": "DBG78",
+    "jp": "レベル設定",
+    "en": "Set Levels",
+    "fr": "Définir niveaux"
+  },
+  {
+    "id": "DBG79",
+    "jp": "実績",
+    "en": "Results",
+    "fr": "Résultats"
+  },
+  {
+    "id": "DBG80",
+    "jp": "アンロック",
+    "en": "Unlock",
+    "fr": "Déverrouiller"
+  },
+  {
+    "id": "DBG81",
+    "jp": "ロック",
+    "en": "Lock",
+    "fr": "Verrouiller"
+  },
+  {
+    "id": "DBG82",
+    "jp": "マップの基点へ",
+    "en": "Go to Map Center",
+    "fr": "Aller au centre de la carte"
+  },
+  {
+    "id": "DBG83",
+    "jp": "移動コリジョン無効",
+    "en": "Disable Movement Collision",
+    "fr": "Désactiver colliders mouvement"
+  },
+  {
+    "id": "DBG84",
+    "jp": "イベントコリジョン無効",
+    "en": "Disable Event Collision",
+    "fr": "Désactiver colliders événement"
+  },
+  {
+    "id": "DBG85",
+    "jp": "エンカウント無効",
+    "en": "Disable Battles",
+    "fr": "Désactiver combats"
+  },
+  {
+    "id": "DBG86",
+    "jp": "フリーカメラ",
+    "en": "Free Camera",
+    "fr": "Caméra libre"
+  },
+  {
+    "id": "DBG87",
+    "jp": "飛空艇の追加",
+    "en": "Add Airship",
+    "fr": "Ajouter aéronef"
+  },
+  {
+    "id": "DBG88",
+    "jp": "オブジェクト配置無効",
+    "en": "Disable Object Placement",
+    "fr": "Désactiver placement objets"
+  },
+  {
+    "id": "DBG89",
+    "jp": "敵選択",
+    "en": "Select Enemy",
+    "fr": "Sélectionner ennemi"
+  },
+  {
+    "id": "DBG90",
+    "jp": "セツナゲージ",
+    "en": "Momentum Gauge",
+    "fr": "Jauge Momentum"
+  },
+  {
+    "id": "DBG91",
+    "jp": "Y方向のオフセット(単位：cm)",
+    "en": "Y Position Offset (cm)",
+    "fr": "Décalage position Y (cm)"
+  },
+  {
+    "id": "DBG92",
+    "jp": "決定",
+    "en": "Confirm",
+    "fr": "Confirmer"
+  },
+  {
+    "id": "DBG93",
+    "jp": "一括",
+    "en": "Batch",
+    "fr": "Lot"
+  },
+  {
+    "id": "DBG94",
+    "jp": "イベントアイテム\r\n全入手",
+    "en": "Nhận   All EventĐồ  s",
+    "fr": "Obtenir tous objets d'événement"
+  },
+  {
+    "id": "SHP01",
+    "jp": "ディアンジュ",
+    "en": "Diange",
+    "fr": "Ange-gardien"
+  },
+  {
+    "id": "DBG95",
+    "jp": "シンギュラリティ",
+    "en": "Singularity",
+    "fr": "Singularité"
+  },
+  {
+    "id": "DBG96",
+    "jp": "バフ",
+    "en": "Buff",
+    "fr": "Bonus"
+  },
+  {
+    "id": "DBG97",
+    "jp": "デバフ",
+    "en": "Debuff",
+    "fr": "Malus"
+  },
+  {
+    "id": "DBG98",
+    "jp": "味方",
+    "en": "Allies",
+    "fr": "Alliés"
+  },
+  {
+    "id": "DBG99",
+    "jp": "敵",
+    "en": "Enemies",
+    "fr": "Ennemis"
+  },
+  {
+    "id": "DBG100",
+    "jp": "攻撃に付与",
+    "en": "at attack",
+    "fr": "en attaque"
+  },
+  {
+    "id": "SYS330",
+    "jp": "ゲーム終了",
+    "en": "ゲーム終了",
+    "fr": "ゲーム終了"
+  },
+  {
+    "id": "SYS331",
+    "jp": "Exit Game",
+    "en": "Exit Game",
+    "fr": "Exit Game"
+  },
+  {
+    "id": "SYS371",
+    "jp": "Quitter le jeu",
+    "en": "Quitter le jeu",
+    "fr": "Quitter le jeu"
+  },
+  {
+    "id": "SYS332",
+    "jp": "キーコンフィグ",
+    "en": "キーコンフィグ",
+    "fr": "キーコンフィグ"
+  },
+  {
+    "id": "SYS333",
+    "jp": "or",
+    "en": "or",
+    "fr": "ou"
+  },
+  {
+    "id": "SYS334",
+    "jp": "+",
+    "en": "+",
+    "fr": "+"
+  },
+  {
+    "id": "SYS335",
+    "jp": "Key Config",
+    "en": "Key Config",
+    "fr": "Key Config"
+  },
+  {
+    "id": "SYS372",
+    "jp": "Config. touches",
+    "en": "Config. touches",
+    "fr": "Config. touches"
+  },
+  {
+    "id": "SYS336",
+    "jp": "キーコンフィグ",
+    "en": "Key Config",
+    "fr": "Config. touches"
+  },
+  {
+    "id": "SYS337",
+    "jp": "Press Any Button",
+    "en": "Press Any Button",
+    "fr": "Appuyez sur une touche"
+  },
+  {
+    "id": "SYS338",
+    "jp": "Press Any Key",
+    "en": "Press Any Key",
+    "fr": "Appuyez sur une touche"
+  },
+  {
+    "id": "SYS373",
+    "jp": "フランス語",
+    "en": "フランス語",
+    "fr": "フランス語"
+  },
+  {
+    "id": "SYS374",
+    "jp": "French",
+    "en": "French",
+    "fr": "French"
+  },
+  {
+    "id": "SYS375",
+    "jp": "Français",
+    "en": "Français",
+    "fr": "Français"
+  },
+  {
+    "id": "SYS376",
+    "jp": "Plein écran",
+    "en": "Plein écran",
+    "fr": "Plein écran"
+  },
+  {
+    "id": "SYS377",
+    "jp": "Fenêtre",
+    "en": "Fenêtre",
+    "fr": "Fenêtre"
+  },
+  {
+    "id": "SYS378",
+    "jp": "セーブが完了しました",
+    "en": "Lưu  complete.",
+    "fr": "Sauvegarde effectuée."
+  },
+  {
+    "id": "SYS379",
+    "jp": "削除が完了しました",
+    "en": "Đã xóa hoàn tất.",
+    "fr": "Supprimer effectuée."
+  }
+]

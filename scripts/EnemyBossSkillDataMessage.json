@@ -1,0 +1,870 @@
+[
+  {
+    "row": 6,
+    "en": "Dive Attack"
+  },
+  {
+    "row": 8,
+    "en": "Wing Slice"
+  },
+  {
+    "row": 10,
+    "en": "Burning Breath"
+  },
+  {
+    "row": 12,
+    "en": "Blazing Breath"
+  },
+  {
+    "row": 14,
+    "en": "Inhale"
+  },
+  {
+    "row": 16,
+    "en": "Inhale"
+  },
+  {
+    "row": 18,
+    "en": "Frosty Breath"
+  },
+  {
+    "row": 20,
+    "en": "Blizzard Breath"
+  },
+  {
+    "row": 22,
+    "en": "Inhale"
+  },
+  {
+    "row": 24,
+    "en": "Inhale"
+  },
+  {
+    "row": 26,
+    "en": "Big Bite"
+  },
+  {
+    "row": 28,
+    "en": "Bodyslam"
+  },
+  {
+    "row": 30,
+    "en": "Water Spray"
+  },
+  {
+    "row": 32,
+    "en": "Tsunami"
+  },
+  {
+    "row": 34,
+    "en": "Bellow"
+  },
+  {
+    "row": 36,
+    "en": "Dive"
+  },
+  {
+    "row": 38,
+    "en": "Tidal Wave"
+  },
+  {
+    "row": 40,
+    "en": "Big Bite"
+  },
+  {
+    "row": 42,
+    "en": "Bodyslam"
+  },
+  {
+    "row": 44,
+    "en": "Tsunami"
+  },
+  {
+    "row": 46,
+    "en": "Snowstorm"
+  },
+  {
+    "row": 48,
+    "en": "Tidal Wave"
+  },
+  {
+    "row": 50,
+    "en": "Slash"
+  },
+  {
+    "row": 52,
+    "en": "Swipe"
+  },
+  {
+    "row": 54,
+    "en": "Fire"
+  },
+  {
+    "row": 56,
+    "en": "Fire II"
+  },
+  {
+    "row": 58,
+    "en": "Ice"
+  },
+  {
+    "row": 60,
+    "en": "Ice II"
+  },
+  {
+    "row": 62,
+    "en": "Toxic Breath"
+  },
+  {
+    "row": 64,
+    "en": "Hide in Shell"
+  },
+  {
+    "row": 66,
+    "en": "Emerge from Shell"
+  },
+  {
+    "row": 68,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 70,
+    "en": "Lightning II"
+  },
+  {
+    "row": 72,
+    "en": "Demi II"
+  },
+  {
+    "row": 74,
+    "en": "Deadly Claw"
+  },
+  {
+    "row": 76,
+    "en": "Deadly Bite"
+  },
+  {
+    "row": 78,
+    "en": "Transform"
+  },
+  {
+    "row": 80,
+    "en": "Golden Claw"
+  },
+  {
+    "row": 82,
+    "en": "Golden Fang"
+  },
+  {
+    "row": 84,
+    "en": "Golden Wind"
+  },
+  {
+    "row": 86,
+    "en": "Slow"
+  },
+  {
+    "row": 88,
+    "en": "Stop"
+  },
+  {
+    "row": 90,
+    "en": "Missile Punch"
+  },
+  {
+    "row": 92,
+    "en": "Twin Missile Punch"
+  },
+  {
+    "row": 94,
+    "en": "Laser Beam"
+  },
+  {
+    "row": 96,
+    "en": "Rampage"
+  },
+  {
+    "row": 98,
+    "en": "Slow II"
+  },
+  {
+    "row": 100,
+    "en": "Stop II"
+  },
+  {
+    "row": 102,
+    "en": "Blowback"
+  },
+  {
+    "row": 104,
+    "en": "Tackle"
+  },
+  {
+    "row": 106,
+    "en": "Horn Slice"
+  },
+  {
+    "row": 108,
+    "en": "Poison Needle"
+  },
+  {
+    "row": 110,
+    "en": "Sticky Thread"
+  },
+  {
+    "row": 112,
+    "en": "Pengy Rebirth"
+  },
+  {
+    "row": 114,
+    "en": "Royal Fusion"
+  },
+  {
+    "row": 116,
+    "en": "Royal Bite"
+  },
+  {
+    "row": 118,
+    "en": "Power Vacuum"
+  },
+  {
+    "row": 120,
+    "en": "Pengy Missile"
+  },
+  {
+    "row": 122,
+    "en": "Power Dive"
+  },
+  {
+    "row": 124,
+    "en": "Combo Attack 1 (Not used)"
+  },
+  {
+    "row": 126,
+    "en": "Combo Attack 2 (Not used)"
+  },
+  {
+    "row": 128,
+    "en": "Gale Rush"
+  },
+  {
+    "row": 130,
+    "en": "Scratch 2 (Not used)"
+  },
+  {
+    "row": 132,
+    "en": "Scratch 3 (Not used)"
+  },
+  {
+    "row": 134,
+    "en": "Scratch 4 (Not used)"
+  },
+  {
+    "row": 136,
+    "en": "Bite (Not used)"
+  },
+  {
+    "row": 138,
+    "en": "Scorching Rush"
+  },
+  {
+    "row": 140,
+    "en": "Glacial Rush"
+  },
+  {
+    "row": 142,
+    "en": "Combo Attack 1 (Not used)"
+  },
+  {
+    "row": 144,
+    "en": "Gale Rush"
+  },
+  {
+    "row": 146,
+    "en": "Scratch 1 (Not used)"
+  },
+  {
+    "row": 148,
+    "en": "Scratch 2 (Not used)"
+  },
+  {
+    "row": 150,
+    "en": "Scratch 3 (Not used)"
+  },
+  {
+    "row": 152,
+    "en": "Scratch 4 (Not used)"
+  },
+  {
+    "row": 154,
+    "en": "Bite (Not used)"
+  },
+  {
+    "row": 156,
+    "en": "Thunder Rush"
+  },
+  {
+    "row": 158,
+    "en": "Hell Rush"
+  },
+  {
+    "row": 160,
+    "en": "Horn Toss"
+  },
+  {
+    "row": 162,
+    "en": "Ferocious Charge"
+  },
+  {
+    "row": 164,
+    "en": "Angry Stamp"
+  },
+  {
+    "row": 166,
+    "en": "Sheep Howl"
+  },
+  {
+    "row": 168,
+    "en": "Huddle"
+  },
+  {
+    "row": 170,
+    "en": "Hibernate"
+  },
+  {
+    "row": 172,
+    "en": "Spell Stream"
+  },
+  {
+    "row": 174,
+    "en": "Flare"
+  },
+  {
+    "row": 176,
+    "en": "Holy Light"
+  },
+  {
+    "row": 178,
+    "en": "Demi"
+  },
+  {
+    "row": 180,
+    "en": "Stop"
+  },
+  {
+    "row": 182,
+    "en": "Drain"
+  },
+  {
+    "row": 184,
+    "en": "Osmose"
+  },
+  {
+    "row": 186,
+    "en": "Summon"
+  },
+  {
+    "row": 188,
+    "en": "Summon"
+  },
+  {
+    "row": 190,
+    "en": "Demi"
+  },
+  {
+    "row": 192,
+    "en": "Demi II"
+  },
+  {
+    "row": 194,
+    "en": "Dragonic Tail"
+  },
+  {
+    "row": 196,
+    "en": "Dragonic Breath"
+  },
+  {
+    "row": 198,
+    "en": "Dragonic Rage"
+  },
+  {
+    "row": 200,
+    "en": "Dragnarok"
+  },
+  {
+    "row": 202,
+    "en": "Swallow"
+  },
+  {
+    "row": 204,
+    "en": "Stab"
+  },
+  {
+    "row": 206,
+    "en": "Sweeping Slash"
+  },
+  {
+    "row": 208,
+    "en": "Spinning Slash"
+  },
+  {
+    "row": 210,
+    "en": "Haste"
+  },
+  {
+    "row": 212,
+    "en": "Slow"
+  },
+  {
+    "row": 214,
+    "en": "Stop"
+  },
+  {
+    "row": 216,
+    "en": "Comet"
+  },
+  {
+    "row": 218,
+    "en": "Meteo"
+  },
+  {
+    "row": 220,
+    "en": "Shooting Star"
+  },
+  {
+    "row": 222,
+    "en": "Self-Renewal 1"
+  },
+  {
+    "row": 224,
+    "en": "Burning Aura"
+  },
+  {
+    "row": 226,
+    "en": "Frosty Aura"
+  },
+  {
+    "row": 228,
+    "en": "Electric Aura"
+  },
+  {
+    "row": 230,
+    "en": "Dark Aura"
+  },
+  {
+    "row": 232,
+    "en": "Wing Slice"
+  },
+  {
+    "row": 234,
+    "en": "Tidal Wave"
+  },
+  {
+    "row": 236,
+    "en": "Gale Rush"
+  },
+  {
+    "row": 238,
+    "en": "Gale Rush"
+  },
+  {
+    "row": 240,
+    "en": "Hide in Shell"
+  },
+  {
+    "row": 242,
+    "en": "Emerge from Shell"
+  },
+  {
+    "row": 244,
+    "en": "Time Jump"
+  },
+  {
+    "row": 246,
+    "en": "Time Slip"
+  },
+  {
+    "row": 248,
+    "en": "Mighty Fist"
+  },
+  {
+    "row": 250,
+    "en": "Great Hammer"
+  },
+  {
+    "row": 252,
+    "en": "Cyclone Tail"
+  },
+  {
+    "row": 254,
+    "en": "Bend Space"
+  },
+  {
+    "row": 256,
+    "en": "Condense Time"
+  },
+  {
+    "row": 258,
+    "en": "Space-Time Collapse"
+  },
+  {
+    "row": 260,
+    "en": "Inner Darkness"
+  },
+  {
+    "row": 262,
+    "en": "Wind Back Time"
+  },
+  {
+    "row": 264,
+    "en": "Speed Up Time"
+  },
+  {
+    "row": 266,
+    "en": "Space-Time Wall"
+  },
+  {
+    "row": 268,
+    "en": "Space-Time Mirror"
+  },
+  {
+    "row": 270,
+    "en": "Long-Range Punch"
+  },
+  {
+    "row": 272,
+    "en": "Machine Gun Punch"
+  },
+  {
+    "row": 274,
+    "en": "Scatter Laser"
+  },
+  {
+    "row": 276,
+    "en": "Pinpoint Laser"
+  },
+  {
+    "row": 278,
+    "en": "Monster Blade"
+  },
+  {
+    "row": 280,
+    "en": "Monster Blade: Circle Slash"
+  },
+  {
+    "row": 282,
+    "en": "Monster Blade: Earthdrive"
+  },
+  {
+    "row": 284,
+    "en": "Monster Blade: Back Slash"
+  },
+  {
+    "row": 286,
+    "en": "Monster Blade: Finishing Blow"
+  },
+  {
+    "row": 288,
+    "en": "Howl"
+  },
+  {
+    "row": 290,
+    "en": "Death Throes"
+  },
+  {
+    "row": 292,
+    "en": "Two-Sword Style"
+  },
+  {
+    "row": 294,
+    "en": "Blunt Blow"
+  },
+  {
+    "row": 296,
+    "en": "Wind Slash"
+  },
+  {
+    "row": 298,
+    "en": "Double Back"
+  },
+  {
+    "row": 300,
+    "en": "Stone Slash"
+  },
+  {
+    "row": 302,
+    "en": "Rebellion"
+  },
+  {
+    "row": 304,
+    "en": "Monster Sword"
+  },
+  {
+    "row": 306,
+    "en": "Cure II"
+  },
+  {
+    "row": 308,
+    "en": "Life II"
+  },
+  {
+    "row": 310,
+    "en": "Monster Axe"
+  },
+  {
+    "row": 312,
+    "en": "Fire"
+  },
+  {
+    "row": 314,
+    "en": "Fire II"
+  },
+  {
+    "row": 316,
+    "en": "Monster Hammer"
+  },
+  {
+    "row": 318,
+    "en": "Ice"
+  },
+  {
+    "row": 320,
+    "en": "Ice II"
+  },
+  {
+    "row": 322,
+    "en": "Scythe Attack"
+  },
+  {
+    "row": 324,
+    "en": "Helix Slash"
+  },
+  {
+    "row": 326,
+    "en": "Dark Mist"
+  },
+  {
+    "row": 328,
+    "en": "Cursed Slash"
+  },
+  {
+    "row": 330,
+    "en": "Endark"
+  },
+  {
+    "row": 332,
+    "en": "Earthsplitter"
+  },
+  {
+    "row": 334,
+    "en": "Hellfire"
+  },
+  {
+    "row": 336,
+    "en": "Absorb"
+  },
+  {
+    "row": 338,
+    "en": "Pandemic"
+  },
+  {
+    "row": 340,
+    "en": "Stalker"
+  },
+  {
+    "row": 342,
+    "en": "Snatch"
+  },
+  {
+    "row": 344,
+    "en": "Moonlight Butterfly"
+  },
+  {
+    "row": 346,
+    "en": "Black Hole"
+  },
+  {
+    "row": 348,
+    "en": "Dark Pact"
+  },
+  {
+    "row": 350,
+    "en": "Dark Matter"
+  },
+  {
+    "row": 352,
+    "en": "Hoppy Rebirth"
+  },
+  {
+    "row": 354,
+    "en": "Royal Fusion"
+  },
+  {
+    "row": 356,
+    "en": "Royal Bite"
+  },
+  {
+    "row": 358,
+    "en": "Suck In"
+  },
+  {
+    "row": 360,
+    "en": "Penguin Missile"
+  },
+  {
+    "row": 362,
+    "en": "Power Dive"
+  },
+  {
+    "row": 364,
+    "en": "Life II"
+  },
+  {
+    "row": 366,
+    "en": "Empy Rebirth"
+  },
+  {
+    "row": 368,
+    "en": "Lightning II"
+  },
+  {
+    "row": 370,
+    "en": "Dragnarok"
+  },
+  {
+    "row": 372,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 374,
+    "en": "Hide in Shell"
+  },
+  {
+    "row": 376,
+    "en": "Emerge from Shell"
+  },
+  {
+    "row": 378,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 380,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 382,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 384,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 386,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 388,
+    "en": "Dark Mist"
+  },
+  {
+    "row": 390,
+    "en": "Slow"
+  },
+  {
+    "row": 392,
+    "en": "Stop"
+  },
+  {
+    "row": 394,
+    "en": "Missile Punch"
+  },
+  {
+    "row": 396,
+    "en": "Twin Missile Punch"
+  },
+  {
+    "row": 398,
+    "en": "Laser Beam"
+  },
+  {
+    "row": 400,
+    "en": "Rampage"
+  },
+  {
+    "row": 402,
+    "en": "Slow II"
+  },
+  {
+    "row": 404,
+    "en": "Stop II"
+  },
+  {
+    "row": 406,
+    "en": "Blowback"
+  },
+  {
+    "row": 408,
+    "en": "Monster Sword"
+  },
+  {
+    "row": 410,
+    "en": "Cure II"
+  },
+  {
+    "row": 412,
+    "en": "Life II"
+  },
+  {
+    "row": 414,
+    "en": "Life II"
+  },
+  {
+    "row": 416,
+    "en": "Dark Mist"
+  },
+  {
+    "row": 418,
+    "en": "Wing Slice"
+  },
+  {
+    "row": 420,
+    "en": "Self-Renewal 2"
+  },
+  {
+    "row": 422,
+    "en": "Self-Renewal 3"
+  },
+  {
+    "row": 424,
+    "en": "Self-Renewal 4"
+  },
+  {
+    "row": 426,
+    "en": "Self-Renewal 5"
+  },
+  {
+    "row": 428,
+    "en": "Sweeping Spin"
+  },
+  {
+    "row": 430,
+    "en": "Sacrifice..."
+  },
+  {
+    "row": 432,
+    "en": "I have found you..."
+  },
+  {
+    "row": 434,
+    "en": "You shall die here, sacrifice..."
+  },
+  {
+    "row": 436,
+    "en": "*Its beak is seething with heat...*"
+  },
+  {
+    "row": 438,
+    "en": "*Accumulating power...*"
+  }
+]

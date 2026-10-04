@@ -1,0 +1,5 @@
+=== HƯỚNG DẪN CÀI ĐẶT PATCH VIỆT HÓA I AM SETSUNA ===
+
+1. Copy toàn bộ thư mục 'SETSUNA_Data' trong gói này.
+2. Dán đè (Paste & Replace) vào thư mục cài đặt game I am Setsuna trên máy của bạn.
+3. Khởi động game bằng SETSUNA.exe và trải nghiệm!

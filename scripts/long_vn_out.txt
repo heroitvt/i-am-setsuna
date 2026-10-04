@@ -1,0 +1,40 @@
+
+--- RID 307 (Row 310) ---
+EN (192 bytes): "If he's so skilled that you think he's\ndangerous, surely he'll make a very\nreliable companion..."
+VN (288 bytes): 'Nếu anh ta có bản lĩnh cao cường đến mức mọi người\nnghĩ là nguy hiểm, thì chắc chắn anh ta sẽ là một\nngười bạn đồng hành vô cùng đáng tin cậy...'
+
+--- RID 1020 (Row 1023) ---
+EN (196 bytes): 'Anyway, my men will find him. As\nsoon as they do, I shall have the\nship readied for you posthaste!'
+VN (264 bytes): 'Dù sao thì quân của ta cũng sẽ sớm tìm ra anh ta thôi. Ngay khi tìm thấy,\nta sẽ lệnh cho phi thuyền sẵn sàng xuất phát ngay lập tức!'
+
+--- RID 1111 (Row 1114) ---
+EN (186 bytes): 'Your journey will be an arduous\nand perilous one, and you know not\nif it shall be rewarded...'
+VN (272 bytes): 'Chuyến hành trình của các cháu sẽ vô cùng gian nan và hiểm trở,\nvà các cháu thậm chí còn chẳng biết liệu nó có được đền đáp hay không...'
+
+--- RID 1138 (Row 1141) ---
+EN (176 bytes): "Feel sorry for me? I may be weak,\nbut I don't need anyone's pity!\nI live my life MY way!"
+VN (256 bytes): 'Thương hại tôi á? Tôi có thể yếu đuối, nhưng tôi không cần sự thương hại của ai cả!\nTôi sống cuộc đời của TÔI theo cách của TÔI!'
+
+--- RID 1180 (Row 1183) ---
+EN (220 bytes): "Tut-tut! Well, looks like ya got me!\nIt's true, it's true...\nI am <NAME=NPC_10080>, and <NAME=NPC_10080> is I!"
+VN (296 bytes): 'Chậc chậc! Thôi được rồi, xem ra bị các người bắt thóp rồi!\nĐúng thế, đúng thế đấy...\nTa chính là <NAME=NPC_10080>, và <NAME=NPC_10080> chính là ta!'
+
+--- RID 1187 (Row 1190) ---
+EN (200 bytes): "Maybe for the former lord...but I'm\nnot flying that airship for the\npresent lord ever again! No way!"
+VN (266 bytes): 'Nếu là vì cựu Lãnh chúa thì ta sẵn lòng... chứ bảo ta lái phi thuyền cho tên Lãnh chúa hiện tại thì không bao giờ nhé! Không đời nào!'
+
+--- RID 1242 (Row 1245) ---
+EN (190 bytes): 'But I never dreamed you would\nshow up of your own accord! You\nhave saved me a lot of trouble...'
+VN (270 bytes): 'Nhưng ta không bao giờ ngờ được rằng ngươi lại tự mình dâng tới tận miệng thế này! Ngươi đã giúp ta tiết kiệm được khối công sức đấy...'
+
+--- RID 1304 (Row 1307) ---
+EN (188 bytes): "No, that's more than enough to go\non. That damn lord, though...\nabusin' his power like this..."
+VN (262 bytes): 'Không sao, chừng đó thông tin là quá đủ rồi. Cái tên Lãnh chúa khốn kiếp đó...\ndám lạm quyền làm ra những chuyện đồi bại thế này...'
+
+--- RID 1326 (Row 1329) ---
+EN (190 bytes): 'Not just anyone will make suitable\nbargaining tools... But today, I have\na wonderful selection!'
+VN (256 bytes): 'Không phải bất kỳ ai cũng có thể làm vật trao đổi thích hợp được đâu...\nNhưng hôm nay, ta lại có một lựa chọn vô cùng tuyệt hảo!'
+
+--- RID 1353 (Row 1356) ---
+EN (190 bytes): "There's no time for that! All we can\ndo now is try and reduce the\ndamage as much as possible..."
+VN (290 bytes): 'Không còn đủ thời gian cho việc đó nữa rồi! Tất cả những gì chúng ta có thể làm lúc này là cố gắng giảm thiểu thiệt hại nhiều nhất có thể thôi...'

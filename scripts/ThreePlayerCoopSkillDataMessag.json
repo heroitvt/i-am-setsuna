@@ -1,0 +1,562 @@
+[
+  {
+    "row": 6,
+    "en": "Grand Cross"
+  },
+  {
+    "row": 7,
+    "en": "Causes special damage [Light+Shadow/8 hits] to all\nenemies near the target, ignoring elemental\nresistance. (Cyclone/Luminaire/Charge)"
+  },
+  {
+    "row": 8,
+    "en": "Galactic Force"
+  },
+  {
+    "row": 9,
+    "en": "Unlocks the infinite power of the cosmos, causing\nspecial damage [Null] to all enemies.\n(Meteo/Cure/Vanish)"
+  },
+  {
+    "row": 10,
+    "en": "Peerless Power"
+  },
+  {
+    "row": 11,
+    "en": "Casts Physical Evasion and Repel Magic on all\nallies. Also casts Provoke, attracting enemy attacks.\n(Wall/Incite/Impenetrable Defense)"
+  },
+  {
+    "row": 12,
+    "en": "Evanescent Flash"
+  },
+  {
+    "row": 13,
+    "en": "Causes special damage [Light] to all enemies. Also\ncasts Restore on all allies, recovering their HP\nautomatically. (Aura/Play Dead/Echo)"
+  },
+  {
+    "row": 14,
+    "en": "Ultra Release"
+  },
+  {
+    "row": 15,
+    "en": "Causes special damage [Light+Shadow] to all\nenemies near the target. Power increases according\nto active status boosts. (Magen/Inspire/Pandemic)"
+  },
+  {
+    "row": 16,
+    "en": "Big Bang"
+  },
+  {
+    "row": 17,
+    "en": "Creates a blast with the power of cosmic creation,\ncausing special damage [Null/4 hits] to all\nenemies. (Life/Demi/Booster)"
+  },
+  {
+    "row": 18,
+    "en": "Moments in Time"
+  },
+  {
+    "row": 19,
+    "en": "Causes special damage [Null/3 hits] to a single\nenemy, and instantly fills the SP gauges of all allies.\n(Realization/Flawless Blow/Emission)"
+  },
+  {
+    "row": 20,
+    "en": "Perpetual Strike"
+  },
+  {
+    "row": 21,
+    "en": "Deals countless blows in a single instant, causing\nphysical damage [Null/8 hits] to all enemies near\nthe target. (Radiance/Stop/Berserk)"
+  },
+  {
+    "row": 22,
+    "en": "Astral Stasis"
+  },
+  {
+    "row": 23,
+    "en": "Causes special damage [Null] to all enemies, and\ninflicts Stop. Also boosts the ATB speed of all allies.\n(Quick/All Creation/Stalker)"
+  },
+  {
+    "row": 24,
+    "en": "Apocalypse"
+  },
+  {
+    "row": 25,
+    "en": "Causes special damage [Null] to all enemies, and\nboosts the Attack and Defense of all allies.\n(Battlecry/Tenacity/Meltdown)"
+  },
+  {
+    "row": 26,
+    "en": "Hyperion"
+  },
+  {
+    "row": 27,
+    "en": "Causes special damage [Null] to all enemies near\nthe target. Inflicts more damage the higher HP/MP\nare. (Cleave/Whirlwind Blade/Jump)"
+  },
+  {
+    "row": 28,
+    "en": "Stone Clutch"
+  },
+  {
+    "row": 29,
+    "en": "Causes special damage [Shadow/3 hits] to all\nenemies near the target. Can also inflict Stone and\nreduce stats. (Blade Wave/Stone Slash/Black Hole)"
+  },
+  {
+    "row": 30,
+    "en": "Stardust Fall"
+  },
+  {
+    "row": 31,
+    "en": "Summons a shower of stardust that causes special\ndamage [Fire+Water] to all enemies, ignoring\n50% of Defense. (Shock/Enflame/Enfrost)"
+  },
+  {
+    "row": 32,
+    "en": "Detonation"
+  },
+  {
+    "row": 33,
+    "en": "Causes special damage [Fire] to all enemies in the\narea near the target. Can also reduce Attack,\nDefense, and ATB speed. (Spark/Dispel/Absorb)"
+  },
+  {
+    "row": 34,
+    "en": "Dragonic Ray"
+  },
+  {
+    "row": 35,
+    "en": "Causes special damage [Null] to all enemies, and\nrecovers the HP of all allies based on the user's\nStrength. (Backslash/Chakra/Dragonic Soul)"
+  },
+  {
+    "row": 36,
+    "en": "Rising Phoenix"
+  },
+  {
+    "row": 37,
+    "en": "Causes special damage [Fire+Light/6 hits] to all\nenemies, and casts Auto-Revive on all allies.\n(Life II/Permanence/Magma)"
+  },
+  {
+    "row": 38,
+    "en": "Last Letter"
+  },
+  {
+    "row": 39,
+    "en": "Causes special damage [Null/4 hits] to all enemies\nnear the target. Can also inflict Death.\n(Sanctity/Oblivion/Counter)"
+  },
+  {
+    "row": 40,
+    "en": "Gaia's Beauty"
+  },
+  {
+    "row": 41,
+    "en": "A lightning-fast attack that causes special damage\n[Null/16 hits] to a single target.\n(Whirling Shot/Frenzy/Chase)"
+  },
+  {
+    "row": 42,
+    "en": "Astral Blast"
+  },
+  {
+    "row": 43,
+    "en": "Causes special damage [Null/11 hits] to all\nenemies in a line from the users, ignoring 50% of\nDefense. (Cure II/Haste/Dark Matter)"
+  },
+  {
+    "row": 44,
+    "en": "Disintegration"
+  },
+  {
+    "row": 45,
+    "en": "Unlocks an all-powerful energy that defies nature.\nCauses special damage [Fire+Light] to all enemies.\n(Cheer/Demonic Strike/Drain)"
+  },
+  {
+    "row": 46,
+    "en": "Thunderbolt"
+  },
+  {
+    "row": 47,
+    "en": "Causes physical damage [Light] to all enemies.\nInflicts more damage when striking a weakness.\n(Lightning/Pinpoint/Royal Lance)"
+  },
+  {
+    "row": 48,
+    "en": "Shining Torrent"
+  },
+  {
+    "row": 49,
+    "en": "Whirls up a torrent of conflicting magical energy\nthat causes special damage [Light+Shadow] to all\nenemies. (Remedy/Wind Slash/Phantom)"
+  },
+  {
+    "row": 50,
+    "en": "Delta Force"
+  },
+  {
+    "row": 51,
+    "en": "Fuses all the magical energy in nature, triggering\na blast that causes special damage [Fire+Water+\nLight] to all enemies. (Lightning II/Fire II/Ice II)"
+  },
+  {
+    "row": 52,
+    "en": "Omega Flare"
+  },
+  {
+    "row": 53,
+    "en": "Triggers an explosion with the power to return\neverything to nothingness, causing special damage\n[All] to a single target. (Prayer/Flare/Snatch)"
+  },
+  {
+    "row": 54,
+    "en": "Magicdust"
+  },
+  {
+    "row": 55,
+    "en": "Causes special damage [Light+Shadow/5 hits] to all\nenemies near the target. Critical hit damage is\nincreased. (Enthunder/Icicle Lance/Endark)"
+  },
+  {
+    "row": 56,
+    "en": "Big Crunch"
+  },
+  {
+    "row": 57,
+    "en": "Causes special damage [Time] to all enemies. Can\nalso inflict Sap, Paralysis, and Stop.\n(Enchrono/Double Back/Bio)"
+  },
+  {
+    "row": 58,
+    "en": "Snowman Squash"
+  },
+  {
+    "row": 59,
+    "en": "Causes special damage [Water] to all enemies. Also\nboosts the Defense and evasion rate of all allies.\n(Frog Squash/Condense/Ice)"
+  },
+  {
+    "row": 60,
+    "en": "Penance"
+  },
+  {
+    "row": 61,
+    "en": "Sacrifices HP, causing special damage [Shadow/4\nhits] to all enemies. Inflicts more damage the lower\nHP is. (Protect/Diffuse/Dark Pact)"
+  },
+  {
+    "row": 62,
+    "en": "Prismatic Glow"
+  },
+  {
+    "row": 63,
+    "en": "Causes special damage [Null] to all enemies, and\ndeploys physical and magical barriers around all\nallies. (Mirage/Barrier/Meteor Thrust)"
+  },
+  {
+    "row": 64,
+    "en": "Perdition"
+  },
+  {
+    "row": 65,
+    "en": "Causes special damage [Null/6 hits] to all enemies\nin a line from the users. Can also inflict Sap.\n(Slow/Osmose/Earthsplitter)"
+  },
+  {
+    "row": 66,
+    "en": "Snowfall Symphony"
+  },
+  {
+    "row": 67,
+    "en": "Causes special damage [Null/3 hits] to all enemies\nnear the target, and instantly fills all allies' SP\ngauges. (Dream Shatterer/Apex Thrust/Helix Slash)"
+  },
+  {
+    "row": 68,
+    "en": "Epiphanic Blade"
+  },
+  {
+    "row": 69,
+    "en": "Causes special damage [Null/6 hits] to all enemies\nnear the target. Inflicts more damage when striking\na weakness. (Weaken/Aerial Strike/Precise Thrust)"
+  },
+  {
+    "row": 70,
+    "en": "Crimson Flare"
+  },
+  {
+    "row": 71,
+    "en": "Causes special damage [Fire+Shadow/4 hits] to all\nenemies near the target. Can also reduce status\nresistance. (Fire/Blunt Blow/Dark Mist)"
+  },
+  {
+    "row": 72,
+    "en": "Earthly Rage"
+  },
+  {
+    "row": 73,
+    "en": "Causes special damage [Null/5 hits] to all enemies\nnear the target. Inflicts more damage the lower HP/\nMP are. (Provoke/Transcendence/Hellfire)"
+  },
+  {
+    "row": 74,
+    "en": "Omega Drive"
+  },
+  {
+    "row": 75,
+    "en": "Causes special damage [Null] to all enemies, and\nboosts the Attack, Defense, and ATB speed of all\nallies. (Regen/Serenity/Cursed Slash)"
+  },
+  {
+    "row": 76,
+    "en": "Coup de Grace"
+  },
+  {
+    "row": 77,
+    "en": "A variation of Grand Cross. Causes special damage\n[Light+Shadow/8 hits] to all enemies near the\ntarget, ignoring elemental resistance."
+  },
+  {
+    "row": 78,
+    "en": "Universal Force"
+  },
+  {
+    "row": 79,
+    "en": "A variation of Galactic Force. Unlocks the infinite\npower of the cosmos, causing special damage [Null]\nto all enemies."
+  },
+  {
+    "row": 80,
+    "en": "Almighty Aura"
+  },
+  {
+    "row": 81,
+    "en": "A variation of Peerless Power. Casts Physical\nEvasion and Repel Magic on all allies, and causes\nspecial damage [Null] to all enemies."
+  },
+  {
+    "row": 82,
+    "en": "Ephemeral Parade"
+  },
+  {
+    "row": 83,
+    "en": "A variation of Evanescent Flash. Causes special\ndamage [Light] to all enemies, and recovers the HP\nof all allies."
+  },
+  {
+    "row": 84,
+    "en": "Energy Burst"
+  },
+  {
+    "row": 85,
+    "en": "A variation of Ultra Release. Causes special damage\n[Light+Shadow] to all enemies near the target. The\nmore active status boosts, the more damage caused."
+  },
+  {
+    "row": 86,
+    "en": "Cosmic Inflation"
+  },
+  {
+    "row": 87,
+    "en": "A variation of Big Bang. Creates a blast with the\npower of cosmic creation, causing special damage\n[Null/4 hits] to all enemies."
+  },
+  {
+    "row": 88,
+    "en": "Echoes in Eternity"
+  },
+  {
+    "row": 89,
+    "en": "A variation of Moments in Time. Causes special\ndamage [Null/3 hits] to a single enemy, and\ninstantly fills the SP gauges of all allies."
+  },
+  {
+    "row": 90,
+    "en": "Infinity Strike"
+  },
+  {
+    "row": 91,
+    "en": "A variation of Perpetual Strike. Deals countless\nblows in a single instant, causing physical damage\n[Null/10 hits] to all enemies near the target."
+  },
+  {
+    "row": 92,
+    "en": "Celestial Balance"
+  },
+  {
+    "row": 93,
+    "en": "A variation of Astral Stasis. Casts Stop on all\nenemies, and boosts the ATB speed of all allies,\nincreasing turn frequency."
+  },
+  {
+    "row": 94,
+    "en": "Armageddon"
+  },
+  {
+    "row": 95,
+    "en": "A variation of Apocalypse. Causes special damage\n[Null] to all enemies, and boosts the Attack and\ncritical hit rate of all allies."
+  },
+  {
+    "row": 96,
+    "en": "Aerial Storm"
+  },
+  {
+    "row": 97,
+    "en": "A variation of Hyperion. Causes special damage\n[Null] to all enemies near the target. Inflicts more\ndamage the higher HP/MP are."
+  },
+  {
+    "row": 98,
+    "en": "Spherical Slice"
+  },
+  {
+    "row": 99,
+    "en": "A variation of Stone Clutch. Causes special damage\n[Shadow/3 hits] to all enemies near the target. Can\nalso inflict Stone and reduce stats."
+  },
+  {
+    "row": 100,
+    "en": "Stella Imber"
+  },
+  {
+    "row": 101,
+    "en": "A variation of Stardust Fall. Summons a shower of\nstardust that causes special damage [Fire+Water] to\nall enemies, ignoring 50% of Defense."
+  },
+  {
+    "row": 102,
+    "en": "Eruption"
+  },
+  {
+    "row": 103,
+    "en": "A variation of Detonation. Causes special damage\n[Fire] to all enemies in the area near the target. Can\nalso reduce Attack, Defense, and ATB speed."
+  },
+  {
+    "row": 104,
+    "en": "Highwind"
+  },
+  {
+    "row": 105,
+    "en": "A variation of Dragonic Ray. Causes special damage\n[Null] to all enemies, and recovers the HP of all\nallies based on the user's Strength."
+  },
+  {
+    "row": 106,
+    "en": "Soaring Phoenix"
+  },
+  {
+    "row": 107,
+    "en": "A variation of Rising Phoenix. Causes special\ndamage [Fire+Light/6 hits] to all enemies, and casts\nRestore on all allies, automatically recovering HP."
+  },
+  {
+    "row": 108,
+    "en": "Chant du Cygne"
+  },
+  {
+    "row": 109,
+    "en": "A variation of Last Letter. Causes special damage\n[Null/4 hits] to all enemies. The more active status\nboosts, the more damage. Can also inflict Death."
+  },
+  {
+    "row": 110,
+    "en": "Gaia's Glory"
+  },
+  {
+    "row": 111,
+    "en": "A variation of Gaia's Beauty. A lightning-fast attack\nthat causes special damage [Null/16 hits] to a\nsingle target."
+  },
+  {
+    "row": 112,
+    "en": "Break Matter"
+  },
+  {
+    "row": 113,
+    "en": "A variation of Astral Blast. Fires a mighty wave of\nmagical energy that causes special damage [Null/\n11 hits] to all enemies in a line from the users."
+  },
+  {
+    "row": 114,
+    "en": "Cataclysm"
+  },
+  {
+    "row": 115,
+    "en": "A variation of Disintegration. Unlocks an all-\npowerful energy that defies nature. Causes special\ndamage [Fire+Light] to all enemies."
+  },
+  {
+    "row": 116,
+    "en": "Electric Spiral"
+  },
+  {
+    "row": 117,
+    "en": "A variation of Thunderbolt. Causes physical damage\n[Light] to all enemies. Inflicts more damage when\nstriking a weakness."
+  },
+  {
+    "row": 118,
+    "en": "Carnage Ray"
+  },
+  {
+    "row": 119,
+    "en": "A variation of Shining Torrent. Whirls up a torrent\nof conflicting magical energy that causes special\ndamage [Light+Shadow] to all enemies."
+  },
+  {
+    "row": 120,
+    "en": "Trine Force"
+  },
+  {
+    "row": 121,
+    "en": "A variation of Delta Force. Fuses all the magical\nenergy in nature, triggering a blast that causes\nspecial damage [Fire+Water+Light] to all enemies."
+  },
+  {
+    "row": 122,
+    "en": "Gamma Burst"
+  },
+  {
+    "row": 123,
+    "en": "A variation of Omega Flare. Triggers an explosion\nwith the power to return everything to nothingness,\ncausing special damage [All] to all enemies."
+  },
+  {
+    "row": 124,
+    "en": "Brionac"
+  },
+  {
+    "row": 125,
+    "en": "A variation of Magicdust. Causes special damage\n[Light+Shadow/5 hits] to all enemies near the\ntarget. Has a high critical hit rate."
+  },
+  {
+    "row": 126,
+    "en": "Gravitational Collapse"
+  },
+  {
+    "row": 127,
+    "en": "A variation of Big Crunch. Causes special damage\n[Time] to all enemies. Can also inflict Sap,\nParalysis, and Stop."
+  },
+  {
+    "row": 128,
+    "en": "Simulacrum"
+  },
+  {
+    "row": 129,
+    "en": "A variation of Snowman Squash. Causes special\ndamage [Water] to all enemies. Also boosts the\nDefense and evasion rate of all allies."
+  },
+  {
+    "row": 130,
+    "en": "Atonement"
+  },
+  {
+    "row": 131,
+    "en": "A variation of Penance. Sacrifices HP, causing\nspecial damage [Shadow] that becomes more\npowerful the lower HP is."
+  },
+  {
+    "row": 132,
+    "en": "Temporal Distortion"
+  },
+  {
+    "row": 133,
+    "en": "A variation of Prismatic Glow. Causes special\ndamage [Null] to all enemies, and deploys physical\nand magical barriers around all allies."
+  },
+  {
+    "row": 134,
+    "en": "Hell Howl"
+  },
+  {
+    "row": 135,
+    "en": "A variation of Perdition. Creates a sinister mist that\ncauses special damage [Null/6 hits] to all enemies\nin a line from the users."
+  },
+  {
+    "row": 136,
+    "en": "Snowfall Rhapsody"
+  },
+  {
+    "row": 137,
+    "en": "A variation of Snowfall Symphony. Causes special\ndamage [Null/3 hits] to all enemies near the target.\nCan also inflict Stun."
+  },
+  {
+    "row": 138,
+    "en": "Art of War"
+  },
+  {
+    "row": 139,
+    "en": "A variation of Epiphanic Blade. Causes special\ndamage [Null/6 hits] to all enemies near the target. \nCan also reduce resistance against all elements."
+  },
+  {
+    "row": 140,
+    "en": "Scarlet Flame"
+  },
+  {
+    "row": 141,
+    "en": "A variation of Crimson Flare. Causes special\ndamage [Fire+Shadow] to all enemies near the\ntarget. Can also inflict Stun."
+  },
+  {
+    "row": 142,
+    "en": "Gaia's Wrath"
+  },
+  {
+    "row": 143,
+    "en": "A variation of Earthly Rage. Imbues weapons with\nthe power of the earth's wrath, causing physical\ndamage [Null] to all enemies near the target."
+  },
+  {
+    "row": 144,
+    "en": "Alpha Impact"
+  },
+  {
+    "row": 145,
+    "en": "A variation of Omega Drive. Causes special damage\n[Null] to all enemies, and boosts the Attack,\nDefense, and ATB speed of all allies."
+  }
+]

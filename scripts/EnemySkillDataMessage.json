@@ -1,0 +1,358 @@
+[
+  {
+    "row": 6,
+    "en": "Test Attack"
+  },
+  {
+    "row": 7,
+    "en": "Regular Attack"
+  },
+  {
+    "row": 8,
+    "en": "Dive"
+  },
+  {
+    "row": 10,
+    "en": "Rocket Dive"
+  },
+  {
+    "row": 12,
+    "en": "Slap"
+  },
+  {
+    "row": 14,
+    "en": "Bite"
+  },
+  {
+    "row": 16,
+    "en": "Focus"
+  },
+  {
+    "row": 18,
+    "en": "Swoop"
+  },
+  {
+    "row": 20,
+    "en": "Wingbeat"
+  },
+  {
+    "row": 22,
+    "en": "Flee"
+  },
+  {
+    "row": 24,
+    "en": "Blinding Gaze"
+  },
+  {
+    "row": 26,
+    "en": "Petrifying Gaze"
+  },
+  {
+    "row": 28,
+    "en": "Paralyzing Gaze"
+  },
+  {
+    "row": 30,
+    "en": "Cure"
+  },
+  {
+    "row": 32,
+    "en": "Healing Feather"
+  },
+  {
+    "row": 34,
+    "en": "Whirlwind"
+  },
+  {
+    "row": 36,
+    "en": "Hurricane"
+  },
+  {
+    "row": 38,
+    "en": "Glide Attack"
+  },
+  {
+    "row": 40,
+    "en": "Shell Shield"
+  },
+  {
+    "row": 42,
+    "en": "Accumulate Power"
+  },
+  {
+    "row": 44,
+    "en": "Poison Claw"
+  },
+  {
+    "row": 46,
+    "en": "Shell Boomerang"
+  },
+  {
+    "row": 48,
+    "en": "Tackle"
+  },
+  {
+    "row": 50,
+    "en": "Self-Destruct"
+  },
+  {
+    "row": 52,
+    "en": "Roll Over"
+  },
+  {
+    "row": 54,
+    "en": "Groundrush"
+  },
+  {
+    "row": 56,
+    "en": "Poisonous Breath"
+  },
+  {
+    "row": 58,
+    "en": "Spin Attack"
+  },
+  {
+    "row": 60,
+    "en": "Roar"
+  },
+  {
+    "row": 62,
+    "en": "Super Slap"
+  },
+  {
+    "row": 64,
+    "en": "Tremor"
+  },
+  {
+    "row": 66,
+    "en": "Counterslap"
+  },
+  {
+    "row": 68,
+    "en": "Earthquake"
+  },
+  {
+    "row": 70,
+    "en": "Gnaw"
+  },
+  {
+    "row": 72,
+    "en": "Fire"
+  },
+  {
+    "row": 74,
+    "en": "Lightning"
+  },
+  {
+    "row": 76,
+    "en": "Ice"
+  },
+  {
+    "row": 78,
+    "en": "Slap"
+  },
+  {
+    "row": 80,
+    "en": "Triple Slap"
+  },
+  {
+    "row": 82,
+    "en": "Snowdust"
+  },
+  {
+    "row": 84,
+    "en": "Freezing Gaze"
+  },
+  {
+    "row": 86,
+    "en": "Ice"
+  },
+  {
+    "row": 88,
+    "en": "Powder Cloud"
+  },
+  {
+    "row": 90,
+    "en": "Burning Bite"
+  },
+  {
+    "row": 92,
+    "en": "Frosty Bite"
+  },
+  {
+    "row": 94,
+    "en": "Burning Breath"
+  },
+  {
+    "row": 96,
+    "en": "Frosty Breath"
+  },
+  {
+    "row": 98,
+    "en": "Soul Breath"
+  },
+  {
+    "row": 100,
+    "en": "Snowball Throw"
+  },
+  {
+    "row": 102,
+    "en": "Snowball Roll"
+  },
+  {
+    "row": 104,
+    "en": "Snowball Ride"
+  },
+  {
+    "row": 106,
+    "en": "Alight"
+  },
+  {
+    "row": 108,
+    "en": "Handstand Snowball Ride"
+  },
+  {
+    "row": 110,
+    "en": "Alight"
+  },
+  {
+    "row": 112,
+    "en": "Beat Ground"
+  },
+  {
+    "row": 114,
+    "en": "Body Roll"
+  },
+  {
+    "row": 116,
+    "en": "Blizzard Breath"
+  },
+  {
+    "row": 118,
+    "en": "Munch Mushroom"
+  },
+  {
+    "row": 120,
+    "en": "Bad Breath"
+  },
+  {
+    "row": 122,
+    "en": "Very Bad Breath"
+  },
+  {
+    "row": 124,
+    "en": "Really Bad Breath"
+  },
+  {
+    "row": 126,
+    "en": "Chomp"
+  },
+  {
+    "row": 128,
+    "en": "Claw"
+  },
+  {
+    "row": 130,
+    "en": "Beeswarm"
+  },
+  {
+    "row": 132,
+    "en": "Honey Syrup"
+  },
+  {
+    "row": 134,
+    "en": "Howl"
+  },
+  {
+    "row": 136,
+    "en": "Horn Attack"
+  },
+  {
+    "row": 138,
+    "en": "Lightning"
+  },
+  {
+    "row": 140,
+    "en": "Lightning Horn"
+  },
+  {
+    "row": 142,
+    "en": "Feather Attack"
+  },
+  {
+    "row": 144,
+    "en": "Regen"
+  },
+  {
+    "row": 146,
+    "en": "Reflect"
+  },
+  {
+    "row": 148,
+    "en": "Haste"
+  },
+  {
+    "row": 150,
+    "en": "Regen II"
+  },
+  {
+    "row": 152,
+    "en": "Reflect II"
+  },
+  {
+    "row": 154,
+    "en": "Haste II"
+  },
+  {
+    "row": 156,
+    "en": "Tornado Tail"
+  },
+  {
+    "row": 158,
+    "en": "Crushing Bite"
+  },
+  {
+    "row": 160,
+    "en": "Crystal Horn"
+  },
+  {
+    "row": 162,
+    "en": "Ultimate Combo"
+  },
+  {
+    "row": 164,
+    "en": "Meteo"
+  },
+  {
+    "row": 166,
+    "en": "Call"
+  },
+  {
+    "row": 168,
+    "en": "Chain Reaction"
+  },
+  {
+    "row": 170,
+    "en": "Self-Destruct"
+  },
+  {
+    "row": 172,
+    "en": "Call"
+  },
+  {
+    "row": 174,
+    "en": "Call"
+  },
+  {
+    "row": 176,
+    "en": "Call"
+  },
+  {
+    "row": 178,
+    "en": "Super Shell Shield"
+  },
+  {
+    "row": 180,
+    "en": "Death Breath"
+  }
+]

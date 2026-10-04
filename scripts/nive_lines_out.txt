@@ -1,0 +1,405 @@
+Total lines to translate: 101
+
+[1] RID 5265 (NPC NPC_21010):
+  EN: "It's not often anyone comes here\nfrom the mainland. Usually it's\nonly the other way round...\n|\nThere's a departure ceremony\ntoday, actually.\n|\nWhat? Who's departing?\nThe sacrifice, of course!"
+  JP: '本島から人が来るなんて珍しいよ。\nむしろ出て行くばかりでね。\n|\n今日もこのあと出立でさ。\nなんの？\u3000いけにえだよ、いけにえ。'
+
+[2] RID 5266 (NPC NPC_21010):
+  EN: "What is it? If you're looking for the\nferry, it's already set sail back to\nthe mainland.\n|\nAnyway, seeing as you came all the\nway here, there's no need to rush\nback.\n|\nAt least stay and watch the\ndeparture ceremony. Not that it's\nmuch of a spectacle..."
+  JP: 'どうした？\nさっきの船ならもう戻ってったよ。\n|\nせっかく来たんだから\nそう焦って帰ることもないだろう。\n|\nいけにえの出立式でも見てきなよ。\nまあ、派手なものでもないけどさ。'
+
+[3] RID 5267 (NPC NPC_21010):
+  EN: "Hold on a minute... How'd you get\nback here without a boat!?\n|\nWhat? By airship!?\nDon't be ridiculous..."
+  JP: 'おいおい、ちょっと待ってくれ、\n船も使わずどうやって帰ってきたんだ？\n|\nなに？\u3000飛空艇？\nそれは……たまげたな……。'
+
+[4] RID 5268 (NPC NPC_21020):
+  EN: "You wanna get to the village?\n|\nAfter you leave the port, jus' head nord-west, and you'll soon see it..."
+  JP: '村に行ぎだい？\n|\nだったらごの港を出で、\n北西の方に行けば見えでぐるよ。'
+
+[5] RID 5269 (NPC NPC_21020):
+  EN: "Sorry, there won't be anudda ferry\nfor a while now...\n|\nThe next one'll be carrying the\nsacrifice."
+  JP: '残念だげど、じばらぐ船は来ないよ。\n|\n次の船にはいけにえの娘を\n乗ぜで行ぐんだ。'
+
+[6] RID 5272 (NPC NPC_21040):
+  EN: "Very few people travel to this\nisland these days, what with all the\nmonsters...\n|\nYou're very brave to have come\nhere. Let me welcome you on\nbehalf of the village!"
+  JP: '最近は魔物が増えたせいで\nこの島に来る者も減ってしまってねえ。\n|\nそんな中、本当によく来てくれた。\n歓迎するよ。'
+
+[7] RID 5273 (NPC NPC_21040):
+  EN: "The next ferry that'll be arriving\nwill sail to the citadel town of\nFloneia.\n|\nThe sacrifice's guard always head\nthere first, to decide their journey's\nroute.\n|\nLand...sea...air...\nFrom Floneia, you can determine\nthe safest route."
+  JP: '次に来る船は、ウカテイナという\n城塞都市に向かうんだよ。\n|\nいけにえの旅程は\nいつもそこで決められる。\n|\n陸路、海路、空路……。\nその時々で最も安全な旅程を選ぶんだ。'
+
+[8] RID 5274 (NPC NPC_21040):
+  EN: "I never thought we'd be seeing off\nlittle <NAME=CP_0002> like\nthis...\n|\nThank you...\nThank you so much..."
+  JP: 'ここから<NAME=CP_0002>ちゃんを\n見送る日がくるとはなあ……。\n|\n今までありがとう。\n本当にありがとう。'
+
+[9] RID 5277 (NPC NPC_21030):
+  EN: "Aha! I see you've got a recipe.\n|\nIf you give it to me, I can add it to\nour menu!"
+  JP: 'お、レシピをもってるようだね。\n|\nそれを渡してくれたら、\nうちのメニューに追加するよ。'
+
+[10] RID 5280 (NPC NPC_21030):
+  EN: "Let me see, what have we got here\nthen...\n|\nI see... Right...\nYup, I can make this, no problem!\n|\nI've added it to our menu, so feel\nfree to order it any time!\n|\nNow, back to work..."
+  JP: 'どれどれ。どんな料理かな。\n|\n…なるほど、なるほど。\nよし！\u3000これなら作れそうだ。\n|\nメニューに追加したから、\nよかったら注文してくれよな。\n|\nさてと…\n'
+
+[11] RID 5281 (NPC NPC_21030):
+  EN: "Oh? That's a shame...\nLet me know if you change your\nmind.\n|\nNow, back to work..."
+  JP: 'そうか、残念だな。\n気がかわったら言ってくれ。\n|\nさてと…'
+
+[12] RID 5284 (NPC NPC_21021):
+  EN: "You wanna get to the village?\n|\nAfter you leave the port, jus' head\nnord-west, and you'll soon see it!"
+  JP: '村に行ぎだいの？\n|\nだったらごの港を出で、\n北西の方に行けば見えでぐるよ！'
+
+[13] RID 5285 (NPC NPC_21041):
+  EN: "No matter how many times I do it,\nseeing off the sacrifices never gets\nany easier...\n|\nMaybe this'll be the last, though.\nI'm getting on a bit, after all..."
+  JP: 'いけにえの見送りというのは\n何度やっても慣れないものだよ。\n|\nしかし、これが最後の見送りかな。\nわたしも、もう歳だからね。'
+
+[14] RID 5286 (NPC NPC_21031):
+  EN: "Sorry, but we're still getting ready\nto open. We only just rented this\nplace, you see.\n|\nI've always dreamed of opening my\nown pub... Just you wait, this place\nwill be full of people in no time."
+  JP: '悪いね、まだ開店準備中なんだ。\n場所を借りたばかりでね。\n|\nようやく持てた自分の店さ。\nすぐに人気店にしてみせるよ。'
+
+[15] RID 5287 (NPC NPC_10010):
+  EN: "We're about to hold the departure\nceremony for the sacrifice.\n|\nMy own daughter is the one who\nwill take on this important role...\n|\nI suppose this, too, is fate..."
+  JP: '間もなく、いけにえの出立式が\nとり行われるところです。\n|\n私の娘が……その大役を務めます。\n|\nこれもまた、運命なのでしょう……。'
+
+[16] RID 5288 (NPC NPC_10010):
+  EN: "<NAME=CP_0002> is the reason\nyou're a free man.\n|\nMake sure you never forget that..."
+  JP: '……きみが自由の身になれたのは\n<NAME=CP_0002>のおかげだ。\n|\nくれぐれも……\nそれだけは忘れないでほしい。'
+
+[17] RID 5289 (NPC NPC_10010):
+  EN: "<NAME=CP_0002>'s departure\nceremony is about to begin...\n|\nBack when her mother, <NAME=NPC_10150>,\nset off, I never dreamed this day\nwould come..."
+  JP: 'いよいよ<NAME=CP_0002>の出立式か……。\n|\n母親の<NAME=NPC_10150>が旅立ったときは\nこんな日が訪れるとは思わなかった。'
+
+[18] RID 5290 (NPC NPC_10010):
+  EN: '<NAME=CP_0001>...\n<NAME=CP_0003>...\n|\nPlease take care of my daughter\n<NAME=CP_0002>...'
+  JP: '<NAME=CP_0001>、<NAME=CP_0003>\n娘を……<NAME=CP_0002>を頼む。'
+
+[19] RID 5292 (NPC NPC_22010):
+  EN: "Her mother, and her aunt, too...\n|\nI saw them off just like this, too...\nWe are powerless to do anything\nelse...\n|\nEven if it is for everyone's sake,\nsurely this is too much grief for\none family to bear..."
+  JP: 'あの子の母も、その姉も…\n|\nわしはこうやって見送ることしか\nできなかった。\n|\n皆のためとはいえ、あの家族には\nつらい思いばかりさせておる。'
+
+[20] RID 5294 (NPC NPC_22010):
+  EN: 'Ahh... So pure and noble...\nShe is the spitting image of her\nmother <NAME=NPC_10150>.\n|\nI am sure <NAME=NPC_10150> watches\nover her still.\n|\nThe hope of all the people rests on\n<NAME=CP_0002>. Please look after her.'
+  JP: 'ふむ。その清らかな姿、まさしく\n母親の<NAME=NPC_10150>に、うり二つじゃ。\n|\n<NAME=NPC_10150>もきっと見守っておる。\n|\n<NAME=CP_0002>はすべての人の希望じゃ。\nよろしく頼むぞ。'
+
+[21] RID 5295 (NPC NPC_22010):
+  EN: 'You have returned...and on a royal\nairship! I am truly flabbergasted!\n|\nThe reason matters not. I am so\nhappy to see you once more!'
+  JP: '王家の飛空挺で戻ってくるとは……。\nわし、おったまげじゃ。\n|\nどんな理由かは問わぬよ。\nまた会えたことがうれしいからのう。'
+
+[22] RID 5296 (NPC NPC_22080):
+  EN: 'Mother and daughter, both setting\noff as sacrifice. Fate is a strange\nthing indeed...\n|\nI must at least make her some of\nthat arctic cauliflower soup she\nloves so much...'
+  JP: '母娘が続いて、いけにえに\n旅立つなんて因果だねえ……。\n|\nせめて、あの子の好きな山菜汁を\n食べさせてあげないと……。'
+
+[23] RID 5297 (NPC NPC_22080):
+  EN: "I don't know who you are, but you\nkeep your hands off\n<NAME=CP_0002>.\n|\nShe has a very important task that\nshe must fulfill."
+  JP: 'お前さんが何者なのかは知らないが\nもう手を出さないでおくれよ。\n|\nあの娘にはまっとうすべき\n大事な使命があるんだ。'
+
+[24] RID 5298 (NPC NPC_22080):
+  EN: "<NAME=CP_0002>'s mother,\n<NAME=NPC_10150>, also possessed great\nmagical energy.\n|\nI shall be praying that <NAME=NPC_10150>'s\nspirit guides and watches over her..."
+  JP: '<NAME=CP_0002>の母親の<NAME=NPC_10150>も\nとても高い魔力の持ち主じゃった。\n|\nせめて、<NAME=NPC_10150>の魂が<NAME=CP_0002>を\n守り、導いてくれるよう祈るよ。'
+
+[25] RID 5299 (NPC NPC_22080):
+  EN: '<NAME=CP_0002>...\n|\nPlease, let me take a good look at\nyou, one last time...\n|\nOh dear... Oh dear me...\nIt brings tears to these old eyes of\nmine...'
+  JP: '<NAME=CP_0002>や……。\n|\nこの老いた瞳にお前の姿を\nしっかりと見させておくれ。\n|\nああ。この枯れ果てた目に\n涙が止まらないよ……。'
+
+[26] RID 5300 (NPC NPC_22080):
+  EN: "Oh, my! I never thought I'd see you\nagain, <NAME=CP_0002>!\n|\nIf I knew you were coming, I\nwould have made some arctic\ncauliflower soup!"
+  JP: 'ああ、また<NAME=CP_0002>と会えるなんて。\n|\nそうと知ってたらちゃんと\n山菜汁を作っておいたのに。'
+
+[27] RID 5301 (NPC NPC_22070):
+  EN: "The girl who has been chosen as\nsacrifice is ever such a kind young\nlady...\n|\nShe often goes to the\n<NAME=MA_0006_01> to pray\nto the past sacrifices.\n|\nWhere's the\n<NAME=MA_0006_01>?\nJust past the <NAME=MA_0005_01>."
+  JP: '今回のいけにえに選ばれた娘は\nとても優しくてね。\n|\nよく<NAME=MA_0006_01>に行って、歴代の\nいけにえたちに祈りを捧げているよ。\n|\n<NAME=MA_0006_01>の場所かい？\n<NAME=MA_0005_01>を抜けた先さ。'
+
+[28] RID 5302 (NPC NPC_22070):
+  EN: 'Asking the chief to spare the life\nof the very man who tried to kill\nher...\n|\n<NAME=CP_0002> really is far\ntoo kind...'
+  JP: '自分の命を狙った男の助命を\n村長に頼むなんて……。\n|\nほんと、<NAME=CP_0002>は優しすぎるよ。'
+
+[29] RID 5303 (NPC NPC_22070):
+  EN: 'The hope of all the people rests on\nthe sacrifice.\n|\n<NAME=CP_0002> will fulfill\nher duty. I know she will...'
+  JP: 'いけにえはすべての人の希望なんだ。\n<NAME=CP_0002>ならきっとやり遂げてくれる。\n|\nあたしはそう信じている。'
+
+[30] RID 5304 (NPC NPC_22070):
+  EN: "Don't you worry about your father.\n|\nI'll be sending my husband over to\ncheck on him regularly!"
+  JP: 'お父さんのことは任せて。\n|\nうちの旦那にちょくちょく\n様子を見に行かせるから。'
+
+[31] RID 5305 (NPC NPC_22070):
+  EN: 'You went all the way to the\n<NAME=MA_0041_01> and came back...?\n|\nWh-what about the rites...?'
+  JP: '<NAME=MA_0041_01>まで行って\nまた戻ってきたって……。\n|\nぎ、儀式は……大丈夫なの？'
+
+[32] RID 5306 (NPC NPC_22090):
+  EN: "My family are close with the family\nof the girl who's been chosen as\nsacrifice, you see...\n|\nSo today's the day, eh...? *Sigh*"
+  JP: 'うちはいけにえに選ばれた\n娘さんの家族と親しくてね。\n|\nでも、その娘さんも\n今日で旅立ってしまうんだよなぁ。'
+
+[33] RID 5307 (NPC NPC_22090):
+  EN: "The monsters' attacks are growing\nmore frequent by the day.\n|\nI don't know what'll become of the\nvillage at this rate..."
+  JP: '日に日に、魔物たちの襲撃が増えて\nきている。\n|\nこのままだとこの村もどうなるのか…。'
+
+[34] RID 5308 (NPC NPC_22090):
+  EN: "I've no idea what sort of place the\n<NAME=MA_0041_01> are.\n|\nIn fact, even the sacrifices' guards\nwho have returned never really\nremember much.\n|\nSome people even say that their\nmemories have been erased..."
+  JP: 'いけにえが目指す<NAME=MA_0041_01>が\nどういう所だかは知らない。\n|\n何しろ戻ってきた護衛の者ですら\nよく覚えていないらしいからね。\n|\nウワサじゃ記憶を消されるって\n話もあるぐらいだ。'
+
+[35] RID 5309 (NPC NPC_22090):
+  EN: "Looks like I'll be drinking through\nthe night with <NAME=NPC_10010>\nlater...\n|\nTake care, <NAME=CP_0002>..."
+  JP: '今日は<NAME=NPC_10010>と飲み明かすことに\nなりそうだよ。\n|\n元気でな、<NAME=CP_0002>……。'
+
+[36] RID 5311 (NPC NPC_22100):
+  EN: "Hey, have you been to the\n<NAME=MA_0006_01>?\n|\nApparently it's just through the\n<NAME=MA_0005_01> near the village...\n|\nThere are monsters in the woods,\nthough, so I've never been."
+  JP: 'ねえねえ、<NAME=MA_0006_01>って\n行ったことある？\n|\n村を出て、<NAME=MA_0005_01>を抜けた先に\nあるらしいんだけど……。\n|\n森には魔物が出て危ないから\nわたし、行ったことないの。'
+
+[37] RID 5312 (NPC NPC_22100):
+  EN: "<NAME=CP_0002> looks so pretty...\n|\nI hope I'm that pretty when I'm\nolder!"
+  JP: '<NAME=CP_0002>おねえちゃん\nなんだかとってもキレイ。\n|\nわたしもいつか、\nあんな風になれるかな？'
+
+[38] RID 5313 (NPC NPC_22100):
+  EN: "Is it a very long way to the\n<NAME=MA_0041_01>?\n|\nIf they weren't so far, I'd come\nalong..."
+  JP: '<NAME=MA_0041_01>って遠いのかな？\n近かったらわたしもついていくのに……。'
+
+[39] RID 5314 (NPC NPC_22100):
+  EN: "Maybe I'll be chosen as sacrifice\none day, too...\n|\nDo you think my daddy would be\npleased if I was chosen as sacrifice?"
+  JP: 'わたしもいつか、いけにえに\n選ばれる日がくるのかな……。\n|\nお父さん、わたしがいけにえに\n選ばれたら喜んでくれるかな？'
+
+[40] RID 5316 (NPC NPC_22060):
+  EN: "She's so kind, so beautiful...\nShe's absolutely perfect!\n|\nThat's precisely why I think she's\nperfect for me.\n|\nBut now that she's been chosen as\nsacrifice, I guess I'll just have to try\nand forget about her..."
+  JP: '彼女は優しいし可愛いし、\n非の打ち所のない女性だよ。\n|\nだからこそ、僕にふさわしいと\n思うんだけどね。\n|\nでも、いけにえに選ばれたのなら\nあきらめるしかないだろ？'
+
+[41] RID 5317 (NPC NPC_22060):
+  EN: "Ahh... If only I were brave and\nstrong...\n|\nI'd do away with all the monsters\njust like that! I'd be a hero\novernight!\n|\nOh well... I suppose I can't expect\nto have been born handsome AND\nstrong..."
+  JP: 'ああ。この僕が\nもっと勇敢だったら……。\n|\n魔物をばったばったとなぎ倒し、\n一躍、英雄と呼ばれただろうに。\n|\nでも、色男、金と力は\nなかりけりって言うし……。'
+
+[42] RID 5318 (NPC NPC_22060):
+  EN: "<NAME=CP_0003> suddenly\ncame here one day and volunteered\nto join the sacrifice's guard...\n|\nKeep this between us, but I'm\npretty sure she's got a thing for\nme.\n|\nPerhaps she's still planning on\ndeclaring her love for me before\nthey leave..."
+  JP: '<NAME=CP_0003>は突然村にきて\n護衛に名乗り出たんだ。 \n|\n内緒だけど彼女、僕に惚れていると\n思うんだ。\n|\n旅立つ前に彼女のほうから\n告白してくれないかな……。'
+
+[43] RID 5319 (NPC NPC_22060):
+  EN: "Oh, cruel fate! To whom should I\ngive this love of mine?\n|\nIf only someone else in the village\nhad greater magical energy than\n<NAME=CP_0002>!\n|\nThen she wouldn't have to leave...\nShe could have lived out a happy\nlife here in the village with me..."
+  JP: 'ああ……。これから僕の愛は\nだれに捧げればいいのか。\n|\nせめて、<NAME=CP_0002>の魔力が\n村一番じゃなかったら良かったのに。\n|\nそうしたら僕のそばで\n一生安心して暮らせたのに……。'
+
+[44] RID 5320 (NPC NPC_22060):
+  EN: 'I finally decided to give my love to\nsomeone else...and now you appear\nbefore me once more!?\n|\nOh, dear <NAME=CP_0002>...\nWhat a cruel, cruel woman you\nare...'
+  JP: '新しい恋に生きようと決意した\n僕の前に再び現れるなんて……。\n|\nああ、<NAME=CP_0002>……。\nきみはなんて罪作りな女性なんだ。'
+
+[45] RID 5321 (NPC NPC_22110):
+  EN: "This is Nive, one of the most\nnortherly villages in all the land.\n|\nRight now everyone's busy getting\nready for the sacrifice's departure."
+  JP: 'ここは北限の村モルだよ。\n|\n今は、いけにえの出立準備で\nみんな忙しいんだ。'
+
+[46] RID 5322 (NPC NPC_22110):
+  EN: "You sure are strong!\nThat monster was huge!\n|\nYou could have run away, but no...\nyou stayed and fought. You've\ndefinitely earned my trust!"
+  JP: 'あんな大きな魔物も倒すなんて\nあんた、強いんだな。\n|\n逃げもせずに魔物を退治してくれた\nあんたのこと、俺は信じているよ。'
+
+[47] RID 5323 (NPC NPC_22110):
+  EN: "Where have you been? Slipped out\nof the village, did you?\n|\nOh well, it doesn't matter. If there's\nanything you want to do before\nleaving here, you should do it."
+  JP: 'やれやれ、村を抜け出して\nどこに行ってきたんだ？\n|\n……でもまあ、とがめる気はないよ。\n思い残しはないほうがいいもんな。'
+
+[48] RID 5324 (NPC NPC_22110):
+  EN: "<NAME=CP_0002> always used\nto play with my little boy, you see.\n|\nI'll miss her, I really will..."
+  JP: '<NAME=CP_0002>はうちの坊主と\nよく遊んでくれたからな。\n|\n寂しくなるよ。'
+
+[49] RID 5325 (NPC NPC_22110):
+  EN: 'Welcome back...\n|\nI suppose you\'re not really "back,"\nbut I don\'t know what else to say...'
+  JP: 'お帰り……って言うのも変かな。\nでも、他に言い方が思いつかないよ。'
+
+[50] RID 5326 (NPC NPC_22120):
+  EN: "I can't tell anyone where\n<NAME=CP_0002> went...\nI promised I'd keep it a secret!\n|\nI guess I can tell you once she gets\nback from the Falling Snow\nMonument, though..."
+  JP: 'お姉ちゃんがどこに行ったかは\nヒミツだよ。だって約束したんだもん。\n|\nお姉ちゃんが名残雪の石碑から\n戻ってきたら教えてもいいよ。'
+
+[51] RID 5327 (NPC NPC_22120):
+  EN: "My dad's the village guard, and he\ngot everyone away safely!\n|\nMy dad's so amazing..."
+  JP: '門番のお父さんは魔物から\nみんなを無事に逃がしたんだよ。\n|\nすっごくかっこよかったよ。'
+
+[52] RID 5329 (NPC NPC_22120):
+  EN: "My dad protects everyone by\npatrolling the entrance to the\nvillage every day.\n|\nWhen I'm big and strong, I'm\ngoing to protect the village, just\nlike my dad!"
+  JP: 'ボクのお父さんは村の入り口で\n毎日見回りして村を守ってるんだ。\n|\nボクも強くなって、大きくなったら\nお父さんみたいに村を守るんだ。'
+
+[53] RID 5331 (NPC NPC_22020):
+  EN: 'The monsters have become much\nmore ferocious lately.\n|\nEven just getting through the\n<NAME=MA_0005_01> to the northeast\nis hard going these days...'
+  JP: '近頃、魔物たちの活動が急激に\n活発になってきててな。\n|\n北東にある<NAME=MA_0005_01>を\n抜けるのすらひと苦労だよ。'
+
+[54] RID 5332 (NPC NPC_22020):
+  EN: "Sorry, I was too busy getting\neveryone else out of the village\nsafely...I didn't get around to you...\n|\nBut seeing as you're so strong, I\nguess it didn't matter anyway,\nright?"
+  JP: 'みんなを村の外に避難させるのが\n精一杯で他に手が回らなかったんだ。\n|\nでも、あれだけ強いんだから\n問題なかったよね？\u3000そうだよね？'
+
+[55] RID 5334 (NPC NPC_22020):
+  EN: "I hope you get to the <NAME=MA_0041_01>\nbefore the monsters increase any\nmore than they already have...\n|\nThat might sound selfish, but it\nreally is for everyone's sake..."
+  JP: 'これ以上、魔物が増えないうちに\n<NAME=MA_0041_01>にたどりついてほしいよ。\n|\n身勝手なお願いかもしれないけど\nそれがみんなのためなんだ。'
+
+[56] RID 5335 (NPC NPC_22020):
+  EN: "Will you be able to get to the\n<NAME=MA_0041_01>, then?\n|\nThere isn't some sort of problem,\nis there?"
+  JP: '<NAME=MA_0041_01>には行けそうなのかい？\nもしかして何か問題が起きてるとか？'
+
+[57] RID 5336 (NPC NPC_22130):
+  EN: "The departure ceremony will soon\nbegin.\n|\nA journey of sacrifice, made to\nappease the savage monsters...\n|\nIt's a custom that's been practiced\nin this village for a long, long time."
+  JP: 'いけにえの出立式なら\nもうすぐ始まりますよ。\n|\n荒ぶる魔物を鎮めるために\nその命を捧げる旅……。\n|\nこの村に古くから伝わる風習なんです。'
+
+[58] RID 5337 (NPC NPC_22130):
+  EN: "It's thanks to <NAME=CP_0002>\nthat everyone can go about their\nlives without having to live in fear.\n|\nWe must never forget that... Never..."
+  JP: '<NAME=CP_0002>のおかげで\nみんなが安心して暮らせます。\n|\nそのことを、私たちは\n絶対に忘れてはいけません。'
+
+[59] RID 5338 (NPC NPC_22130):
+  EN: "For generation after generation,\nthose chosen as sacrifices have\nbeen women.\n|\nOnly those who possess strong\nmagical energy are qualified to\nbecome sacrifices.\n|\nPerhaps that's a quality naturally\npossessed by women, the bearers\nof new life..."
+  JP: '代々いけにえとして\n選ばれてきたのは女性でした。\n|\nいけにえの資格があるのは\n高い魔力が備わった者だけです。\n|\n新しい命を宿すことのできる女性には\nその資質が備わっているのでしょう。'
+
+[60] RID 5339 (NPC NPC_22130):
+  EN: "You're the pride of the village,\n<NAME=CP_0002>...\n|\nEach time I see the falling snow, I\nthink of you..."
+  JP: '<NAME=CP_0002>……\nあなたはこの村の誇りです。\n|\n雪が降るたび、\nあなたのことを想うわ……。'
+
+[61] RID 5340 (NPC NPC_22130):
+  EN: "There's something special about\nyou and your companions, isn't\nthere, <NAME=CP_0002>?\n|\nIt's strange... I sort of had that\nfeeling all along..."
+  JP: '<NAME=CP_0002>、あなたやあなたの仲間は\nやはり特別なのですね。\n|\nなんとなく、そんな気がしていたの。\n不思議ね。'
+
+[62] RID 5341 (NPC NPC_22140):
+  EN: "I don't mind the cold at all!\n|\nOne day, I'll be strong enough to\nprotect someone! Like the lady in\nthe sacrifice's guard!"
+  JP: '寒さなんてへっちゃらだよ！\n|\nいつか僕も護衛隊のお姉さんみたいに\n誰かを守れるくらい強くなるんだ。'
+
+[63] RID 5342 (NPC NPC_22140):
+  EN: "Monsters are pretty scary, aren't\nthey?\n|\nBut we can't let them win! We have\nto fight back! I'm going to fight,\ntoo!\n|\nThey sure are scary, though..."
+  JP: '魔物はこわいよね……。\n|\nでも、みんなで頑張らなくっちゃ！\nぼくだって戦うよ！\n|\nでもやっぱりこわいなあ……。'
+
+[64] RID 5343 (NPC NPC_22140):
+  EN: "I don't wanna have to say good-bye\nto <NAME=CP_0002>...\n|\nMaybe I'll tell her not to go... I'll\ntell her I'LL protect the village!"
+  JP: 'お姉ちゃんにさよならって\n言いたくないなあ……。\n|\nぼくがこの村を守るから行かないでって\nお願いしようかな。'
+
+[65] RID 5344 (NPC NPC_22140):
+  EN: 'Would it sound strange if I said\n"take care"?\n|\nWell, I don\'t wanna say good-bye...\n"Take care" sounds much better...\n|\nSo...take care!'
+  JP: '元気でね……って言うのもヘンかな？\n|\nでもやっぱり、ぼくはそう言いたい。\nさよならより、ずっといいよね。\n|\nだから……元気でね！'
+
+[66] RID 5346 (NPC NPC_22150):
+  EN: "That little busybody says SHE'S\nworried about ME!\n|\nA sacrifice should have enough on\nher plate without worrying about\nother people!"
+  JP: 'あのおせっかい娘が\nあたしのことが心配だってさ！\n|\nいけにえが人の心配なんぞ\nしている場合じゃないだろうに！'
+
+[67] RID 5347 (NPC NPC_22150):
+  EN: "So now that little busybody's\nhelping out a murderer!\n|\nWhat is she, a saint!?"
+  JP: 'おせっかい娘が\n今度はこんな悪党の世話焼きかい！\n|\nまったくどこまでお人よしなんだい！'
+
+[68] RID 5348 (NPC NPC_22150):
+  EN: "That little busybody's STILL here?\nBah!\n|\nI'm sick of the sight of her! Why\ndoesn't she just hurry up and\nleave? Good riddance, I say!"
+  JP: 'あのおせっかい娘\nまだウロウロしてたね！\n|\n目障りだから早く\n出て行けばいいんだよ！\n|\nそうしたらあたしは\nせいせいするんだ……。'
+
+[69] RID 5349 (NPC NPC_22150):
+  EN: 'What are you doing talking to ME\nat a time like this!?\n|\nForget about me, and worry about\nyourself!\n|\nJust leave me alone... Please...'
+  JP: 'こんなときまで\nあたしの心配してんじゃないよ！\n|\nあんたは自分のことだけ考えてりゃ\nいいんだ！\n|\nあたしのことなんか\nほうっておいておくれよ……。'
+
+[70] RID 5350 (NPC NPC_22150):
+  EN: "What? You didn't come all the way\nback here just to waste your time\ntalking to ME, did you?\n|\nSame old little... *sniffle*...\nbusybody... *sob, sob*..."
+  JP: 'せっかく戻ってきたのに\nあたしになんか話しかけて……\n|\n相変わらずのおせっかい娘だね……。\nうっ……ううっ……ぐすん。'
+
+[71] RID 5351 (NPC NPC_22050):
+  EN: 'Today is a day of celebration!\nThe sacrifice will be departing on\nher pilgrimage.\n|\nIt reminds me of the day I saw my\nwife off... *Sigh*'
+  JP: '今日はいけにえが旅立つ、良き日じゃ。\n|\n妻を送りだしたあの日のことを\n思い出すわい。'
+
+[72] RID 5352 (NPC NPC_22050):
+  EN: "My wife's sister was chosen as\nsacrifice, and she joined her guard,\nyou see...\n|\nShe never came back after that.\n|\nNot going with her was the biggest\nmistake I ever made... I regret it\nevery day of my life..."
+  JP: '妻は自分の姉がいけにえに\n選ばれたときに護衛隊に加わっての。\n|\nそれっきり帰ってくることはなかった。\n|\nあのとき、同行しておればと\n今でも悔いておるよ。'
+
+[73] RID 5353 (NPC NPC_22050):
+  EN: "All right, I've made up my mind!\nI'm joining <NAME=CP_0002>'s\nguard!\n|\nWhen I said that to my grandson,\nhe said I was far too old, though..."
+  JP: 'よし、決めた！\nわしも<NAME=CP_0002>の護衛隊に入るぞ！\n|\n……と言ったら、年寄りの冷や水は\nやめてくれと孫に言われたわい。'
+
+[74] RID 5354 (NPC NPC_22050):
+  EN: "When the next sacrifice is chosen,\nI'm definitely joining the guard!\n|\nIf I'm still around then, that is..."
+  JP: '次のいけにえのときこそは\nわしも護衛隊に参加するぞ！\n|\nそのときまで生きていればの話じゃが。'
+
+[75] RID 5355 (NPC NPC_22050):
+  EN: "If only I could soar through the\nskies like you... *Sigh*\n|\nIf only I could do that, I'm sure I\ncould see my wife again... That's\njust the feeling I get, somehow..."
+  JP: 'わしもキミたちのように\nこの空を駆けて行けたらなぁ。\n|\nそうすれば妻に再会できる、\nなぜだかそんな気がするんだよ。'
+
+[76] RID 5356 (NPC NPC_22040):
+  EN: "After she gave birth to my dad,\nmy grandmother left here as part\nof the sacrifice's guard.\n|\nYoung or old, man or woman...\nAnyone can join the guard if\nthey've got what it takes."
+  JP: '私の祖母は、親父を産んだ後に\nいけにえの護衛として旅立ったんだ。\n|\n腕さえ良ければ、性別や年齢に関係なく\n護衛隊には参加できるからね。'
+
+[77] RID 5357 (NPC NPC_22040):
+  EN: "Hearing my grandmother's tales of\nher time as a guard inspired me to\nstart researching the monsters...\n|\nThey're the only reason we have to\nkeep sending sacrifices, right?"
+  JP: '護衛隊だった祖母の話を聞いてから\n私は魔物を研究するようになったんだ。\n|\n魔物の脅威さえなくなれば、いけにえを\n出さなくても済むかもしれないだろ？'
+
+[78] RID 5358 (NPC NPC_22040):
+  EN: "If sending sacrifices can placate\nthe monsters...\n|\nThen it's possible that we might\nsomehow be able to appease them\npermanently, right?"
+  JP: 'いけにえを捧げることで\n魔物を鎮静化させられるのなら……\n|\nその効果を持続させる方法も\nないとは言えないよね。'
+
+[79] RID 5359 (NPC NPC_22040):
+  EN: "I've heard that the mainland is full\nof monsters that are more powerful\nthan we can possibly imagine.\n|\nPlease be careful on your journey.\nIt definitely won't be an easy one..."
+  JP: '本島には我々の想像を越える魔物が\n数多く生息すると聞いている。\n|\n道中、どうか気をつけて。\nくれぐれも命を大切に……。'
+
+[80] RID 5360 (NPC NPC_22040):
+  EN: "I've never heard of a sacrifice\nreaching the <NAME=MA_0041_01> and\nmaking her way back before...\n|\nMaybe things really are starting to\nchange..."
+  JP: 'いけにえが<NAME=MA_0041_01>まで行って、\n戻ってこれるなんて初耳だよ。\n|\n時代が大きく変わるのは\nこういう時なのかもしれないね。'
+
+[81] RID 5361 (NPC NPC_22160):
+  EN: "We always thought all the monsters\ncame here from the mainland...but\nthat isn't the case anymore.\n|\nNow they appear as if from\nnowhere...and their numbers grow\ngreater by the day..."
+  JP: '以前、魔物は本島から渡ってくると\n考えられていたし、実際そうだった。\n|\nでも昨今は違う。どこから湧き出すやら\n日々その数は増えるばかりだよ。'
+
+[82] RID 5362 (NPC NPC_22160):
+  EN: "We survived that attack, thanks to\nyou three...\n|\nBut if something like that happens\nagain, we won't stand a chance!"
+  JP: 'さっきはあんたたちのおかげで\nみんなも助かったが……。\n|\nこれから先も同じようなことが\n起こればとても太刀打ちできないよ。'
+
+[83] RID 5363 (NPC NPC_22160):
+  EN: "Are you going to be joining the\nsacrifice's guard as well, then?\n|\nHaving a strong man like you with\nthem is sure to improve their odds!"
+  JP: 'あんたもいけにえの護衛に\nなってくれるのかい？\n|\nあんたみたいに強い男が護衛なら\n旅の成功確率も上がるだろうな。'
+
+[84] RID 5365 (NPC NPC_22160):
+  EN: "It doesn't seem you've completed\nyour journey yet...\n|\nI'm glad to see that you're safe,\nthough."
+  JP: '旅が終わった、というわけでは\nなさそうだが……。\n|\nとにかく無事で何よりだ。'
+
+[85] RID 5366 (NPC NPC_22170):
+  EN: "I passed through this village on\nmy travels, and took a liking to it.\n|\nI ended up staying here...but the\nvillagers still aren't very friendly\ntowards me...\n|\nI wish there was some way I could\nwin their trust..."
+  JP: '旅の途中、この村に立ち寄ったら\n居心地がよくてね。\n|\nとうとう住み着いてしまったけど\nまだ村の人たちが、よそよそしいんだ。\n|\n何とか信用されるいい方法ないかな。'
+
+[86] RID 5367 (NPC NPC_22170):
+  EN: "Maybe it's too dangerous to stay\nhere...\n|\nNo, no! What am I saying!?\nI chose this village as my home!\nI need to stay here and defend it!"
+  JP: 'この村も、もう危ないのかな……。\n|\nいやいやいや！\u3000弱気はダメだ！\n|\n第二の故郷と決めたこの村は\nちゃんと守らなきゃいけない！'
+
+[87] RID 5368 (NPC NPC_22170):
+  EN: "I've been on this island for a while\nnow, but this is my first time\nseeing a departure ceremony.\n|\nIt's certainly very...touching.\nEven for an outsider like me..."
+  JP: 'この島に来てしばらく経つけど\n出立式を見るのは初めてだよ。\n|\nなんというか……余所者の俺でも\n胸が締め付けられるものがあるね。'
+
+[88] RID 5369 (NPC NPC_22170):
+  EN: "The sacrifice is somehow different\nfrom regular people, isn't she?\n|\nIt's not just her magical energy...\nthere's something else that's special\nabout her...\n|\nI hope your journey is a success, I\nreally do..."
+  JP: 'いけにえっていうのは……\nやっぱり普通の人とは違うんだね。\n|\n単に魔力が高いだけじゃなくて\nなんかこう、気高いものを感じるよ。\n|\n旅の成功を祈ってる。'
+
+[89] RID 5370 (NPC NPC_22170):
+  EN: 'Flying through the sky in an\nairship, as free as a bird...\n|\nWow! Just thinking about it makes\nme feel so excited!\n|\nWhat an amazing journey you\nmust be having...'
+  JP: '飛空艇で自由に空を飛べるなんて\n想像しただけで興奮しちゃうよ！\n|\nすごい旅をしているんだな、\nキミたちは。'
+
+[90] RID 5374 (NPC NPC_10012):
+  EN: "We've just finished clearing up\nafter the departure ceremony.\n|\nShe really did look so beautiful...\nShe'll make it. I know she will.\n|\nNow, I need to fulfill my duty.\nI've been entrusted with a very\nimportant task..."
+  JP: 'じつは、いけにえの出立式の\n片付けを終えたところなんです。\n|\nきれいでしたよ。本当に……。\n彼女なら、絶対に大丈夫です。\n|\n私も使命を果たさないと。\nとても大切なものを託されたから。'
+
+[91] RID 5375 (NPC NPC_22061):
+  EN: "That poor girl, having her mom\nleave...\n|\nAll right! Looks like I'll have to\nprotect her!"
+  JP: 'おかあさん旅立っちゃって\nあの子、かわいそうだな。\n|\nよし、こうなったら\nボクが守ってやるしかないな！'
+
+[92] RID 5377 (NPC NPC_22221):
+  EN: "Once again, I wasn't chosen as\nsacrifice...\n|\nPerhaps it'll be my turn next. I\nbetter stay in good shape, just in\ncase..."
+  JP: '今回も、あたしは\nいけにえに選ばれなかったねえ。\n|\n次回こそお鉢が回ってくる気がするよ。\nそれまで元気でいないとね。'
+
+[93] RID 5378 (NPC NPC_22131):
+  EN: "If you came to see the departure\nceremony, it just finished.\n|\nA journey of sacrifice, made to\nappease the monsters... It's an\nancient custom, you see."
+  JP: 'いけにえの出立式なら\n終わったところよ。\n|\n魔物を鎮めるために命を捧げる旅。\n古くから伝わる風習なの。'
+
+[94] RID 5379 (NPC NPC_22151):
+  EN: "That little busybody says SHE'S\nworried about ME!\n|\nAlways worrying about others\ninstead of...*sniffle*...herself...\n*sob, sob*..."
+  JP: 'あのおせっかい娘が\nあたしのことが心配だってさ！\n|\n自分のことは……いつも後回しで……\n最後まで……ううっ……ぐすん。'
+
+[95] RID 5380 (NPC NPC_22161):
+  EN: "The monsters come here from the\nmainland. There've been more of\nthem lately, too.\n|\nI suppose we sent out a new\nsacrifice just in time..."
+  JP: '魔物は本島から渡ってくるんだ。\nそれが最近ちょっと増えてきてね。\n|\nしかるべき時に、いけにえを\n送り出せたってことなのかな。'
+
+[96] RID 5382 (NPC NPC_22051):
+  EN: 'Today is a day of celebration!\nThe sacrifice has departed safely.\n|\nIt reminds me of the day I saw my\nwife off...'
+  JP: '今日は良き日じゃ。\n無事、いけにえが旅立った。\n|\n妻を送りだしたあの日のことを\n思い出すわい。'
+
+[97] RID 5383 (NPC NPC_22071):
+  EN: "I told myself I'd see her off with a\nsmile...but I couldn't do it...\n|\nAnyway, no more crying after\ntoday. I need to be strong...for her\ndaughter's sake, too..."
+  JP: '笑って送り出そうって\n決めてたんだけど……ダメね。\n|\nめそめそするのは今日でおしまい。\nあの子のためにも、しっかりしないと。'
+
+[98] RID 5384 (NPC NPC_22091):
+  EN: "My family are close with the girl\nwho was chosen as sacrifice, so it's\na strange feeling...\n|\nI know it's a great honor, but still..."
+  JP: 'うちはいけにえに選ばれた子と\n親しくてね。複雑ですよ。\n|\n名誉なことだって\nわかっちゃいるんですが。'
+
+[99] RID 5385 (NPC NPC_22011):
+  EN: 'Two sisters, both chosen as\nsacrifices...\n|\nEven if it is for the sake of\neveryone, surely this is too much\ngrief for one family to bear...\n|\nAt the very least, I must ensure\nthat her little girl leads a happy\nlife...'
+  JP: '姉に続いて妹まで\nいけにえに出すことになるとは……。\n|\n皆のためとはいえ、あの家族には\nつらい思いばかりさせておる。\n|\nせめてあの子には、幸せな一生を\n送ってもらえるようにせんとな……。'
+
+[100] RID 5386 (NPC NPC_22081):
+  EN: "Fate is a strange thing...\nI shall be praying for their safe\njourney...\n|\nAll of us in the village will have to\nraise that girl together. That's the\nvery least we can do, after all..."
+  JP: '因果だね……。\n旅の無事を祈るばかりだよ。\n|\nあの子は村のみんなで育てないとね。\nじゃないと、顔向けができないよ。'
+
+[101] RID 5387 (NPC NPC_22021):
+  EN: 'We have to send out sacrifices...\nWe have no other choice.\n|\nAll we can do is live our lives, and\nnever forget how much we owe\nthem.\n|\nI mean, what else can we do?'
+  JP: 'いけにえは必要なことなんだ。\nしょうがないよ。\n|\n感謝を忘れずに生きていく。\n俺たちができるのはそれだけだろ？'

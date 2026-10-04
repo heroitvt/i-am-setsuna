@@ -1,0 +1,41 @@
+Chapter 2 decrypted len: 441216
+
+--- Chapter 2 Record 0: rid=1403, l1=54, l2=156, l3=136, rlen=378, npcid=2 ---
+npc (14): CP_0005
+quest (0): 
+s1 (54): hex=013453306e3048516b30 | text='㐁この先におれの村、イルへ\n行く道があるんだ。行こう。'
+s2 (156): hex=019a4300f30020006300 | text='騁Có con đường từ đây dẫn\ntới làng tôi. Thôi nào, đi thôi.                     '
+s3 (136): hex=018649006c0020007900 | text='蘁Il y a un chemin par ici\nqui mène à mon village. Allez,\nsuivez-moi.'
+rlen=378, consumed=378, diff=0
+
+--- Chapter 2 Record 1: rid=1404, l1=16, l2=40, l3=38, rlen=126, npcid=2 ---
+npc (14): CP_0005
+quest (0): 
+s1 (16): hex=010e5330633061306030 | text='กこっちだよ。\n'
+s2 (40): hex=01261001e20079002000 | text='☁Đây là\ncon đường...'
+s3 (38): hex=012456006f0069006300 | text='␁Voici le chemin...'
+rlen=126, consumed=126, diff=0
+
+--- Chapter 2 Record 2: rid=1405, l1=38, l2=68, l3=74, rlen=212, npcid=2 ---
+npc (14): CP_0004
+quest (0): 
+s1 (38): hex=01245330633061306330 | text='␁こっちって\n道なんてないじゃないか。'
+s2 (68): hex=014243006f006e002000 | text='䈁Con đường? Ở\nđây làm gì có.      '
+s3 (74): hex=014855006e0020006300 | text='䠁Un chemin ? Je vois pas de chemin...'
+rlen=212, consumed=212, diff=0
+
+--- Chapter 2 Record 3: rid=1406, l1=30, l2=62, l3=62, rlen=186, npcid=2 ---
+npc (14): CP_0005
+quest (0): 
+s1 (30): hex=011c42308b3093306030 | text='ᰁあるんだ。秘密の抜け道が。\n'
+s2 (62): hex=013c4300f30020006300 | text='㰁Có chứ... một\ncon đường bí.   '
+s3 (62): hex=013c530069002e002000 | text="㰁Si. C'est un chemin... secret."
+rlen=186, consumed=186, diff=0
+
+--- Chapter 2 Record 4: rid=1407, l1=12, l2=10, l3=26, rlen=80, npcid=2 ---
+npc (14): CP_0005
+quest (0): 
+s1 (12): hex=010a7b3089306d301fff | text='ਁほらね？\n'
+s2 (10): hex=0108580065006d003f00 | text='ࠁXem?'
+s3 (26): hex=011856006f0075007300 | text='᠁Vous voyez ?'
+rlen=80, consumed=80, diff=0

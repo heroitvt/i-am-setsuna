@@ -1,0 +1,7 @@
+magic: -0x1, rid: 0, l1: 42, l2: 50, l3: 50, rlen: 160, npcid: 0
+npc_len: 0, npc: ''
+quest_len: 0, quest: ''
+s1_pre: 1, s1 len: 42 (42), s1: '匨儀唀䄀刀䔀\u2000䔀一䤀堀\u0a00瀀爀攀猀攀渀琀猀Ā'
+s2_pre: 48, s2 len: 50 (50), s2: 'Trình bày\nbởi VUÔNG ENIX、'
+s3_pre: 80, s3 len: 47 (50), s3: '爀\ue900猀攀渀琀\ue900\u2000瀀愀爀\u0a00匀儀唀䄀刀䔀\u2000䔀一䤀堀'
+Consumed 163 bytes out of rlen=160. Remaining: -3 bytes: b''

@@ -1,0 +1,66 @@
+RID 5270 (NPC NPC_21020):
+  VN: 'Chúc may mắn trên chuyến đi!\nMang hy vọng trở lại nhé! <NAME=CP_0002>!        '
+  JP: 'ぞっがあ、あんだ傭兵だっだのがあ。\n|\n<NAME=CP_0002>のごど、頼んだぞ！'
+RID 5271 (NPC NPC_21020):
+  VN: 'Gió đại dương thổi\ntừ đồi... T <NAME=CP_0002>?'
+  JP: 'えっ、<NAME=CP_0002>！？\nなんで、こごにいるの？'
+RID 5275 (NPC NPC_21040):
+  VN: 'Ngôi làng bé\nnhỏ này <NAME=CP_0002>? '
+  JP: '<NAME=CP_0002>ちゃん……だよな？\n間違いないよな？'
+RID 5276 (NPC NPC_21030):
+  VN: 'Chào\nmừng, chào! '
+  JP: 'いらっしゃい！'
+RID 5278 (NPC ):
+  VN: 'Đưa anh\ncông thức! '
+  JP: 'レシピを渡す'
+RID 5279 (NPC ):
+  VN: 'Đừng đưa\nanh công thức!  '
+  JP: 'レシピを渡さない'
+RID 5282 (NPC NPC_21030):
+  VN: 'Xin lỗi,\nchưa mở cửa!     '
+  JP: '悪いね。\n準備中なんだ。'
+RID 5283 (NPC NPC_21011):
+  VN: 'Hả? Bạn đến từ đâu? Bạn đã không\nở trên con tàu cuối cùng đó bạn?     '
+  JP: 'あれ？\u3000どこから来たの？\nさっきの船に乗ってたっけ？'
+RID 5291 (NPC NPC_10010):
+  VN: 'Hãy bảo vệ cô\nấy thật tốt, ! <NAME=CP_0002>?                                '
+  JP: 'まさかまた<NAME=CP_0002>と会えるなんて\nこれは夢なのか……。'
+RID 5293 (NPC NPC_22010):
+  VN: 'Lễ khởi hành sẽ không vẫn chưa bắt đầu\nnên vẫn còn thời gian để bạn suy nghĩ lại.             '
+  JP: 'まだ出立まで時間はあるから\nゆっくり考えて構わんよ。'
+RID 5310 (NPC NPC_22090):
+  VN: 'Tôi vẫn không tin vào mắt mình! Sự hy\nsinh, bay trở lại đây một chiếc khinh khí.   '
+  JP: 'まだ自分の目が信じられないよ。\nいけにえが飛空挺で戻ってくるなんて。'
+RID 5315 (NPC NPC_22100):
+  VN: 'Cho tôi đi phi thuyền\nvới! Làm ơn, làm ơn đi!           '
+  JP: 'わたしも飛空挺にのせて、のせて！\n'
+RID 5328 (NPC NPC_22120):
+  VN: 'Dù sao đi nữa, sự hy sinh có tác\ndụng gì? Tôi hy vọng cô ấy không đi.  '
+  JP: 'いけにえって何するのかな？\n|\n早く帰ってきてくれると\nうれしいんだけど……。'
+RID 5330 (NPC NPC_22120):
+  VN: 'Tuyệt vời! Tất cả\ncác bạn đã trở lại!'
+  JP: 'わぁーーーい！\nやっぱり帰ってきてくれたんだねっ！'
+RID 5333 (NPC NPC_22020):
+  VN: 'Lễ khởi hành sẽ sớm bắt\nđầu. Bạn đã sẵn sàng chưa?    '
+  JP: 'もうすぐ出立式が始まるよ。\n準備はできてるのかい？'
+RID 5345 (NPC NPC_22140):
+  VN: 'Ồ, ! Bạn đã trở lại! Vì\nvậy, rốt cuộc đó không phả <NAME=CP_0002>!'
+  JP: 'わぁーーーい、お姉ちゃんだ！\n元気でいてくれてよかったーーー！'
+RID 5364 (NPC NPC_22160):
+  VN: 'Bạn là người duy nhất có thể trấn áp\nquái vật! tôi chúc bạn chúc may mắn nhất!  '
+  JP: '魔物を鎮められるのはキミだけだ。\n旅の成功、祈ってるよ。'
+RID 5371 (NPC NPC_22180):
+  VN: 'Chào!   '
+  JP: 'いらっしゃいませ。'
+RID 5372 (NPC NPC_22190):
+  VN: 'Bạn đã đi cả chặng đường\ntới đây, vậy nên hãy nhìn. '
+  JP: 'せっかく来たんだ。\nゆっくり見ていってくれ。'
+RID 5373 (NPC NPC_22210):
+  VN: 'Tôi chưa bao giờ mong\nđợi bất kỳ khách hàng.  '
+  JP: 'まさかお客が来るとは\n思わなかったよ。'
+RID 5376 (NPC NPC_22111):
+  VN: 'Chúng tôi đã rất bận rộn chuẩn bị cho lễ\nra đi... Tất cả những gì tôi muốn làm bây giờ... '
+  JP: '出立の準備で忙しかったからさ。\n今日はゆっくり休みたいよ。'
+RID 5381 (NPC NPC_22041):
+  VN: 'Hình như bà tôi đã từng cũng\nlà một phần của người bảo vệ vật!  '
+  JP: 'ぼくのおばあちゃんも\nいけにえの護衛だったんだって。'

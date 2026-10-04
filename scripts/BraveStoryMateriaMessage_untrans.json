@@ -1,0 +1,778 @@
+[
+  {
+    "row": 30,
+    "en": "The user pretends to be dead, hiding their presence from attackers. As well as preventing enemy attacks, this tech also focuses the user's magical energy, increasing his or her accuracy rate and critical hit rate for the next turn.\nThis tech may seem more like a prank than a magical technique, and this spritnite stone was indeed originally created as a joke. However, it proved to be surprisingly effective in combat, and is still widely used today."
+  },
+  {
+    "row": 31,
+    "en": "This tech responds to the strong will and determination of those around it, and grants courage to all allies, increasing their Attack. When used in Momentum mode, its duration will be increased.\nIts Attack-boosting effect is simple but powerful, and the fact that it affects all allies also makes it extremely useful. Most party leaders will want to make sure that they have this tech available to use when necessary."
+  },
+  {
+    "row": 32,
+    "en": "Throws a chakram, using magical energy to make it spin at incredible speed. When used in Momentum mode, critical hits will be generated, greatly increasing damage.\nAs chakram users tend to be weak in close combat, they generally use their weapons more to ward off foes than to actively attack. This tech was created in order to give chakram users an attack capable of inflicting decisive damage in battle."
+  },
+  {
+    "row": 33,
+    "en": "Scatters large amounts of concentrated healing energy over all allies, recovering their HP. When used in Momentum mode, critical hits will be generated, increasing the amount of HP recovered.\nThis tech heals a high amount of HP and affects all allies, and its ability to bring a party back from the brink of defeat can prove invaluable. Although not an easy tech to use, its effectiveness means that there are always many who attempt to master it."
+  },
+  {
+    "row": 34,
+    "en": "Releases a purifying power that revives knocked-out allies, and fully recovers the HP of all allies, whether knocked out or not. When used in Momentum mode, it will also cast Auto-Revive on all allies for a set period of time.\nCreated as a result of research into resurrecting the dead, it is widely considered to be the ultimate in healing techs. It requires the user to possess both a benevolent heart and plentiful magical energy reserves, and few have ever been able to master it."
+  },
+  {
+    "row": 35,
+    "en": "Summons countless bolts of lightning that rain down from the sky, inflicting immense damage. When used in Momentum mode, it will also cause additional magical damage to a single enemy.\nThis tech is said to have been created before even the old royal family existed, and is probably the most famous of all wide-range light-elemental magic attacks. Although not an easy tech to master, its usefulness makes it a very popular one."
+  },
+  {
+    "row": 36,
+    "en": "Attacks using a sacred light emitted by raising the user's healing energy to its absolute limits. It causes more damage the higher the Total Healed counter is, and once used, this counter will be reset. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis is a new spritnite stone that was born when <NAME=CP_0002> inherited <NAME=NPC_10150>'s will."
+  },
+  {
+    "row": 37,
+    "en": "Focuses magical energy from the surrounding area inside the user's body and then releases it in a single mighty blast. Not only does this tech attack foes and heal allies simultaneously, when used in Momentum mode it will also cast Auto-Revive on all allies for a set period of time.\n<NAME=NPC_10170> happened upon this spritnite stone during her pilgrimage. It since lost its power, but that power was recovered thanks to the combined effort of the two sacrifices."
+  },
+  {
+    "row": 38,
+    "en": "The user charges forward with speed boosted using time energy, slashing through the enemy. This tech is useful as it can be used to attack all foes in a straight line from the target. When used in Momentum mode, it will also cause additional physical damage to a single enemy.\nThis attack's primitive nature makes it difficult to defend against. As time-element magic users are rare, this tech is seldom seen in use, and when it is seen, its user is without exception a powerful one."
+  },
+  {
+    "row": 39,
+    "en": "This tech boosts physical strength and immunity. When used in Momentum mode, its duration will be increased.\nThe principle behind this tech is extremely simple, and considering how easy it is to master, its effect is relatively powerful. It is ideal for use when guarding a sacrifice, and is said to have been used on many past pilgrimages."
+  },
+  {
+    "row": 40,
+    "en": "Slows down the flow of time around enemies, decreasing their turn frequency. When used in Momentum mode, the ATB gauges of all party members will already be partially full after they perform an action, allowing another action to be performed quickly.\nAlthough techs that control the flow of time are by essence difficult to master, this is one of the easier ones. Despite being relatively easy to use, it is an extremely useful tech, and a popular one."
+  },
+  {
+    "row": 41,
+    "en": "Generates an orb of gravitational energy that drags foes towards its center. When used in Momentum mode, additional damage will be inflicted, as well as a reduction to the enemy's time-elemental resistance, albeit a short-lasting one.\nEven more than its attack power, this tech's true worth lies in its ability to draw in foes. Although there are many enemies its effect will not work on, if used effectively it can round up all enemies into one place, which can prove extremely valuable."
+  },
+  {
+    "row": 42,
+    "en": "Charges a weapon with time energy, adding time-elemental damage to all attacks. Performing a time-elemental attack with a weapon charged in this way will also greatly increase the damage caused. When used in Momentum mode, its effect will be applied to all allies.\nThis tech is very useful when in combat with foes who are weak against the Time element, or to strengthen time-elemental attacks, and is one that any magic user would be wise to learn."
+  },
+  {
+    "row": 43,
+    "en": "A graceful attack executed with perfect efficiency. The ATB gauge will be partially full after use, allowing another action to be performed in quick succession. When used in Momentum mode, this tech will also recover HP, making it truly \"flawless.\"\nThis spritnite stone is said to have been created by an ancient civilization, and was designed to allow solo fighters to overcome any situation alone."
+  },
+  {
+    "row": 44,
+    "en": "Speeds up the flow of time in the surrounding area, increasing the speed at which the ATB gauge fills up. When used in Momentum mode, its duration will be increased.\nWhile slowing down the flow of time is relatively simple, speeding it up is a much more complex technique that requires the user to possess plentiful magical energy reserves. The usefulness of such a technique, however, goes without saying."
+  },
+  {
+    "row": 45,
+    "en": "An illusionary attack that inflicts Confusion and Stun on enemies. It also inflicts powerful damage, and when used in Momentum mode will also boost the user's evasion rate, making it useful in a wide range of situations.\nThe illusions this tech uses are created by distorting space. It thus falls under the category of space-time manipulation, and is treated as a time-manipulation tech."
+  },
+  {
+    "row": 46,
+    "en": "Stops the flow of time, preventing enemies from moving. When used in Momentum mode, it will also make the ATB gauges of all party members already be partially full after they perform an action.\nWhen the development of time-manipulation techs first began, priority was placed on the creation of one to stop time, and this tech was the result. However, because of its immense power, its use is said to have been highly regulated."
+  },
+  {
+    "row": 47,
+    "en": "Attacks by bending and distorting space, causing damage that ignores 50% of Defense. When used in Momentum mode, it will also reduce the Defense of all enemies.\nThis tech can only be used by those who possess enough magical energy to distort space, and the physical strength to withstand the effects of such distortions. However, if mastered it provides an invaluable attack that can inflict truly decisive damage."
+  },
+  {
+    "row": 48,
+    "en": "Interferes with the laws of the cosmos, manipulating reality. This tech is able to force Singularity activation, and the damage inflicted is almost just an added bonus. However, when used in Momentum mode it will also inflict multiple hits to a single enemy that cause significant damage.\nThis spritnite stone is said to have fallen down from the skies. The principle behind it is unknown, but its power is without question."
+  },
+  {
+    "row": 49,
+    "en": "Stalls the time flow of magical energy, increasing the period of time that any active status boost stays in effect for. When used in Momentum mode, its effect will be applied to all allies.\nEven compared to other time-manipulation techs, this tech requires very precise use of magical energy. Once mastered it is not a difficult tech to use, but mastering it in the first place is a tricky task."
+  },
+  {
+    "row": 50,
+    "en": "The user moves at drastically increased speed, inflicting multiple hits on all enemies. When used in Momentum mode, critical hits will be generated, greatly increasing damage.\nAlthough the principle behind this tech is simple, it increases speed to its utmost limits, taking a great physical and mental toll on the user. It is therefore not a tech that just anyone can use, but when mastered it offers awesome destructive power."
+  },
+  {
+    "row": 51,
+    "en": "Creates illusory replicas of the user, allowing enemy attacks to be evaded. These replicas disappear once hit, so the number of attacks that can be evaded is limited. When used in Momentum mode, the tech's effect will be applied to all allies.\nThis is one of the most powerful of space-manipulation techs, and grants Guaranteed Evasion, making it invaluable once mastered."
+  },
+  {
+    "row": 52,
+    "en": "A powerful tech that causes a giant frog to fall on enemies. The lower the user's HP, the greater the damage inflicted. When used in Momentum mode, it will also cause additional damage that increases in power in the same way.\nThis tech was created by an ancient researcher with a great love of frogs. Its bizarre appearance belies a formidable attack power, but apparently it can only be used by those with a fondness for frogs."
+  },
+  {
+    "row": 53,
+    "en": "Unleashes an attack with the power to both create and destroy the universe. The damage inflicted increases according to how high the Actions (Total) and Actions (Type) counters are. Once used, these counters will be reset. When used in Momentum mode, critical hits are generated more easily, greatly increasing the damage caused.\n<NAME=NPC_10202> spent endless years crafting this spritnite stone, and it crams all the ancient knowledge that is now lost into one supreme tech."
+  },
+  {
+    "row": 54,
+    "en": "Provokes enemies, directing their attacks towards the user. Rather than simply provoking enemies using words or gestures, this tech affects their consciousnesses, and grants the desired effect every time without fail. When used in Momentum mode, it will also boost the user's Defense.\nAlthough designed for use in duels, it proved surprisingly effective in group combat, and its use was officially sanctioned among the knights of the old kingdom."
+  },
+  {
+    "row": 55,
+    "en": "The user jumps into the air, then delivers a powerful strike with his or her full weight behind the sword. This tech uses a minimum of magical energy, relying mainly on physical strength, but its simplicity makes it extremely powerful. When used in Momentum mode, it will also cause additional physical damage to all enemies.\nAs this tech's burden on the user's body is considerable, it is difficult to use for anyone who does not possess substantial physical strength."
+  },
+  {
+    "row": 56,
+    "en": "Uses magical energy to boost the effect of the selected item. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis spritnite stone is said to have been created in another land, and was apparently the result of research into optimal use of magical energy in battle."
+  },
+  {
+    "row": 57,
+    "en": "Focuses magical energy into the blunt side of the blade, and then strikes the enemy with it. This tech can inflict Paralysis, and when used in Momentum mode will also recover HP.\nCreated by and for those who do battle up front, the aim of this tech was to try and reduce the toll that grueling frontline combat takes on the body."
+  },
+  {
+    "row": 58,
+    "en": "Attacks using a vacuum wave created from sword pressure. This wave can pierce through multiple enemies, making it ideal for striking several foes in a straight line, although the damage is reduced with each successive hit. It is very useful for attacking while staying at a distance. When used in Momentum mode, it will also cause additional magical damage to a single enemy.\nThis tech is effective but easy to use, and shows no sign of declining in popularity."
+  },
+  {
+    "row": 59,
+    "en": "Accumulates power inside the body, allowing the user to repel a physical attack from an enemy and then counterattack. When used in Momentum mode, it will also boost the user's status ailment rate.\nAs this tech relies on repelling enemy attacks, it requires its user to possess an extremely calm mental state. Although it may appear simple, it is in fact a difficult tech to use."
+  },
+  {
+    "row": 60,
+    "en": "Creates a barrier that reflects magical attacks back upon enemies. Attacks are returned with additional magical energy, increasing their damage. When used in Momentum mode, it will also boost the user's status infliction rate.\nThe barrier this tech creates is made by converting the user's physical power into magical energy. The technique required is complex, and only seasoned veterans can pull it off."
+  },
+  {
+    "row": 61,
+    "en": "The user imbues his or her sword with Stone-inflicting magical energy before swinging it down on the enemy. When used in Momentum mode, it will also recover HP.\nCreated by and for those who do battle up front, the aim of this tech was to try and reduce the toll that grueling frontline combat takes on the body."
+  },
+  {
+    "row": 62,
+    "en": "Uses magical energy to increase the effect range of the selected item. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis spritnite stone is said to have been created in another land, and was apparently the result of research into optimal use of magical energy in battle."
+  },
+  {
+    "row": 63,
+    "en": "The user performs a sword attack that cuts off the enemy's magical energy flow. Damage is increased when striking a foe's weakness. When used in Momentum mode, it will also cause additional damage that increases in power in the same way.\nAs this tech itself inflicts non-elemental damage, in order to unlock its true effectiveness it is essential for the user to work together with his or her allies."
+  },
+  {
+    "row": 64,
+    "en": "This tech increases fortitude, allowing the user to withstand intense pain. When receiving an attack that would normally reduce HP to zero, the user will instead retain 1 HP and remain conscious. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed again quickly.\nAlthough extremely useful in combat, the one problem is that it requires the user to have high physical ability in the first place."
+  },
+  {
+    "row": 65,
+    "en": "The user spins his or her sword, creating a whirlwind that not only inflicts damage but also draws foes towards it. When used in Momentum mode, it will also cause additional magical damage to a single enemy.\nThis tech was created as a result of research into ways to intentionally trigger natural phenomena. The first time it was ever tested, it created a gigantic whirlwind that caused serious damage to the nearby area."
+  },
+  {
+    "row": 66,
+    "en": "Strikes the enemy with a torrent of magical energy. Although not particularly powerful, it is able to set the element of the enemy's attacks. Combined with its Momentum mode effect, which boosts the user's elemental resistance, this makes it possible to greatly mitigate damage.\nThis tech was created to offer support in battle for those with much lower magical energy than their opponents. Although simple to use, it is a difficult tech to master."
+  },
+  {
+    "row": 67,
+    "en": "This tech attacks by transforming all currently active status boosts into magical energy. It causes more damage the more status boosts are in effect, and when used in Momentum mode, will also cause additional physical damage that increases in power in the same way.\nBy capitalizing on the magical energy that can be channeled from status boosts, this tech is able to offer a fearsome attack power."
+  },
+  {
+    "row": 68,
+    "en": "Creates an impenetrable space around the user, greatly boosting Defense and allowing Momentum mode to be triggered when receiving enemy attacks, completely mitigating all damage. When used in Momentum mode, it will also grant the user Guaranteed Evasion from attacks.\nThis tech consumes a huge amount of MP, but the powerful defense against enemy attacks that it provides makes it worth it."
+  },
+  {
+    "row": 69,
+    "en": "Raises guardian power to its utmost limits, unleashing a powerful attack. Damage increases according to the Attacks Received counter, and once used, this counter will be reset. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis spritnite stone has been passed down among the guards of many sacrifices. It can only be mastered by one with firm resolve and iron will."
+  },
+  {
+    "row": 70,
+    "en": "Transforms magical energy into flames that create a blazing inferno. When used in Momentum mode, additional damage will be inflicted, as well as a reduction to the enemy's fire-elemental resistance, albeit a short-lasting one.\nAlthough the most basic of fire-elemental attacks, it does not require its user to possess any special abilities, making it a useful and very popular tech."
+  },
+  {
+    "row": 71,
+    "en": "Steals life force from the enemy's magical energy flow. This tech combines both attack and recovery, and when used in Momentum mode will also recover HP.\nOriginally created for use by assassins, its ease-of-use and high effectiveness have made it a well-known tech among all magic users."
+  },
+  {
+    "row": 72,
+    "en": "Charges a weapon with fire energy, adding fire-elemental damage to all attacks. Performing a fire-elemental attack with a weapon charged in this way will also greatly increase the damage caused. When used in Momentum mode, its effect will be applied to all allies.\nThis tech is very useful when doing battle with foes who are weak against the Fire element, or to strengthen fire-elemental attacks, and is one that any magic user would be wise to learn."
+  },
+  {
+    "row": 73,
+    "en": "Releases nullifying magical energy, canceling all status boosts. When used in Momentum mode, it will also prevent status boosts from being cast for a set period of time.\nThis tech was originally created in order to suppress the magical energy of those with energy too great for them to control, but has since been repurposed for combat use."
+  },
+  {
+    "row": 74,
+    "en": "Transforms the earth's rage into flame energy, causing damage over a wide area. When used in Momentum mode, it will also cause additional magical damage to all enemies.\nThis tech was created by researchers attempting to harness the power of nature. Because it harnesses natural power, it only requires a small amount of magical energy to invoke, and is popular among those who need to continue doing battle over long periods of time."
+  },
+  {
+    "row": 75,
+    "en": "This tech creates a magical energy source gushing with life force. It casts Restore on allies, automatically recovering HP. When used in Momentum mode, its duration will be increased.\nDeveloped in order to enable continued combat during long missions, this is an extremely useful tech, and a very popular one."
+  },
+  {
+    "row": 76,
+    "en": "A viral attack created from magical energy. Although the damage it inflicts is low, this tech's ability to reduce Attack makes it a powerful one. When used in Momentum mode, it will also boost the user's status infliction rate.\nThis tech was originally a by-product of medical research, and has since been adapted for combat use. It is a very versatile tech, and one that many want to have in their arsenal."
+  },
+  {
+    "row": 77,
+    "en": "Steals spiritual power from the enemy's magical energy flow. This tech combines both attack and recovery, and when used in Momentum mode will also recover MP.\nOriginally created for use by assassins, its ease of use and high effectiveness have made it a well-known tech among all magic users."
+  },
+  {
+    "row": 78,
+    "en": "Uses vast amounts of magical energy to summon a huge explosion that causes devastating damage to all enemies in the surrounding space. When used in Momentum mode, this tech will also cause additional magical damage to a single enemy.\nThis tech is said to have been created before even the old royal family existed, and is probably the most famous of all wide-range fire-elemental magic attacks. Although not an easy tech to master, its usefulness makes it a very popular one."
+  },
+  {
+    "row": 79,
+    "en": "Distorts space in the surrounding area, making the user or allies invisible to enemies. Although it stops direct attacks from enemies, it cannot prevent attacks that cause damage to all allies. When used in Momentum mode, its duration will be increased.\nThis is a tech that all those who support their comrades from the rear will want to have under their belts. However, it is a difficult one to master, and cannot be used by just anyone."
+  },
+  {
+    "row": 80,
+    "en": "Produces an attack with the power to break down organisms at a cellular level. Although the damage it inflicts is low, it has the powerful property of being able to reduce Defense. When used in Momentum mode, it will also boost the user's status infliction rate.\nThis tech was originally a by-product of medical research that has since been adapted for combat use. It is a very versatile tech, and one that many want to have in their arsenal."
+  },
+  {
+    "row": 81,
+    "en": "This tech transforms magical energy into elemental power, creating a barrier that boosts resistance against the selected element. When used in Momentum mode, its duration will be increased.\nLittle information is available regarding the manipulation of elemental resistance, and this tech relies largely on the user's natural intuition. It also requires plentiful magical energy reserves."
+  },
+  {
+    "row": 82,
+    "en": "Creates a raging inferno that burns everything to ashes. It causes powerful damage that ignores 50% of Defense, and as if that wasn't enough, when used in Momentum mode will also cause additional magical damage that ignores 40% of Defense.\nWhen it was first created, this tech's use was highly regulated due to its immense power. It requires a huge amount of magical energy, but the destructive power it inflicts is incredible."
+  },
+  {
+    "row": 83,
+    "en": "This tech draws out power that transcends the body's natural limits, increasing the amount of MP consumed but boosting the power of techs. When used in Momentum mode, it will also recover MP.\nHuman bodies possess natural \"limiters\" that subconsciously stop people from placing too great a burden on their bodies. This tech removes these limiters, granting extraordinary power. However, as it takes a huge toll on the body, its use must be planned very carefully."
+  },
+  {
+    "row": 84,
+    "en": "This tech uses magical energy to neutralize elemental power, lowering resistance against the selected element. When used in Momentum mode, its duration will be increased.\nThis is one of the most difficult of all techs, but once mastered it can grant the power to defeat any foe with ease."
+  },
+  {
+    "row": 85,
+    "en": "This tech is said to possess the power to destroy the world. It boasts an overwhelming destructive power, but causes damage to both enemies and allies alike. However, it will not knock out the user. Its damage also increases according to the number of allies who are knocked out. When used in Momentum mode, it will also recover HP.\nThis tech was born from research into wide-range combat techs, but due to its immense power, has been locked away ever since being created."
+  },
+  {
+    "row": 86,
+    "en": "The user jumps into the air, withdrawing from battle, before diving down to attack. While in the air, the user cannot be attacked by foes or receive any damage, making this tech effective in terms of both attack and defense. When used in Momentum mode, it will also cause additional physical damage to all enemies.\nThe original aim of this tech was to enable flight, but although it grants the ability to stay in the air for a long time, it cannot be used to actually fly."
+  },
+  {
+    "row": 87,
+    "en": "Heightens the user's sensitivity to physical energy. When an ally performs a physical attack, the user will perform an additional follow-up attack. When used in Momentum mode, this tech will also boost the user's Attack, increasing the damage this follow-up attack causes.\nAlthough useless in solo combat, this tech is very effective when doing battle in a party, and it is often used by commanders during battle."
+  },
+  {
+    "row": 88,
+    "en": "Determines the enemy's weakest spot, based on their magical energy flow, and strikes at it. Has a high critical hit rate, and critical hit damage is also increased. When used in Momentum mode this tech will also recover HP, making it effective in terms of both attack and defense.\nThis tech was created by a once-legendary mercenary who fought using a lance, and gives a sense of his determination to win battles alone."
+  },
+  {
+    "row": 89,
+    "en": "Transforms magical energy into a solid block of ice that strikes the enemy from above. When used in Momentum mode, additional damage will be inflicted, as well as a reduction to the enemy's water-elemental resistance, albeit a short-lasting one.\nAlthough the most basic of water-elemental attacks, it does not require its user to possess any special abilities, making it a useful and very popular tech."
+  },
+  {
+    "row": 90,
+    "en": "Charges a weapon with ice energy, adding water-elemental damage to all attacks. Performing a water-elemental attack with a weapon charged in this way will also greatly increase the damage caused. When used in Momentum mode, its effect will be applied to all allies.\nThis tech is very useful when in combat with foes who are weak against the Water element, or to strengthen water-elemental attacks, and is one that any magic user would be wise to learn."
+  },
+  {
+    "row": 91,
+    "en": "The user charges the lance with ice energy before hurling it at foes. Can inflict Freeze, and when used in Momentum mode will also reduce the enemy's ATB speed.\nThis tech was created in order to slow down foes, but is in fact also very effective for other purposes. An extremely useful tech to have under one's belt."
+  },
+  {
+    "row": 92,
+    "en": "Channels all the user's magical energy into attacks, sacrificing Defense but increasing Attack greatly. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis tech was developed as part of research into Momentum energy, but the risks it carries were determined to be too great. It was destroyed, but someone has since restored its power."
+  },
+  {
+    "row": 93,
+    "en": "Releases physical energy that has been boosted to its limits, recovering HP and MP according to the user's Strength. When used in Momentum mode, it will also heal all status ailments.\nThis spritnite stone was the result of attempts to find a technique to simultaneously recover both HP and MP, in order to enable continued combat over long periods. Strangely, its effect is based on physical energy rather than magical energy."
+  },
+  {
+    "row": 94,
+    "en": "Attacks by freezing all the moisture in the surrounding space, creating a huge block of ice that causes damage to foes. When used in Momentum mode, it will also cause additional magical damage to a single enemy.\nThis tech is said to have been created before even the old royal family existed, and is probably the most famous of all wide-range water-elemental magic attacks. Although not an easy tech to master, its usefulness makes it a very popular one."
+  },
+  {
+    "row": 95,
+    "en": "Heightens the user's sensitivity to magical energy. When an ally performs a magical attack, the user will perform an additional follow-up attack. When used in Momentum mode, this tech will also boost the user's Attack, increasing the damage this follow-up attack causes.\nAlthough useless in solo combat, this tech is very effective when doing battle in a party, and it is often used by commanders during battle."
+  },
+  {
+    "row": 96,
+    "en": "Releases a spiral of destructive energy from the user's weapon, inflicting multiple hits in a single thrust. When used in Momentum mode, critical hits will be generated, greatly increasing damage.\nThis is a tech that all lance users hope to one day master, not only because of its power, but also its elegant form. Although at a glance it may appear simple, its power is tricky to control, making it a difficult tech to master."
+  },
+  {
+    "row": 97,
+    "en": "Sacrifices life force in order to unlock dormant energy. This tech increases the amount of MP consumed, but boosts the power of techs and enables combos to be used even when only one character has a full ATB gauge. When used in Momentum mode, it will also recover HP, making up for the HP sacrificed.\nThis taboo tech can only be used by those who have taken the blood of a monster inside their body."
+  },
+  {
+    "row": 98,
+    "en": "Strikes foes from above using a combination of physical and magical energy. Damage is calculated according to the lower of the enemy's physical or magical defense, making this a very useful tech. When used in Momentum mode, it will also cause additional physical damage to a single enemy.\nTraditionally only used by members of the royal family, this tech requires considerable training. However, once mastered it is very versatile, and its use is now relatively common."
+  },
+  {
+    "row": 99,
+    "en": "This tech strikes at openings in the enemy's defense, piercing through anything and everything. It ignores \n50% of Defense, and when used in Momentum mode will inflict additional damage and reduce the enemy's Defense.\nThis tech was created by knights of the old kingdom when doing battle with a country said to possess an impenetrable defense. It requires the user to be able to manipulate space, and is therefore seldom seen in use today."
+  },
+  {
+    "row": 100,
+    "en": "Leads the user to a state of selflessness, granting incredible power of judgment and boosting critical hit rate. When used in Momentum mode, its duration will be increased.\nThis spritnite stone was created by a man who had achieved a state of enlightenment, although his exact purpose is unclear. Regardless, its power is impossible for the vast majority of people to master."
+  },
+  {
+    "row": 101,
+    "en": "This tech symbolizes the knighthood and its dominance over the land. The higher the Critical Hits Counter is, the greater the damage it causes. Once this tech is used, this counter will be reset. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nThis spritnite stone has been passed down through the royal family for generations, and it can only be used by the rightful successor to the throne."
+  },
+  {
+    "row": 102,
+    "en": "The user channels magical energy into the scythe, then swings it around, sending foes flying. Offers a wide attack range, making it a very useful tech. When used in Momentum mode, it will also cause additional physical damage to all enemies.\nTakes full advantage of the long range and power of the scythe. A common attack among scythe users, although scythe users are few and far between."
+  },
+  {
+    "row": 103,
+    "en": "Transforms magical energy into a sinister mist that causes damage to enemies. When used in Momentum mode, additional damage will be inflicted, as well as a reduction to the enemy's shadow-elemental resistance, albeit a short-lasting one.\nThis tech is the most basic of shadow-elemental attacks. Users of shadow-elemental magic are few in number, but this tech is one of the most popular among them."
+  },
+  {
+    "row": 104,
+    "en": "The user channels cursed energy into the weapon before attacking. This tech can inflict Sap, and when used in Momentum mode will also boost the user's status infliction rate.\nThis tech was developed in order to wear down opponents' HP without them realizing, inflicting what seem like light wounds but turn out to be fatal. Mainly used by assassins."
+  },
+  {
+    "row": 105,
+    "en": "Charges a weapon with shadow energy, adding shadow-elemental damage to all attacks. Performing a shadow-elemental attack with a weapon charged in this way will also greatly increase the damage caused. When used in Momentum mode, its effect will be applied to all allies.\nThis tech is very useful when in combat with foes who are weak against the Shadow element, or to strengthen shadow-elemental attacks."
+  },
+  {
+    "row": 106,
+    "en": "The user pierces the ground with the scythe, channeling magical energy into the earth to create a huge bulge that causes damage to foes over a wide range. When used in Momentum mode, this tech will also cause additional magical damage to all enemies.\nAlthough a simple attack, its burden on the user is slight, it attacks over a wide range, and the damage it inflicts is considerable."
+  },
+  {
+    "row": 107,
+    "en": "Hides the user's presence completely, making it possible to move behind the enemy undetected to attack. This tech causes considerable damage, but its true value lies in its ability to inflict Death. When used in Momentum mode it will cause additional damage to all enemies that can also inflict Death.\nThis tech is not very well-known, but its ability to decisively defeat foes makes it extremely powerful."
+  },
+  {
+    "row": 108,
+    "en": "Created in order to help conserve life force and spiritual power, this tech makes it possible to absorb HP and MP from enemies when attacking. When used in Momentum mode, its duration will be increased.\nThis tech allows HP/MP recovery simply by attacking, and is therefore ideal for combat over long periods, making it popular among shadow-elemental users."
+  },
+  {
+    "row": 109,
+    "en": "Unleashes an attack imbued with the power of chaos, causing more damage the more status ailments are in effect. When used in Momentum mode, it will also cause additional physical damage that increases in power in the same way.\nThis tech was designed to utilize energy from status ailments inflicted on foes, thus producing an attack that places minimal burden on the user."
+  },
+  {
+    "row": 110,
+    "en": "Creates phantom clones that perform follow-up attacks when attacking. When used in Momentum mode, its effect will be applied to all allies.\nAlthough there are \"Bit\" spritnite stones available that offer support attacks, this tech was created with the aim of providing a more powerful alternative. Its use is less versatile, and cannot be used by just anyone, but it does indeed produce powerful results."
+  },
+  {
+    "row": 111,
+    "en": "This tech steals power from enemies. It is able to simultaneously reduce the Attack and Defense of enemies, and boost the Attack and Defense of the user. When used in Momentum mode, its duration will be increased.\nApparently, this tech was first created in order to aid the weak when doing battle with stronger opponents, but its effectiveness means that it is now used by a wide range of people, both weak and strong."
+  },
+  {
+    "row": 112,
+    "en": "Attacks using a combination of sinister mists that can inflict a range of status ailment on foes: Sap, Paralysis, Confusion, and Stun. When used in Momentum mode, it will also cause physical damage that becomes more powerful according to the number of status ailments in effect.\nOriginally designed to reduce the enemy's combat ability using status ailments, this tech has been adjusted to make it more versatile."
+  },
+  {
+    "row": 113,
+    "en": "Generates a black hole that sucks in everything around it. This tech is useful as it drags foes together as well as causing damage. When used in Momentum mode, it will also cause additional magical damage to a single enemy.\nThis tech was originally created for experimental purposes, in order to replicate the black holes found in space, but when discovered to be effective in battle, it was adjusted for combat use."
+  },
+  {
+    "row": 114,
+    "en": "Converts the user's own life force into destructive power and unleashes it on enemies. When used in Momentum mode, will also cause physical damage to a single enemy.\nThis tech was designed to be used as a last resort when the user's magical energy was exhausted, but its devastating power means that some use it constantly during combat. It initially consumed a huge amount of HP, but now expends a smaller amount, making it much easier to use."
+  },
+  {
+    "row": 115,
+    "en": "Uses magical energy to create all-consuming dark matter. When used in Momentum mode, critical hits will be generated, greatly increasing damage.\nThis tech has existed since ancient times, and even today is one of the most powerful of all shadow-elemental magical attacks. The dark matter generated requires extremely precise control, and one wrong step can easily cause damage to the user, but anyone who has used or borne witness to it will vouch for its devastating attack power."
+  },
+  {
+    "row": 116,
+    "en": "This tech alters the flow of magical energy inside the body, vastly increasing physical ability. It boosts the user's Attack, Defense, ATB speed, accuracy rate, evasion rate, critical hit rate, and status infliction rate, but prevents Momentum mode from being used.\nThis tech was created when carrying out research into Momentum, which found that by reversing the way that Momentum mode is used, it is possible to boost physical ability."
+  },
+  {
+    "row": 117,
+    "en": "This tech is said to possess the power of a legendary creature known as a dragon. It causes more damage the higher the Unused Momentum counter is. Once used, this counter will be reset. When used in Momentum mode, the ATB gauge will already be partially full after use, allowing another action to be performed quickly.\nIt is uncertain whether this tech truly does contain the power of a dragon, but its overwhelming destructive power is definitely without question."
+  },
+  {
+    "row": 118,
+    "en": "This spritnite stone contains magical energy that boosts life force.\nIt is confirmed to have existed since the days of the old royal family, and is thought to likely be a result of research into immortality carried out in the days when the use of spritnite first began. It falls far short of granting immortality, but is able to boost the bearer's maximum HP."
+  },
+  {
+    "row": 119,
+    "en": "This spritnite stone contains magical energy that boosts spiritual power.\nIt is confirmed to have existed since the days of the old royal family, and was apparently created by a researcher who was working on combat techs with world-destroying potential. He developed this spritnite stone after concluding that in order for such techs to be used, it was necessary to first increase the MP of the user."
+  },
+  {
+    "row": 120,
+    "en": "This spritnite stone contains magical energy that boosts physical attack power.\nIt is thought to have been used by the knights of the old royal family. Rather than affecting the bearer itself, it affects the bearer's weapon."
+  },
+  {
+    "row": 121,
+    "en": "This spritnite stone contains magical energy that boosts magical attack power.\nIt is thought to have been used by the knights of the old royal family. Rather than affecting the bearer itself, it affects the bearer's weapon."
+  },
+  {
+    "row": 122,
+    "en": "This spritnite stone contains magical energy that boosts physical defense power.\nIt is thought to have been used by the knights of the old royal family. Rather than affecting the bearer itself, it affects the bearer's weapon."
+  },
+  {
+    "row": 123,
+    "en": "This spritnite stone contains magical energy that boosts magical defense power.\nIt is thought to have been used by the knights of the old royal family. Rather than affecting the bearer itself, it affects the bearer's weapon."
+  },
+  {
+    "row": 124,
+    "en": "This spritnite stone uses magical energy to heighten the senses, allowing the bearer to strike with absolute accuracy.\nIn the days of the old royal family, research into predicting the future was ordered at a national level, and this spritnite stone is one example of the results of the many studies carried out. Although the research never accomplished its ultimate goal, various useful spritnite stones were produced as a result."
+  },
+  {
+    "row": 125,
+    "en": "This spritnite stone uses magical energy to heighten the senses, granting the bearer the ability to see everything with total clarity.\nIn the days of the old royal family, research into predicting the future was ordered at a national level, and this spritnite stone is one example of the results of the many studies carried out. Although the research never accomplished its ultimate goal, various useful spritnite stones were produced as a result."
+  },
+  {
+    "row": 126,
+    "en": "This spritnite stone uses magical energy to heighten the senses, granting the bearer the ability to move with perfect efficiency. \nIn the days of the old royal family, research into predicting the future was ordered at a national level, and this spritnite stone is one example of the results of the many studies carried out. Although the research never accomplished its ultimate goal, various useful spritnite stones were produced as a result."
+  },
+  {
+    "row": 127,
+    "en": "This spritnite stone uses magical energy to heighten the senses, granting the bearer great powers of insight.\nIn the days of the old royal family, research into predicting the future was ordered at a national level, and this spritnite stone is one example of the results of the many studies carried out. Although the research never accomplished its ultimate goal, various useful spritnite stones were produced as a result."
+  },
+  {
+    "row": 128,
+    "en": "This spritnite stone uses magical energy to heighten the senses, granting the bearer the power of infallible judgment.\nIn the days of the old royal family, research into predicting the future was ordered at a national level, and this spritnite stone is one example of the results of the many studies carried out. Although the research never accomplished its ultimate goal, various useful spritnite stones were produced as a result."
+  },
+  {
+    "row": 129,
+    "en": "This spritnite stone is powered by magical energy capable of speeding up the flow of time.\nIt is thought to have existed since the time of an ancient civilization, and most likely results from the extensive research into time-manipulation techs that was carried out in those days."
+  },
+  {
+    "row": 130,
+    "en": "This spritnite stone is designed to react to the rush of excitement when beginning battle, causing it to speed up the flow of time.\nIt is thought to have existed since the time of an ancient civilization, and most likely results from the extensive research into time-manipulation techs that was carried out in those days."
+  },
+  {
+    "row": 131,
+    "en": "This spritnite stone is designed to react to the rush of excitement when inflicting a critical hit, causing it to speed up the flow of time.\nIt is thought to have existed since the time of an ancient civilization, and most likely results from the extensive research into time-manipulation techs that was carried out in those days."
+  },
+  {
+    "row": 132,
+    "en": "This spritnite stone is designed to react to the rush of excitement when using Momentum mode, causing it to speed up the flow of time.\nIt is thought to have existed since the time of an ancient civilization, and most likely results from the extensive research into time-manipulation techs that was carried out in those days."
+  },
+  {
+    "row": 133,
+    "en": "This spritnite stone is designed to react to the rush of excitement when defeating an enemy, causing it to speed up the flow of time.\nIt is thought to have existed since the time of an ancient civilization, and most likely results from the extensive research into time-manipulation techs that was carried out in those days."
+  },
+  {
+    "row": 134,
+    "en": "This spritnite stone is designed to react to the feeling of tension when beginning battle, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 135,
+    "en": "This spritnite stone is designed to react to the feeling of anticipation when waiting for commands, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 136,
+    "en": "This spritnite stone is designed to react to the sense of accomplishment when attacking enemies, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 137,
+    "en": "This spritnite stone is designed to react to the sense of unity when healing and supporting allies, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 138,
+    "en": "This spritnite stone is designed to react to the sense of anger when receiving damage, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 139,
+    "en": "This spritnite stone is designed to react to the feeling of satisfaction when generating a critical hit, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 140,
+    "en": "This spritnite stone is designed to react to the sense of relief when defeating an enemy, causing it to awaken dormant power and accumulate SP.\nIt was created back in the days of the old royal family, as a result of research into the latent Momentum power possessed by humans. It is thought that the Momentum system we know today was completed as a result of this research."
+  },
+  {
+    "row": 141,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a non-elemental attack.\nThe result of many years of research into adapting spritnite for combat use, the invention of \"Bits\" was highly praised by the knights of the old royal family. This was the first type of Bit to be created, and was followed by many variations."
+  },
+  {
+    "row": 142,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a fire-elemental attack.\nA fire-elemental variation of the Attack Bit. It was created at the same time as the other elemental variations."
+  },
+  {
+    "row": 143,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a water-elemental attack.\nA water-elemental variation of the Attack Bit. It was created at the same time as the other elemental variations."
+  },
+  {
+    "row": 144,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a light-elemental attack.\nA light-elemental variation of the Attack Bit. It was created at the same time as the other elemental variations."
+  },
+  {
+    "row": 145,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a shadow-elemental attack.\nA shadow-elemental variation of the Attack Bit. It was created at the same time as the other elemental variations."
+  },
+  {
+    "row": 146,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when performing a time-elemental attack.\nA time-elemental variation of the Attack Bit. It was created at the same time as the other elemental variations."
+  },
+  {
+    "row": 147,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving fire-elemental damage.\nOne of a range of elemental defense Bits that were adapted from their attack counterparts."
+  },
+  {
+    "row": 148,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving water-elemental damage.\nOne of a range of elemental defense Bits that were adapted from their attack counterparts."
+  },
+  {
+    "row": 149,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving light-elemental damage.\nOne of a range of elemental defense Bits that were adapted from their attack counterparts."
+  },
+  {
+    "row": 150,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving shadow-elemental damage.\nOne of a range of elemental defense Bits that were adapted from their attack counterparts."
+  },
+  {
+    "row": 151,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving time-elemental damage.\nOne of a range of elemental defense Bits that were adapted from their attack counterparts."
+  },
+  {
+    "row": 152,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Sap each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 153,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Paralysis each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 154,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Confusion each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 155,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Stone each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 156,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Freeze each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 157,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Stop each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 158,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Stun each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 159,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It has a chance of inflicting Death each time an attack is performed.\nIt was originally designed for use by assassins, but its high effectiveness meant it was also used by some knights."
+  },
+  {
+    "row": 160,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Sap.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 161,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Paralysis.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 162,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Confusion.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 163,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Stone.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 164,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Freeze.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 165,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Stop.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 166,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Lock.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 167,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Stun.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 168,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides automatic support when receiving an attack that inflicts Death.\nThe original aim was to create a Bit that would cover all status ailments, but this proved to be impossible. Separate Bits were therefore created for each one."
+  },
+  {
+    "row": 169,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases the power of effects generated by Momentum mode.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 170,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It provides support for combos by reducing the amount of MP consumed.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 171,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases effects generated by combos.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 172,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases the effects of items.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 173,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases the range of attack techs.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 174,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases the range of healing techs.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 175,
+    "en": "Generates an auxiliary \"Bit\" made up of magical energy that can only be seen by the bearer. It increases the range of support techs.\nThis Bit was created based on the extensive combat records built up by the knights of the old kingdom, who were said to be the strongest in all the land."
+  },
+  {
+    "row": 176,
+    "en": "Contains magical energy that plunders life force when attacking.\nIt is confirmed to have existed since the days of the old royal family, and is thought to likely be a result of research into immortality carried out in the days when the use of spritnite first began."
+  },
+  {
+    "row": 177,
+    "en": "Contains magical energy that plunders spiritual power when attacking.\nIt is confirmed to have existed since the days of the old royal family, and was apparently created by a researcher who was working on combat techs with world-destroying potential."
+  },
+  {
+    "row": 178,
+    "en": "Contains magical energy that retrieves life force when defeating enemies.\nIt is confirmed to have existed since the days of the old royal family, and is thought to likely be a result of research into immortality carried out in the days when the use of spritnite first began."
+  },
+  {
+    "row": 179,
+    "en": "Contains magical energy that retrieves spiritual power when defeating enemies.\nIt is confirmed to have existed since the days of the old royal family, and was apparently created by a researcher who was working on combat techs with world-destroying potential."
+  },
+  {
+    "row": 180,
+    "en": "This spritnite stone generates magical energy that affects the senses of enemies, making them more likely to attack the bearer.\nManipulating enemy attacks in this way can prove extremely useful in battle, and hundreds of hours were spent developing this spritnite stone."
+  },
+  {
+    "row": 181,
+    "en": "This spritnite stone generates magical energy that affects the senses of enemies, making them less likely to attack the bearer.\nManipulating enemy attacks in this way can prove extremely useful in battle, and hundreds of hours were spent developing this spritnite stone."
+  },
+  {
+    "row": 182,
+    "en": "Transforms damage received from attacks into magical energy, recovering MP.\nAlthough a great deal of research was carried out into spritnite for attack purposes, research into ones for defense was relatively scarce. However, there is a small selection of useful spritnite stones available, such as this one."
+  },
+  {
+    "row": 183,
+    "en": "Transforms damage received from attacks into magical energy, returning damage to the enemy.\nAlthough a great deal of research was carried out into spritnite for attack purposes, research into ones for defense was relatively scarce. However, there is a small selection of useful spritnite stones available, such as this one."
+  },
+  {
+    "row": 184,
+    "en": "This spritnite stone alters the laws of nature, allowing the bearer to perform physical attacks that ignore Defense.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 185,
+    "en": "This spritnite stone alters the laws of nature, allowing the bearer to perform magical attacks that ignore Defense.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 186,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the Hit Chain Counter. This counter rises when multiple hits are inflicted, and is reset if an enemy attack is received.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 187,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the Skill Chain Counter. This counter rises with each tech used, and is reset if an enemy attack is received or \"Attack\" is used.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 188,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the Same-Element Chain Counter. This counter rises with each consecutive attack of the same element, and is reset when a different elemental attack is performed.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 189,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the Multi-Element Chain Counter. This counter rises with each consecutive attack of a different element, and is reset when two attacks of the same element are performed in succession.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 190,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions when attacking using an element that the enemy is weak against.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 191,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how high his or her HP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 192,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how low his or her HP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 193,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how high his or her MP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 194,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how low his or her MP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 195,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how high his or her SP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 196,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how low his or her SP currently is.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 197,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how many combos have been used.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 198,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how many times Momentum mode has been used when attacking.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 199,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to how many times Momentum mode has been used when receiving damage.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 200,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the number of status boosts in effect.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 201,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the number of status ailments affecting the target.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 202,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions according to the number of Fluxes added to equipped spritnite.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 203,
+    "en": "This spritnite stone alters the laws of nature, increasing the power of the bearer's actions when he or she has eaten food and it is in effect.\nWhen research into spritnite that interfere with nature began, some opposed it, calling it sinful. Although not as almighty as feared, this spritnite boasts a powerful effect when used in combat."
+  },
+  {
+    "row": 204,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, it greatly increases Strength and Intelligence.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 205,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, it greatly increases the rate at which the ATB and SP gauges fill up.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 206,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, all attacks cause damage of all elemental types.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 207,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, all attacks cause special damage.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 208,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, it raises resistance against all elements to maximum levels.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 209,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, it greatly increases accuracy rate, evasion rate, and status infliction rate.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 210,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, critical hits are always generated. \nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 211,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, attacks absorb HP and MP.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 212,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, the effects of techs and combos are generated twice when used in Momentum mode.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 213,
+    "en": "This spritnite stone comes into effect only when its bearer's powers of concentration have been raised to their utmost limits. While active, it stops counters from being reset.\nIt appears to have existed since ancient times, but little about it is known. It is said to have been created by the ancients."
+  },
+  {
+    "row": 214,
+    "en": "Counters will no longer be reset when Momentum mode is used.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 215,
+    "en": "When used in Momentum mode, attacks will instead cause special damage. Damage is therefore calculated according to the lower of the enemy's physical or magical defense, greatly increasing the effectiveness of attacks.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 216,
+    "en": "When used in Momentum mode, attacks will cause damage of all elemental types.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 217,
+    "en": "When a combo is used in Momentum mode, the ATB gauge will be full after use, allowing another action to be performed immediately.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 218,
+    "en": "If Momentum mode is triggered when using an item, the item's stock in your inventory will not be reduced.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 219,
+    "en": "Triggering Momentum mode when receiving an attack will reduce the damage received.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 220,
+    "en": "Triggering Momentum mode when receiving a status-inflicting attack will nullify the status ailment.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 221,
+    "en": "Triggering Momentum mode when receiving an attack will return part of the damage to the enemy.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 222,
+    "en": "If techs that make up a combo are performed in succession, using the final tech in Momentum mode will activate the relevant combo after that tech.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  },
+  {
+    "row": 223,
+    "en": "Triggering Momentum mode when being attacked while HP is below 20% will generate a counterattack with an available combo.\nThis spritnite stone has existed since before the Momentum system was completed, and when first discovered, its purpose was unknown. After many years of research, its power can now be used."
+  }
+]
