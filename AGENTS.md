@@ -45,6 +45,11 @@ Tài liệu này là quy chuẩn kỹ thuật bắt buộc cho bất kỳ Agent 
    - Mỗi trang thoại tiếng Việt sau khi encode UTF-16LE không được vượt quá **234 bytes** (ngưỡng an toàn tối đa của biến 1-byte trong engine game là 255 bytes).
 3. **Bảo tồn nguyên vẹn thẻ đặc biệt:**
    - Các thẻ hệ thống như `<NAME=NPC_...>`, `<NAME=CP_...>`, thẻ phân trang `|` phải được giữ chính xác 100%, không được làm sai lệch cú pháp.
+4. **Quy chuẩn đối với Menu Hệ thống & Tên riêng (SYSTEM & NAMING RULES):**
+   - **Menu giao diện hệ thống KHÔNG CẦN DỊCH:** Các tùy chọn cài đặt (Settings), thông báo hệ thống kỹ thuật, cửa sổ phím bấm/điều khiển (`SetsunaSystemDataMessage`, phím bấm keyboard/gamepad...) giữ nguyên gốc tiếng Anh.
+   - **"Tên riêng" vật phẩm, trang bị, nguyên liệu KHÔNG DỊCH:** Toàn bộ danh từ riêng, tên vũ khí, tên phụ kiện, tên nguyên liệu quái vật rơi, tên món ăn (`WeaponItemMessage`, `MaterialItemMessage`, `CookingItemMessage`...) giữ nguyên tiếng Anh gốc.
+   - **Tên toàn bộ Quái vật, Boss & NPC KHÔNG CẦN DỊCH:** Toàn bộ tên quái vật, Boss (`EnemySetParameterMessage`, `BraveStoryMonsterMessage`) và tên/danh xưng NPC (`NPCSetParameterMessage`) giữ nguyên gốc tiếng Anh để người chơi dễ tra cứu wiki/hướng dẫn.
+   - **Phần BẮT BUỘC DỊCH:** Cốt truyện chính (Chapters 1–4), Hội thoại tự do của NPC (Normal Conversation), Nhiệm vụ phụ (SubQuest), Mô tả công dụng trang bị/vật phẩm/kỹ năng, Hướng dẫn sử dụng, Công thức nấu ăn/chế tạo và Toàn bộ Thư viện truyền thuyết (Brave Story Lore).
 
 ---
 
