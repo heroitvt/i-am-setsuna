@@ -14,8 +14,9 @@ import threading
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 
-# Remote configuration URL on GitHub
+# Remote configuration URL on GitHub (using API and raw with cache buster)
 VERSION_URL = "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/version.json"
+API_VERSION_URL = "https://api.github.com/repos/heroitvt/i-am-setsuna/contents/version.json"
 BASE_RAW_URL = "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/patch_files/"
 
 class SetsunaPatcherApp:
@@ -259,43 +260,78 @@ class SetsunaPatcherApp:
 
     def check_update(self, silent=False):
         self.lbl_status.config(text="Đang kết nối GitHub kiểm tra phiên bản...", fg="#f39c12")
+        data = None
+        
+        # 1. Try GitHub Contents API first (Always fresh, zero CDN cache)
         try:
-            req = urllib.request.Request(
-                VERSION_URL + f"?t={os.urandom(4).hex()}",
-                headers={"User-Agent": "SetsunaPatcher/1.0"}
+            req_api = urllib.request.Request(
+                API_VERSION_URL,
+                headers={
+                    "User-Agent": "SetsunaPatcher/1.0",
+                    "Accept": "application/vnd.github.v3.raw"
+                }
             )
-            with urllib.request.urlopen(req, timeout=10) as resp:
+            with urllib.request.urlopen(req_api, timeout=8) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
-                self.remote_version_info = data
+        except Exception:
+            pass
 
-            remote_ver = f"v{data.get('version')} (Build {data.get('version_code')})"
-            self.lbl_remote_ver.config(text=remote_ver, fg="#00adb5")
-
-            # Show changelog
-            self.txt_changelog.config(state=tk.NORMAL)
-            self.txt_changelog.delete("1.0", tk.END)
-            self.txt_changelog.insert(tk.END, f"📌 TIÊU ĐỀ: {data.get('title', '')}\n")
-            self.txt_changelog.insert(tk.END, f"📅 NGÀY PHÁT HÀNH: {data.get('release_date', '')}\n\n")
-            self.txt_changelog.insert(tk.END, "✨ CÁC NỘI DUNG MỚI:\n")
-            for item in data.get("changelog", []):
-                self.txt_changelog.insert(tk.END, f"  • {item}\n")
-            self.txt_changelog.config(state=tk.DISABLED)
-
-            if "Chưa cài đặt" in self.local_version:
-                self.lbl_status.config(text="Chưa cài Việt hóa. Hãy bấm 'CẬP NHẬT / CÀI ĐẶT' ngay!", fg="#e74c3c")
-            elif data.get("version") in self.local_version:
-                self.lbl_status.config(text="Bản Việt hóa đang là MỚI NHẤT! Bạn có thể bấm để cài đặt lại.", fg=self.success_color)
+        # 2. Fallback to Raw URL with random timestamp query param
+        if not data:
+            try:
+                raw_url = f"{VERSION_URL}?_nocache={os.urandom(8).hex()}"
+                req = urllib.request.Request(
+                    raw_url,
+                    headers={
+                        "User-Agent": "SetsunaPatcher/1.0",
+                        "Cache-Control": "no-cache, no-store, must-revalidate",
+                        "Pragma": "no-cache",
+                        "Expires": "0"
+                    }
+                )
+                with urllib.request.urlopen(req, timeout=8) as resp:
+                    data = json.loads(resp.read().decode("utf-8"))
+            except Exception as e:
+                self.lbl_status.config(text=f"Không thể kết nối máy chủ GitHub: {e}", fg="#e74c3c")
                 if not silent:
-                    messagebox.showinfo("Thông báo", "Bạn đang sử dụng bản Việt hóa mới nhất!")
-            else:
-                self.lbl_status.config(text="⭐ CÓ BẢN VIỆT HÓA MỚI! Nhấn nút 'CẬP NHẬT' để tải.", fg="#e67e22")
-                if not silent:
-                    messagebox.showinfo("Có bản cập nhật mới", f"Đã có bản cập nhật mới: v{data.get('version')}!\nBấm 'CẬP NHẬT' để nâng cấp tự động.")
+                    messagebox.showerror("Lỗi mạng", f"Không thể kiểm tra cập nhật:\n{e}")
+                return
 
-        except Exception as e:
-            self.lbl_status.config(text=f"Không thể kết nối máy chủ GitHub: {e}", fg="#e74c3c")
+        self.remote_version_info = data
+        remote_ver = f"v{data.get('version')} (Build {data.get('version_code')})"
+        self.lbl_remote_ver.config(text=remote_ver, fg="#00adb5")
+
+        # Show changelog
+        self.txt_changelog.config(state=tk.NORMAL)
+        self.txt_changelog.delete("1.0", tk.END)
+        self.txt_changelog.insert(tk.END, f"📌 TIÊU ĐỀ: {data.get('title', '')}\n")
+        self.txt_changelog.insert(tk.END, f"📅 NGÀY PHÁT HÀNH: {data.get('release_date', '')}\n\n")
+        self.txt_changelog.insert(tk.END, "✨ CÁC NỘI DUNG MỚI:\n")
+        for item in data.get("changelog", []):
+            self.txt_changelog.insert(tk.END, f"  • {item}\n")
+        self.txt_changelog.config(state=tk.DISABLED)
+
+        # Check version codes
+        remote_code = int(data.get("version_code", 100))
+        local_code = 0
+        ver_marker = os.path.join(self.game_dir, "SETSUNA_Data", "patch_version.json")
+        if os.path.exists(ver_marker):
+            try:
+                with open(ver_marker, "r", encoding="utf-8") as f:
+                    local_code = int(json.load(f).get("version_code", 0))
+            except:
+                local_code = 0
+
+        if "Chưa cài đặt" in self.local_version:
+            self.lbl_status.config(text="Chưa cài Việt hóa. Hãy bấm 'CẬP NHẬT / CÀI ĐẶT' ngay!", fg="#e74c3c")
+        elif remote_code > local_code or (data.get("version") not in self.local_version):
+            self.lbl_status.config(text="⭐ CÓ BẢN VIỆT HÓA MỚI! Nhấn nút 'CẬP NHẬT' để tải.", fg="#e67e22")
             if not silent:
-                messagebox.showerror("Lỗi mạng", f"Không thể kiểm tra cập nhật:\n{e}")
+                messagebox.showinfo("Có bản cập nhật mới", f"Đã có bản cập nhật mới: v{data.get('version')} (Build {remote_code})!\nBấm 'CẬP NHẬT' để nâng cấp tự động.")
+        else:
+            self.lbl_status.config(text="Bản Việt hóa đang là MỚI NHẤT! Bạn có thể bấm để cài đặt lại.", fg=self.success_color)
+            if not silent:
+                messagebox.showinfo("Thông báo", "Bạn đang sử dụng bản Việt hóa mới nhất!")
 
     def do_update(self):
         curr_path = self.dir_entry.get().strip()
