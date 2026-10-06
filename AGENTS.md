@@ -13,9 +13,12 @@ Tài liệu này là quy chuẩn kỹ thuật bắt buộc cho bất kỳ Agent 
 ---
 
 ## 2. KIẾN TRÚC NẠP DỮ LIỆU CỦA GAME & NGUYÊN TẮC BẤT DI BẤT DỊCH
-1. **Cơ chế nạp file thoại:**
-   - Engine của game sử dụng CRI File System và nạp trực tiếp dữ liệu tham số/hội thoại từ kho lưu trữ:
-     `SETSUNA_Data\StreamingAssets\x86_64\parameter.cpk` (Kích thước gốc an toàn: **13.291.792 bytes**).
+1. **Cơ chế nạp file thoại (DUAL-SOURCE ENGINE):**
+   - Engine Unity của game đọc và nạp dữ liệu hội thoại từ **2 NGUỒN ĐỒNG THỜI**:
+     1. **File rời bên ngoài:** `SETSUNA_Data\StreamingAssets\data\parameter\` (chứa các file mã hóa AES và `.dec` plaintext như `ScenarioMessageData_Chapter_1`, `ScenarioMessageData_NormalConversation`...).
+     2. **Kho lưu trữ tổng của game:** `SETSUNA_Data\StreamingAssets\x86_64\parameter.cpk` (Kích thước gốc an toàn bắt buộc: **13.291.792 bytes**).
+   - **LƯU Ý CỰC KỲ QUAN TRỌNG:** Một số sự kiện cốt truyện và NPC cố định (như Raishin, Kind Woman, trưởng làng...) được Unity **ƯU TIÊN NẠP TRỰC TIẾP TỪ KHO `parameter.cpk`**. Nếu chỉ sửa file rời mà không patch vào `parameter.cpk`, game sẽ vẫn hiện text tiếng Anh gốc!
+   - **BẮT BUỘC:** Mỗi khi cập nhật/sửa lỗi dịch thuật, phải đồng bộ in-place vào cả 2 nguồn: file rời và file `parameter.cpk`!
 2. **NGHIÊM CẤM TÁI TẠO (REBUILD/REPACK) FILE CPK TỪ ĐẦU:**
    - Việc dùng script custom để đóng gói lại toàn bộ file CPK sẽ làm sai lệch cấu trúc bảng mục lục (TOC), sai lệch căn lề (Alignment) và chữ ký bảo mật ETOC của CRIWare.
    - **Hậu quả:** Game bị deadlock ngay tại logo khởi động $\rightarrow$ **MÀN HÌNH ĐEN**.
