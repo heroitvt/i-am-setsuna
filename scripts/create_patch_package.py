@@ -23,6 +23,12 @@ def main():
     param_files = [
         "ScenarioMessageData_Chapter_1",
         "ScenarioMessageData_Chapter_1.dec",
+        "ScenarioMessageData_Chapter_2",
+        "ScenarioMessageData_Chapter_2.dec",
+        "ScenarioMessageData_Chapter_3",
+        "ScenarioMessageData_Chapter_3.dec",
+        "ScenarioMessageData_Chapter_4",
+        "ScenarioMessageData_Chapter_4.dec",
         "ScenarioMessageData_NormalConversation",
         "ScenarioMessageData_NormalConversation.dec",
         "SystemMessage",
