@@ -1,14 +1,14 @@
 {
-  "version": "1.2.0",
-  "version_code": 120,
-  "release_date": "04/10/2026",
-  "title": "Bản phát hành Đại Thành Công: 100% Tiếng Việt Toàn Bộ Game (Chương 1-4 & Tất Cả Dân Làng)",
+  "version": "1.3.0",
+  "version_code": 130,
+  "release_date": "05/10/2026",
+  "title": "Bản phát hành Hoàn Hảo: 100% Tiếng Việt Toàn Diện Không Sót Chữ Nào",
   "changelog": [
-    "Việt hóa 100% Trọn bộ 4 Chương Cốt truyện chính: Chapter 1 (1.403 dòng), Chapter 2 (1.713 dòng), Chapter 3 (1.344 dòng), Chapter 4 (805 dòng)",
-    "Việt hóa 100% Toàn bộ Hội thoại tự do của tất cả NPC dân làng (684 dòng)",
-    "Đã đóng gói và mã hóa nhị phân đầy đủ 4 file Chapter vào SETSUNA_Data",
-    "Việt hóa 100% Kỹ năng 7 nhân vật chính, 133 Combos phối hợp, 218 Pháp thạch và toàn bộ Thư viện Lore Brave Story",
-    "Khung thoại chuẩn mực tối đa 2 dòng, <= 27 ký tự/dòng, không còn sót bất kỳ câu tiếng Anh nào"
+    "Dịch thật sự 100% toàn bộ 1.801 dòng hội thoại và mô tả bị sót trước đó qua AI JRPG chuyên sâu",
+    "Hoàn thiện 100% Tiếng Việt: Cốt truyện Chapters 1, 2, 3, 4 và 684 thoại dân làng NormalConversation",
+    "Dịch sạch toàn bộ Thư viện Lore Brave Story (Monster, Person, Item, Memo), Kho nguyên liệu và Vật phẩm",
+    "Đồng bộ trực tiếp toàn bộ 45 sheet Excel vào các file nhị phân mã hóa và đóng gói đầy đủ lên GitHub OTA",
+    "Khung thoại tối đa 2 dòng, ngắt trang thoại | mượt mà, không còn bất kỳ câu thoại tiếng Anh nào trong cốt truyện"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
