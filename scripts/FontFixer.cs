@@ -85,7 +85,7 @@ namespace SetsunaFontFix
                 GameObject go = new GameObject("SetsunaFontFixerObj");
                 UnityEngine.Object.DontDestroyOnLoad(go);
                 go.AddComponent<FontFixer>();
-                Debug.Log("[SetsunaFontFix] Initialized Complete Vietnamese Dialogue, Skills & Font Injector.");
+                Debug.Log("[SetsunaFontFix] Initialized Complete Vietnamese Dialogue, Skills & Dynamic Font Layout Engine.");
             }
         }
 
@@ -131,7 +131,6 @@ namespace SetsunaFontFix
                 }
 
                 binariesLoaded = true;
-                Debug.Log("[SetsunaFontFix] Binaries loaded: encFiles=" + encFiles.Count);
             }
             catch (Exception ex)
             {
@@ -147,13 +146,13 @@ namespace SetsunaFontFix
         private void Start()
         {
             InjectAll();
-            ApplyFontToVietnameseText();
+            ApplyFontAndLayoutToVietnameseText();
         }
 
         private void Update()
         {
             InjectAll();
-            ApplyFontToVietnameseText();
+            ApplyFontAndLayoutToVietnameseText();
         }
 
         private static void InjectAll()
@@ -259,7 +258,6 @@ namespace SetsunaFontFix
                                 }
                             }
 
-                            // Trigger MakeSkillData and MakeUiMessageData once to apply
                             if (!skillDataReloaded)
                             {
                                 skillDataReloaded = true;
@@ -267,7 +265,6 @@ namespace SetsunaFontFix
                                 if ((object)mMakeSkill != null)
                                 {
                                     mMakeSkill.Invoke(pmInst, null);
-                                    Debug.Log("[SetsunaFontFix] Re-executed MakeSkillData with Vietnamese skills!");
                                 }
                             }
                         }
@@ -340,7 +337,7 @@ namespace SetsunaFontFix
             return false;
         }
 
-        public static void ApplyFontToVietnameseText()
+        public static void ApplyFontAndLayoutToVietnameseText()
         {
             Font font = GetCustomFont();
             if ((object)font == null) return;
@@ -356,6 +353,17 @@ namespace SetsunaFontFix
                     if ((object)t.font != (object)font)
                     {
                         t.font = font;
+                    }
+
+                    // Dynamic Multi-Resolution Adaptation:
+                    // 1. Enable Horizontal & Vertical Overflow so text is never truncated by bounding boxes
+                    t.horizontalOverflow = HorizontalWrapMode.Wrap;
+                    t.verticalOverflow = VerticalWrapMode.Overflow;
+
+                    // 2. Compact line spacing (0.9f) to fit 2-3 lines comfortably in dialogue frames across 720p/1080p/2K/4K
+                    if (t.lineSpacing > 0.92f || t.lineSpacing < 0.88f)
+                    {
+                        t.lineSpacing = 0.90f;
                     }
                 }
             }
