@@ -1,13 +1,13 @@
 {
-  "version": "1.3.1",
-  "version_code": 131,
-  "release_date": "05/10/2026",
-  "title": "Bản phát hành Nâng cấp: Tự Động Thích Ứng Mọi Độ Phân Giải (720p/1080p/2K/4K)",
+  "version": "1.3.2",
+  "version_code": 132,
+  "release_date": "13/10/2026",
+  "title": "Bản phát hành Nâng cấp: Tăng Cỡ Chữ 1080p & Tích Hợp Cheat Tiền Vàng",
   "changelog": [
-    "Nâng cấp SetsunaFontFix Engine: Bật VerticalOverflow và tự động ngắt dòng linh hoạt",
-    "Tối ưu khoảng cách dòng lineSpacing = 0.90f: Chữ hiển thị trọn vẹn 100% trong khung thoại",
-    "Khắc phục triệt để lỗi mất chữ, cụt dòng khi đổi độ phân giải màn hình hoặc chuyển chế độ Cửa sổ / Toàn màn hình",
-    "Đồng bộ toàn diện dữ liệu nhị phân CPK và loose files chuẩn hóa cho mọi tỷ lệ màn hình (16:9, 16:10, 21:9)"
+    "Tự động tăng cỡ chữ mặc định +25% tại độ phân giải 1080p/2K/4K, giúp text to rõ, sắc nét, dễ đọc trên màn hình lớn",
+    "Tích hợp phím tắt tinh chỉnh cỡ chữ theo ý thích ngay trong game: [F6] Giảm 5%, [F7] Tăng 5%",
+    "Tích hợp tính năng Cheat Tiền Vàng: [F8] Thêm +500.000 Vàng, [F9] Đầy tiền 99.999.999 Vàng",
+    "Phím tắt [F1]: Hiển thị thanh thông báo hướng dẫn phím tắt và trạng thái tiền vàng ngay trên màn hình"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
