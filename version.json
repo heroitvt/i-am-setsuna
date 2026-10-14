@@ -1,13 +1,15 @@
 {
-  "version": "1.3.2",
-  "version_code": 132,
+  "version": "1.3.3",
+  "version_code": 133,
   "release_date": "13/10/2026",
-  "title": "Bản phát hành Nâng cấp: Tăng Cỡ Chữ 1080p & Tích Hợp Cheat Tiền Vàng",
+  "title": "Bản phát hành Nâng cấp: Hỗ Trợ Tay Cầm Gamepad (Xbox/PlayStation) & Cheat Tiền",
   "changelog": [
-    "Tự động tăng cỡ chữ mặc định +25% tại độ phân giải 1080p/2K/4K, giúp text to rõ, sắc nét, dễ đọc trên màn hình lớn",
-    "Tích hợp phím tắt tinh chỉnh cỡ chữ theo ý thích ngay trong game: [F6] Giảm 5%, [F7] Tăng 5%",
-    "Tích hợp tính năng Cheat Tiền Vàng: [F8] Thêm +500.000 Vàng, [F9] Đầy tiền 99.999.999 Vàng",
-    "Phím tắt [F1]: Hiển thị thanh thông báo hướng dẫn phím tắt và trạng thái tiền vàng ngay trên màn hình"
+    "Hỗ trợ đầy đủ tay cầm Gamepad (Xbox / PlayStation): Giữ [L1 + R1] kết hợp D-Pad cực kỳ thuận tiện",
+    "Gamepad: Giữ [L1 + R1] + D-Pad Lên / Xuống để tăng / giảm cỡ chữ",
+    "Gamepad: Giữ [L1 + R1] + D-Pad Trái (+500.000 Vàng) | D-Pad Phải (Max 99.999.999 Vàng)",
+    "Gamepad: Nhấn đồng thời 2 cần Analog [L3 + R3] để nhận ngay +500.000 Vàng",
+    "Gamepad: Giữ [L1 + R1] + Select để xem bảng hướng dẫn phím tắt trên màn hình",
+    "Bàn phím PC vẫn giữ nguyên: [F1] Hướng dẫn, [F6/F7] Cỡ chữ, [F8] +500k G, [F9] Max G"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
