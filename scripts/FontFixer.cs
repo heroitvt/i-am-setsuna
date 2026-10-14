@@ -37,27 +37,17 @@ namespace SetsunaFontFix
         private static MethodInfo mGetMoney = null;
         private static bool moneyMethodsResolved = false;
 
-        private static PropertyInfo pIsL1 = null;
-        private static PropertyInfo pIsR1 = null;
-        private static PropertyInfo pIsL3 = null;
-        private static PropertyInfo pIsR3 = null;
-        private static PropertyInfo pIsDpadUp = null;
-        private static PropertyInfo pIsDpadDown = null;
-        private static PropertyInfo pIsDpadLeft = null;
-        private static PropertyInfo pIsDpadRight = null;
-        private static PropertyInfo pIsSelect = null;
-        private static PropertyInfo pIsTriangle = null;
-        private static bool inputMethodsResolved = false;
-
-        private static bool prevPadUp = false;
-        private static bool prevPadDown = false;
-        private static bool prevPadLeft = false;
-        private static bool prevPadRight = false;
-        private static bool prevPadL3R3 = false;
-        private static bool prevPadSelect = false;
-
+        // Clean Safe Menu & Input state
+        private static bool menuOpen = false;
+        private static float holdTimer = 0f;
         private static string notificationText = "";
         private static float notificationTimer = 0f;
+
+        // D-Pad debounce while menu is open
+        private static bool prevMenuUp = false;
+        private static bool prevMenuDown = false;
+        private static bool prevMenuLeft = false;
+        private static bool prevMenuRight = false;
 
         private static Dictionary<string, string> tutorialMap = new Dictionary<string, string>()
         {
@@ -178,7 +168,7 @@ namespace SetsunaFontFix
         {
             InjectAll();
             ApplyFontAndLayoutToVietnameseText();
-            ShowNotification("VIỆT HÓA SETSUNA | [F1] hoặc [L3+R3] Bật Hướng Dẫn | Gamepad: Giữ [L1+R1] + D-Pad");
+            ShowNotification("VIỆT HÓA SETSUNA | Chạm [⚙ Menu] hoặc Giữ [L1+R1+Select] 1.5s để chỉnh Cỡ Chữ & Cheat");
         }
 
         private void Update()
@@ -401,17 +391,15 @@ namespace SetsunaFontFix
                 }
 
                 // Dynamic Multi-Resolution Adaptation:
-                // 1. Enable Horizontal & Vertical Overflow so text is never truncated by bounding boxes
                 t.horizontalOverflow = HorizontalWrapMode.Wrap;
                 t.verticalOverflow = VerticalWrapMode.Overflow;
 
-                // 2. Compact line spacing (0.90f) to fit 2-3 lines comfortably in dialogue frames across 720p/1080p/2K/4K
                 if (t.lineSpacing > 0.92f || t.lineSpacing < 0.88f)
                 {
                     t.lineSpacing = 0.90f;
                 }
 
-                // 3. Scaling Font Size for clear readability at 1080p / higher resolutions
+                // Scaling Font Size
                 int id = t.GetInstanceID();
                 int baseSize;
                 if (!originalFontSizes.TryGetValue(id, out baseSize) || forceRefresh)
@@ -484,7 +472,7 @@ namespace SetsunaFontFix
                 }
                 catch (Exception ex)
                 {
-                    ShowNotification("VUI LÒNG VÀO TRÒ CHƠI / TẢI SAVE TRƯỚC KHI BẤM CHEAT!");
+                    ShowNotification("VUI LÒNG TẢI FILE SAVE TRƯỚC KHI DÙNG CHEAT!");
                     Debug.LogWarning("[SetsunaFontFix] AddMoney error: " + ex.Message);
                 }
             }
@@ -507,7 +495,7 @@ namespace SetsunaFontFix
                 }
                 catch (Exception ex)
                 {
-                    ShowNotification("VUI LÒNG VÀO TRÒ CHƠI / TẢI SAVE TRƯỚC KHI BẤM CHEAT!");
+                    ShowNotification("VUI LÒNG TẢI FILE SAVE TRƯỚC KHI DÙNG CHEAT!");
                     Debug.LogWarning("[SetsunaFontFix] SetMaxMoney error: " + ex.Message);
                 }
             }
@@ -523,188 +511,256 @@ namespace SetsunaFontFix
             notificationTimer = 3.5f;
         }
 
+        private static bool SafeGetButton(string name)
+        {
+            try { return Input.GetButton(name); } catch { return false; }
+        }
+
+        private static bool SafeGetButtonDown(string name)
+        {
+            try { return Input.GetButtonDown(name); } catch { return false; }
+        }
+
+        private static float SafeGetAxis(string name)
+        {
+            try { return Input.GetAxisRaw(name); } catch { return 0f; }
+        }
+
+        private void HandleKeyInputs()
+        {
+            // ========================================================
+            // 1. GAMEPAD ACTIVATION (HOLD L1+R1+SELECT FOR 1.5 SECONDS)
+            // ========================================================
+            // ZERO GHOST PRESSES: Completely avoids raw JoystickButton!
+            // Only checks the game's native Input axes and requires 1.5s intentional hold.
+            bool holdCombo = (SafeGetButton("LeftShoulder") && SafeGetButton("RightShoulder") && SafeGetButton("Select"))
+                          || (SafeGetButton("LeftShoulder2") && SafeGetButton("RightShoulder2") && SafeGetButton("Select"));
+
+            if (holdCombo)
+            {
+                holdTimer += Time.deltaTime;
+                if (holdTimer >= 1.5f)
+                {
+                    holdTimer = 0f;
+                    menuOpen = !menuOpen;
+                    ShowNotification(menuOpen ? "ĐÃ MỞ BẢNG ĐIỀU KHIỂN & CHEAT" : "ĐÃ ĐÓNG BẢNG ĐIỀU KHIỂN");
+                }
+            }
+            else
+            {
+                holdTimer = 0f;
+            }
+
+            // ========================================================
+            // 2. KEYBOARD SHORTCUTS (PC)
+            // ========================================================
+            if (Input.GetKeyDown(KeyCode.F1))
+            {
+                menuOpen = !menuOpen;
+            }
+
+            if (Input.GetKeyDown(KeyCode.F6))
+            {
+                userAdjustedScale = true;
+                fontScale = Mathf.Max(0.80f, fontScale - 0.05f);
+                ApplyFontAndLayoutToVietnameseText(true);
+                ShowNotification(string.Format("CỠ CHỮ: {0}% (MẶC ĐỊNH: 125%)", Mathf.RoundToInt(fontScale * 100f)));
+            }
+
+            if (Input.GetKeyDown(KeyCode.F7))
+            {
+                userAdjustedScale = true;
+                fontScale = Mathf.Min(2.00f, fontScale + 0.05f);
+                ApplyFontAndLayoutToVietnameseText(true);
+                ShowNotification(string.Format("CỠ CHỮ: {0}% (MẶC ĐỊNH: 125%)", Mathf.RoundToInt(fontScale * 100f)));
+            }
+
+            if (Input.GetKeyDown(KeyCode.F8))
+            {
+                AddMoneyCheat(500000);
+            }
+
+            if (Input.GetKeyDown(KeyCode.F9))
+            {
+                SetMaxMoneyCheat();
+            }
+
+            // ========================================================
+            // 3. GAMEPAD CONTROLS ONLY WHILE MENU IS OPEN
+            // ========================================================
+            if (menuOpen)
+            {
+                float padY = SafeGetAxis("PadVertical");
+                float padX = SafeGetAxis("PadHorizontal");
+
+                bool curUp = padY > 0.5f;
+                bool curDown = padY < -0.5f;
+                bool curLeft = padX < -0.5f;
+                bool curRight = padX > 0.5f;
+
+                if (curUp && !prevMenuUp)
+                {
+                    userAdjustedScale = true;
+                    fontScale = Mathf.Min(2.00f, fontScale + 0.05f);
+                    ApplyFontAndLayoutToVietnameseText(true);
+                }
+                else if (curDown && !prevMenuDown)
+                {
+                    userAdjustedScale = true;
+                    fontScale = Mathf.Max(0.80f, fontScale - 0.05f);
+                    ApplyFontAndLayoutToVietnameseText(true);
+                }
+                else if (curLeft && !prevMenuLeft)
+                {
+                    AddMoneyCheat(500000);
+                }
+                else if (curRight && !prevMenuRight)
+                {
+                    SetMaxMoneyCheat();
+                }
+
+                prevMenuUp = curUp;
+                prevMenuDown = curDown;
+                prevMenuLeft = curLeft;
+                prevMenuRight = curRight;
+
+                // Close menu with Circle / B / Start / Escape
+                if (SafeGetButtonDown("Circle") || SafeGetButtonDown("Start") || Input.GetKeyDown(KeyCode.Escape))
+                {
+                    menuOpen = false;
+                }
+            }
+        }
+
         private void OnGUI()
         {
+            int screenW = Screen.width;
+            int screenH = Screen.height;
+
+            // 1. Toast Notification Bar
             if (notificationTimer > 0f)
             {
                 notificationTimer -= Time.deltaTime;
-                int screenW = Screen.width;
-                int screenH = Screen.height;
-
-                int boxW = Mathf.Min(740, screenW - 40);
-                int boxH = 48;
+                int boxW = Mathf.Min(780, screenW - 40);
+                int boxH = 46;
                 int boxX = (screenW - boxW) / 2;
-                int boxY = 24;
+                int boxY = 20;
 
                 GUI.color = new Color(0f, 0f, 0f, 0.85f);
                 GUI.Box(new Rect(boxX - 2, boxY - 2, boxW + 4, boxH + 4), "");
-                GUI.color = new Color(0.12f, 0.38f, 0.72f, 0.95f);
+                GUI.color = new Color(0.10f, 0.35f, 0.70f, 0.95f);
                 GUI.Box(new Rect(boxX, boxY, boxW, boxH), "");
 
                 GUIStyle style = new GUIStyle();
                 style.alignment = TextAnchor.MiddleCenter;
-                style.fontSize = Mathf.Clamp(Mathf.RoundToInt(screenH * 0.022f), 15, 24);
+                style.fontSize = Mathf.Clamp(Mathf.RoundToInt(screenH * 0.022f), 14, 22);
                 style.fontStyle = FontStyle.Bold;
                 style.normal.textColor = Color.yellow;
 
                 GUI.color = Color.white;
                 GUI.Label(new Rect(boxX, boxY, boxW, boxH), notificationText, style);
             }
-        }
 
-        private static void ResolveInputMethods()
-        {
-            if (inputMethodsResolved) return;
-            inputMethodsResolved = true;
-            try
+            // 2. ROG Ally Touch / Quick Button at Top-Right Corner
+            int btnW = 150;
+            int btnH = 36;
+            int btnX = screenW - btnW - 16;
+            int btnY = 16;
+
+            GUI.color = new Color(0.12f, 0.40f, 0.85f, 0.85f);
+            if (GUI.Button(new Rect(btnX, btnY, btnW, btnH), menuOpen ? "✕ Đóng Menu" : "⚙ Menu Tiện Ích"))
             {
-                Type inType = Type.GetType("Setsuna.InputManager, Assembly-CSharp");
-                if (inType != null)
-                {
-                    pIsL1 = inType.GetProperty("IsL1", BindingFlags.Public | BindingFlags.Static);
-                    pIsR1 = inType.GetProperty("IsR1", BindingFlags.Public | BindingFlags.Static);
-                    pIsL3 = inType.GetProperty("IsL3", BindingFlags.Public | BindingFlags.Static);
-                    pIsR3 = inType.GetProperty("IsR3", BindingFlags.Public | BindingFlags.Static);
-                    pIsDpadUp = inType.GetProperty("IsDpadUp", BindingFlags.Public | BindingFlags.Static);
-                    pIsDpadDown = inType.GetProperty("IsDpadDown", BindingFlags.Public | BindingFlags.Static);
-                    pIsDpadLeft = inType.GetProperty("IsDpadLeft", BindingFlags.Public | BindingFlags.Static);
-                    pIsDpadRight = inType.GetProperty("IsDpadRight", BindingFlags.Public | BindingFlags.Static);
-                    pIsSelect = inType.GetProperty("IsSelect", BindingFlags.Public | BindingFlags.Static);
-                    pIsTriangle = inType.GetProperty("IsTriangle", BindingFlags.Public | BindingFlags.Static);
-                }
+                menuOpen = !menuOpen;
             }
-            catch (Exception ex)
+
+            // 3. Full Config & Cheat Modal Panel (Touch Friendly & Gamepad Navigable)
+            if (menuOpen)
             {
-                Debug.LogError("[SetsunaFontFix] Failed to resolve InputManager properties: " + ex.Message);
-            }
-        }
+                int panelW = Mathf.Min(560, screenW - 40);
+                int panelH = 340;
+                int panelX = (screenW - panelW) / 2;
+                int panelY = (screenH - panelH) / 2;
 
-        private static bool GetPadProp(PropertyInfo p)
-        {
-            if (p != null)
-            {
-                try
-                {
-                    return (bool)p.GetValue(null, null);
-                }
-                catch { }
-            }
-            return false;
-        }
+                // Dim Background
+                GUI.color = new Color(0f, 0f, 0f, 0.65f);
+                GUI.DrawTexture(new Rect(0, 0, screenW, screenH), Texture2D.whiteTexture);
 
-        private void HandleKeyInputs()
-        {
-            ResolveInputMethods();
+                // Modal Box
+                GUI.color = new Color(0.08f, 0.12f, 0.18f, 0.98f);
+                GUI.Box(new Rect(panelX, panelY, panelW, panelH), "");
+                GUI.color = new Color(0.18f, 0.50f, 0.92f, 1f);
+                GUI.Box(new Rect(panelX + 2, panelY + 2, panelW - 4, 40), "");
 
-            // 1. Gamepad Input Detection (Setsuna.InputManager + Native Unity KeyCode Fallback)
-            bool isL1 = GetPadProp(pIsL1) || Input.GetKey(KeyCode.JoystickButton4);
-            bool isR1 = GetPadProp(pIsR1) || Input.GetKey(KeyCode.JoystickButton5);
-            bool isL3 = GetPadProp(pIsL3) || Input.GetKey(KeyCode.JoystickButton8);
-            bool isR3 = GetPadProp(pIsR3) || Input.GetKey(KeyCode.JoystickButton9);
-            bool isDpadUp = GetPadProp(pIsDpadUp);
-            bool isDpadDown = GetPadProp(pIsDpadDown);
-            bool isDpadLeft = GetPadProp(pIsDpadLeft);
-            bool isDpadRight = GetPadProp(pIsDpadRight);
-            bool isSelect = GetPadProp(pIsSelect) || Input.GetKey(KeyCode.JoystickButton6);
+                // Header Title
+                GUIStyle titleStyle = new GUIStyle();
+                titleStyle.alignment = TextAnchor.MiddleCenter;
+                titleStyle.fontSize = 17;
+                titleStyle.fontStyle = FontStyle.Bold;
+                titleStyle.normal.textColor = Color.white;
+                GUI.color = Color.white;
+                GUI.Label(new Rect(panelX, panelY + 4, panelW, 36), "CẤU HÌNH VIỆT HÓA & CHEAT SETSUNA", titleStyle);
 
-            // Debouncing trigger edges (1 click per press)
-            bool pressUp = isDpadUp && !prevPadUp;
-            bool pressDown = isDpadDown && !prevPadDown;
-            bool pressLeft = isDpadLeft && !prevPadLeft;
-            bool pressRight = isDpadRight && !prevPadRight;
-            bool pressSelect = isSelect && !prevPadSelect;
-            bool pressL3R3 = (isL3 && isR3) && !prevPadL3R3;
+                // Subtitle Info
+                uint curGold = GetCurrentMoney();
+                int curScalePercent = Mathf.RoundToInt((fontScale < 0 ? 1.25f : fontScale) * 100f);
+                GUIStyle infoStyle = new GUIStyle();
+                infoStyle.alignment = TextAnchor.MiddleCenter;
+                infoStyle.fontSize = 14;
+                infoStyle.fontStyle = FontStyle.Bold;
+                infoStyle.normal.textColor = new Color(0.95f, 0.85f, 0.30f);
+                GUI.Label(new Rect(panelX, panelY + 50, panelW, 26), 
+                    string.Format("Cỡ chữ: {0}% | Tiền vàng: {1:N0} G", curScalePercent, curGold), infoStyle);
 
-            prevPadUp = isDpadUp;
-            prevPadDown = isDpadDown;
-            prevPadLeft = isDpadLeft;
-            prevPadRight = isDpadRight;
-            prevPadSelect = isSelect;
-            prevPadL3R3 = (isL3 && isR3);
+                // Section 1: Font Size Controls
+                int row1Y = panelY + 85;
+                GUI.Label(new Rect(panelX + 20, row1Y, panelW - 40, 22), "1. CỠ CHỮ HỘI THOẠI (1080p / 2K / 4K):");
 
-            bool holdL1R1 = isL1 && isR1;
-
-            // ========================================================
-            // A. GAMEPAD COMBO CONTROLS (GIỮ L1 + R1 / LB + RB)
-            // ========================================================
-            if (holdL1R1)
-            {
-                // [L1 + R1] + D-Pad Lên: Tăng cỡ chữ
-                if (pressUp)
-                {
-                    userAdjustedScale = true;
-                    fontScale = Mathf.Min(2.00f, fontScale + 0.05f);
-                    ApplyFontAndLayoutToVietnameseText(true);
-                    ShowNotification(string.Format("GAMEPAD [L1+R1+LÊN]: CỠ CHỮ {0}%", Mathf.RoundToInt(fontScale * 100f)));
-                }
-                // [L1 + R1] + D-Pad Xuống: Giảm cỡ chữ
-                else if (pressDown)
+                int bW = (panelW - 60) / 3;
+                if (GUI.Button(new Rect(panelX + 20, row1Y + 24, bW, 44), "[-] Giảm 5%\n(D-Pad Xuống / F6)"))
                 {
                     userAdjustedScale = true;
                     fontScale = Mathf.Max(0.80f, fontScale - 0.05f);
                     ApplyFontAndLayoutToVietnameseText(true);
-                    ShowNotification(string.Format("GAMEPAD [L1+R1+XUỐNG]: CỠ CHỮ {0}%", Mathf.RoundToInt(fontScale * 100f)));
                 }
-                // [L1 + R1] + D-Pad Trái: Cheat +500.000 Vàng
-                else if (pressLeft)
+                if (GUI.Button(new Rect(panelX + 20 + bW + 10, row1Y + 24, bW, 44), "[+] Tăng 5%\n(D-Pad Lên / F7)"))
+                {
+                    userAdjustedScale = true;
+                    fontScale = Mathf.Min(2.00f, fontScale + 0.05f);
+                    ApplyFontAndLayoutToVietnameseText(true);
+                }
+                if (GUI.Button(new Rect(panelX + 20 + (bW + 10) * 2, row1Y + 24, bW, 44), "Mặc Định\n(125%)"))
+                {
+                    userAdjustedScale = true;
+                    fontScale = 1.25f;
+                    ApplyFontAndLayoutToVietnameseText(true);
+                }
+
+                // Section 2: Gold Cheat Controls
+                int row2Y = row1Y + 80;
+                GUI.Label(new Rect(panelX + 20, row2Y, panelW - 40, 22), "2. CHEAT TIỀN VÀNG (GOLD):");
+
+                int bW2 = (panelW - 50) / 2;
+                if (GUI.Button(new Rect(panelX + 20, row2Y + 24, bW2, 44), "+500.000 Vàng\n(D-Pad Trái / F8)"))
                 {
                     AddMoneyCheat(500000);
                 }
-                // [L1 + R1] + D-Pad Phải: Cheat Max 99.999.999 Vàng
-                else if (pressRight)
+                if (GUI.Button(new Rect(panelX + 20 + bW2 + 10, row2Y + 24, bW2, 44), "Tối Đa 99.999.999 Vàng\n(D-Pad Phải / F9)"))
                 {
                     SetMaxMoneyCheat();
                 }
-                // [L1 + R1] + Select: Bật hướng dẫn
-                else if (pressSelect)
+
+                // Section 3: Close Button & Shortcut Tips
+                int row3Y = row2Y + 80;
+                GUIStyle tipStyle = new GUIStyle();
+                tipStyle.alignment = TextAnchor.MiddleCenter;
+                tipStyle.fontSize = 11;
+                tipStyle.normal.textColor = Color.gray;
+                GUI.Label(new Rect(panelX, row3Y, panelW, 20), "Mở lại menu: Chạm [⚙] hoặc Giữ [L1+R1+Select] 1.5s / Bấm F1", tipStyle);
+
+                if (GUI.Button(new Rect(panelX + 30, row3Y + 22, panelW - 60, 36), "ĐÓNG BẢNG ĐIỀU KHIỂN (B / Circle / Esc)"))
                 {
-                    ShowNotification("[L1+R1]+D-Pad Lên/Xuống: Cỡ chữ | +Trái: +500k G | +Phải: Max G | L3+R3: +500k G");
+                    menuOpen = false;
                 }
-            }
-
-            // Gamepad Shortcut: Nhấn đồng thời 2 cần Analog (L3 + R3) -> Cộng 500k Vàng & Bật Hướng dẫn
-            if (pressL3R3)
-            {
-                AddMoneyCheat(500000);
-            }
-
-            // ========================================================
-            // B. KEYBOARD HOTKEYS (BÀN PHÍM PC)
-            // ========================================================
-            // F1: Hướng dẫn
-            if (Input.GetKeyDown(KeyCode.F1))
-            {
-                ShowNotification("[F6/F7]: Cỡ chữ | [F8]: +500k G | [F9]: Max G | Gamepad: [L1+R1]+D-Pad");
-            }
-
-            // F6: Giảm cỡ chữ
-            if (Input.GetKeyDown(KeyCode.F6))
-            {
-                userAdjustedScale = true;
-                fontScale = Mathf.Max(0.80f, fontScale - 0.05f);
-                ApplyFontAndLayoutToVietnameseText(true);
-                ShowNotification(string.Format("CỠ CHỮ VIỆT HÓA: {0}% (MẶC ĐỊNH: 125%)", Mathf.RoundToInt(fontScale * 100f)));
-            }
-
-            // F7: Tăng cỡ chữ
-            if (Input.GetKeyDown(KeyCode.F7))
-            {
-                userAdjustedScale = true;
-                fontScale = Mathf.Min(2.00f, fontScale + 0.05f);
-                ApplyFontAndLayoutToVietnameseText(true);
-                ShowNotification(string.Format("CỠ CHỮ VIỆT HÓA: {0}% (MẶC ĐỊNH: 125%)", Mathf.RoundToInt(fontScale * 100f)));
-            }
-
-            // F8: Cheat +500,000 Vàng
-            if (Input.GetKeyDown(KeyCode.F8))
-            {
-                AddMoneyCheat(500000);
-            }
-
-            // F9: Cheat Max Vàng
-            if (Input.GetKeyDown(KeyCode.F9))
-            {
-                SetMaxMoneyCheat();
             }
         }
     }

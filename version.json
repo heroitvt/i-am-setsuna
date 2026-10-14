@@ -1,15 +1,15 @@
 {
-  "version": "1.3.3",
-  "version_code": 133,
+  "version": "1.3.4",
+  "version_code": 134,
   "release_date": "13/10/2026",
-  "title": "Bản phát hành Nâng cấp: Hỗ Trợ Tay Cầm Gamepad (Xbox/PlayStation) & Cheat Tiền",
+  "title": "Bản phát hành Nâng cấp: Tương Thích Hoàn Hảo ROG Ally / Máy Cầm Tay & Cảm Ứng",
   "changelog": [
-    "Hỗ trợ đầy đủ tay cầm Gamepad (Xbox / PlayStation): Giữ [L1 + R1] kết hợp D-Pad cực kỳ thuận tiện",
-    "Gamepad: Giữ [L1 + R1] + D-Pad Lên / Xuống để tăng / giảm cỡ chữ",
-    "Gamepad: Giữ [L1 + R1] + D-Pad Trái (+500.000 Vàng) | D-Pad Phải (Max 99.999.999 Vàng)",
-    "Gamepad: Nhấn đồng thời 2 cần Analog [L3 + R3] để nhận ngay +500.000 Vàng",
-    "Gamepad: Giữ [L1 + R1] + Select để xem bảng hướng dẫn phím tắt trên màn hình",
-    "Bàn phím PC vẫn giữ nguyên: [F1] Hướng dẫn, [F6/F7] Cỡ chữ, [F8] +500k G, [F9] Max G"
+    "Khắc phục triệt để lỗi chạm phím / xung đột phím ảo trên ASUS ROG Ally, Steam Deck và các dòng máy cầm tay",
+    "Gỡ bỏ hoàn toàn việc đọc raw JoystickButton DirectInput gây kẹt phím từ cảm biến gyro / nút macro M1/M2 của ROG Ally",
+    "Thêm Nút Cảm Ứng [⚙ Menu Tiện Ích] góc trên màn hình: Chạm ngón tay trực tiếp trên màn hình ROG Ally để chỉnh cỡ chữ & cheat vàng cực tiện",
+    "Cơ chế Gamepad an toàn 100%: Chỉ kích hoạt bảng điều khiển khi cố ý GIỮ [L1 + R1 + Select] (hoặc L2 + R2 + Select) trong 1.5 giây",
+    "Khi đóng bảng menu: Toàn bộ phím Gamepad (D-Pad, L1, R1, L3, R3) hoạt động 100% nguyên bản của game, không can thiệp hay cản trở gameplay",
+    "Bàn phím PC vẫn hoạt động đầy đủ: [F1] Bật/Tắt Menu, [F6/F7] Cỡ chữ, [F8] +500k G, [F9] Max G"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
