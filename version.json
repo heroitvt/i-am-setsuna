@@ -1,15 +1,13 @@
 {
-  "version": "1.3.4",
-  "version_code": 134,
+  "version": "1.3.2",
+  "version_code": 132,
   "release_date": "13/10/2026",
-  "title": "Bản phát hành Nâng cấp: Tương Thích Hoàn Hảo ROG Ally / Máy Cầm Tay & Cảm Ứng",
+  "title": "Bản phát hành Nâng cấp: Tăng Cỡ Chữ 1080p & Tích Hợp Cheat Tiền Vàng",
   "changelog": [
-    "Khắc phục triệt để lỗi chạm phím / xung đột phím ảo trên ASUS ROG Ally, Steam Deck và các dòng máy cầm tay",
-    "Gỡ bỏ hoàn toàn việc đọc raw JoystickButton DirectInput gây kẹt phím từ cảm biến gyro / nút macro M1/M2 của ROG Ally",
-    "Thêm Nút Cảm Ứng [⚙ Menu Tiện Ích] góc trên màn hình: Chạm ngón tay trực tiếp trên màn hình ROG Ally để chỉnh cỡ chữ & cheat vàng cực tiện",
-    "Cơ chế Gamepad an toàn 100%: Chỉ kích hoạt bảng điều khiển khi cố ý GIỮ [L1 + R1 + Select] (hoặc L2 + R2 + Select) trong 1.5 giây",
-    "Khi đóng bảng menu: Toàn bộ phím Gamepad (D-Pad, L1, R1, L3, R3) hoạt động 100% nguyên bản của game, không can thiệp hay cản trở gameplay",
-    "Bàn phím PC vẫn hoạt động đầy đủ: [F1] Bật/Tắt Menu, [F6/F7] Cỡ chữ, [F8] +500k G, [F9] Max G"
+    "Tự động tăng cỡ chữ mặc định +25% tại độ phân giải 1080p/2K/4K, giúp text to rõ, sắc nét, dễ đọc trên màn hình lớn",
+    "Tích hợp phím tắt tinh chỉnh cỡ chữ theo ý thích ngay trong game: [F6] Giảm 5%, [F7] Tăng 5%",
+    "Tích hợp tính năng Cheat Tiền Vàng: [F8] Thêm +500.000 Vàng, [F9] Đầy tiền 99.999.999 Vàng",
+    "Phím tắt [F1]: Hiển thị thanh thông báo hướng dẫn phím tắt và trạng thái tiền vàng ngay trên màn hình"
   ],
   "download_url": "https://raw.githubusercontent.com/heroitvt/i-am-setsuna/main/Setsuna_VietHoa_Patch.zip",
   "files": [
